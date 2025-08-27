@@ -12,7 +12,7 @@ const postToDiscord = async (embed) => {
 };
 
 const getPBContent = async (id) => {
-  return await (await fetch("https://pastebin.com/raw" + id)).text();
+  return null
 };
 const parsePasteBin = async (html) => {
   const $ = cheerio.load(html);
@@ -25,7 +25,6 @@ const parsePasteBin = async (html) => {
           link: "https://pastebin.com" + id,
           title: $(el.find("td>a")).text(),
           syntax: $(el.find("td:nth-child(3)>a")).text(),
-          content: await getPBContent(id),
         };
       })
       .get()
@@ -79,7 +78,7 @@ async function main() {
         { name: "Title", value: paste.title || "Untitled" },
         { name: "Syntax", value: paste.syntax || "None", inline: true },
       ],
-      description: "```" + desc + "```",
+      description: "",
       footer: { text: "Pastebin Monitor" },
       timestamp: new Date().toISOString(),
     });
