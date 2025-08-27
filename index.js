@@ -65,10 +65,6 @@ async function main() {
 
   // notify about new pastebins
   for (const paste of comparedPasteBin) {
-    const desc =
-      paste.content.length > 4000
-        ? paste.content.slice(0, 4000) + "\n...truncated"
-        : paste.content;
 
     await postToDiscord({
       title: "📄 New Pastebin Detected",
