@@ -66,45 +66,10 @@ async function main() {
   // notify about new pastebins
   for (const paste of comparedPasteBin) {
 
-    await postToDiscord({
-      title: "📄 New Pastebin Detected",
-      url: paste.link,
-      color: 15158332,
-      fields: [
-        { name: "Title", value: paste.title || "Untitled" },
-        { name: "Syntax", value: paste.syntax || "None", inline: true },
-      ],
-      description: "",
-      footer: { text: "Pastebin Monitor" },
-      timestamp: new Date().toISOString(),
-    });
+    await postToDiscord( {content:"pastes/gists created, find them here: https://example.com"});
   }
 
-  // notify about new gists
-  for (const gist of comparedGists) {
-    const files = Object.values(gist.files || {});
-    const filenames = files.map((f) => f.filename).join(", ");
-    const firstFile = files[0];
-    const preview =
-      firstFile && firstFile.content
-        ? firstFile.content.length > 4000
-          ? firstFile.content.slice(0, 4000) + "\n...truncated"
-          : firstFile.content
-        : "";
 
-    await postToDiscord({
-      title: "🔎 New Gist Detected",
-      url: gist.html_url,
-      color: 3447003,
-      fields: [
-        { name: "ID", value: gist.id, inline: true },
-        { name: "Files", value: filenames || "none", inline: true },
-      ],
-      description: preview ? "```" + preview + "```" : "",
-      footer: { text: "Gist Monitor" },
-      timestamp: gist.created_at,
-    });
-  }
 
   // save latest state
   await fs.writeFile(
@@ -115,6 +80,16 @@ async function main() {
   await fs.writeFile(
     "data/pastebin.json",
     JSON.stringify(pasteBinData, null, 2),
+    "utf-8"
+  );
+    await fs.writeFile(
+    "data/gists.diff.json",
+    JSON.stringify(comparedGists, null, 2),
+    "utf-8"
+  );
+  await fs.writeFile(
+    "data/pastebin.diff.json",
+    JSON.stringify(comparedPasteBin, null, 2),
     "utf-8"
   );
 }
