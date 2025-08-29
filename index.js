@@ -7,7 +7,7 @@ const postToDiscord = async (embed) => {
   await fetch(WEBHOOK_URL, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ embeds: [embed] }),
+    body: JSON.stringify({ content:embed }),
   });
 };
 
@@ -63,11 +63,7 @@ async function main() {
     comparedGists.push(gist);
   }
 
-  // notify about new pastebins
-  for (const paste of comparedPasteBin) {
-
-    await postToDiscord( {content:"pastes/gists created, find them here: https://example.com"});
-  }
+  if (comparedGists.length || comparedPasteBin.length)     await postToDiscord( {content:"pastes/gists created, find them here: https://example.com"});
 
 
 
