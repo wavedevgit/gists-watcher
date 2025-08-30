@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>New Gists & Pastes</title>
+  <style>
+    body {
+      background: #0d0d0d;
+      color: #e0e0e0;
+      font-family: "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 40px;
+      line-height: 1.5;
+    }
+    h1, h2 {
+      background: linear-gradient(90deg, #6a5acd, #00bcd4);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+    }
+    h2 {
+      font-size: 1.5em;
+      margin-top: 40px;
+    }
+    .card {
+      background: #1a1a1a;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 24px rgba(0,0,0,0.6);
+    }
+    .card a {
+      color: #82d2ff;
+      font-size: 1.1em;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .card a:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+    .filename {
+      font-size: 0.9em;
+      color: #aaa;
+      margin-top: 6px;
+    }
+    .owner {
+      font-size: 0.85em;
+      color: #888;
+      margin-top: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1>New Gists & Pastes</h1>
+
+  <div class="section" id="gists">
+    <h2>New Gists</h2>
+    <div id="gists-container"></div>
+  </div>
+
+  <div class="section" id="pastebin">
+    <h2>New Pastes</h2>
+    <div id="pastebin-container"></div>
+  </div>
+
+  <script>
+    const base = "https://raw.githubusercontent.com/wavedevgit/gists-watcher/refs/heads/main/data/";
+
+    async function loadJson(file) {
+      const res = await fetch(base + file);
+      return res.json();
+    }
+
+    function createGistCard(gist) {
+      const card = document.createElement("div");
+      card.className = "card";
+      card.innerHTML = `
+        <a href="${gist.html_url}" target="_blank">${gist.description || '(no description)'}</a>
+        <div class="filename">
+          Files: ${Object.values(gist.files).map(f => f.filename).join(", ")}
+        </div>
+        <div class="owner">by <a href="${gist.owner.html_url}" target="_blank">${gist.owner.login}</a></div>
+      `;
+      return card;
+    }
+
+    function createPastebinCard(p) {
+      const card = document.createElement("div");
+      card.className = "card";
+      const cleanTitle = p.title.replace(/\s*JavaScript$/i, ""); // clean accidental syntax suffix
+      card.innerHTML = `<a href="${p.link}" target="_blank">${cleanTitle}</a>`;
+      return card;
+    }
+
+    async function init() {
+      const gists = await loadJson("gists.diff.json");
+      const gistContainer = document.getElementById("gists-container");
+      gists.forEach(g => gistContainer.appendChild(createGistCard(g)));
+
+      const pastebin = await loadJson("pastebin.diff.json");
+      const pastebinContainer = document.getElementById("pastebin-container");
+      pastebin.forEach(p => pastebinContainer.appendChild(createPastebinCard(p)));
+    }
+
+    init();
+  </script>
+</body>
+</html>
