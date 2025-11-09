@@ -1,47 +1,194 @@
 [
   {
-    "url": "https://api.github.com/gists/a92cf80e2226d05fe5dfe55d15818d59",
-    "forks_url": "https://api.github.com/gists/a92cf80e2226d05fe5dfe55d15818d59/forks",
-    "commits_url": "https://api.github.com/gists/a92cf80e2226d05fe5dfe55d15818d59/commits",
-    "id": "a92cf80e2226d05fe5dfe55d15818d59",
-    "node_id": "G_kwDOAWatx9oAIGE5MmNmODBlMjIyNmQwNWZlNWRmZTU1ZDE1ODE4ZDU5",
-    "git_pull_url": "https://gist.github.com/a92cf80e2226d05fe5dfe55d15818d59.git",
-    "git_push_url": "https://gist.github.com/a92cf80e2226d05fe5dfe55d15818d59.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/a92cf80e2226d05fe5dfe55d15818d59",
+    "url": "https://api.github.com/gists/1e7adfabd2ddcedfc03d1ff04b8068d3",
+    "forks_url": "https://api.github.com/gists/1e7adfabd2ddcedfc03d1ff04b8068d3/forks",
+    "commits_url": "https://api.github.com/gists/1e7adfabd2ddcedfc03d1ff04b8068d3/commits",
+    "id": "1e7adfabd2ddcedfc03d1ff04b8068d3",
+    "node_id": "G_kwDOC0XNHNoAIDFlN2FkZmFiZDJkZGNlZGZjMDNkMWZmMDRiODA2OGQz",
+    "git_pull_url": "https://gist.github.com/1e7adfabd2ddcedfc03d1ff04b8068d3.git",
+    "git_push_url": "https://gist.github.com/1e7adfabd2ddcedfc03d1ff04b8068d3.git",
+    "html_url": "https://gist.github.com/THEGAMER652/1e7adfabd2ddcedfc03d1ff04b8068d3",
     "files": {
-      "output_log.txt": {
-        "filename": "output_log.txt",
+      "script.lua": {
+        "filename": "script.lua",
+        "type": "text/plain",
+        "language": "Lua",
+        "raw_url": "https://gist.githubusercontent.com/THEGAMER652/1e7adfabd2ddcedfc03d1ff04b8068d3/raw/ab9fdd786e52e98373c4a24ccbd8406ee4fcb4e2/script.lua",
+        "size": 165
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-09T11:48:59Z",
+    "updated_at": "2025-11-09T11:48:59Z",
+    "description": null,
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/1e7adfabd2ddcedfc03d1ff04b8068d3/comments",
+    "owner": {
+      "login": "THEGAMER652",
+      "id": 189123868,
+      "node_id": "U_kgDOC0XNHA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189123868?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/THEGAMER652",
+      "html_url": "https://github.com/THEGAMER652",
+      "followers_url": "https://api.github.com/users/THEGAMER652/followers",
+      "following_url": "https://api.github.com/users/THEGAMER652/following{/other_user}",
+      "gists_url": "https://api.github.com/users/THEGAMER652/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/THEGAMER652/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/THEGAMER652/subscriptions",
+      "organizations_url": "https://api.github.com/users/THEGAMER652/orgs",
+      "repos_url": "https://api.github.com/users/THEGAMER652/repos",
+      "events_url": "https://api.github.com/users/THEGAMER652/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/THEGAMER652/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e2254fe6a2b73d870c6c06588811cb59",
+    "forks_url": "https://api.github.com/gists/e2254fe6a2b73d870c6c06588811cb59/forks",
+    "commits_url": "https://api.github.com/gists/e2254fe6a2b73d870c6c06588811cb59/commits",
+    "id": "e2254fe6a2b73d870c6c06588811cb59",
+    "node_id": "G_kwDOC0XNHNoAIGUyMjU0ZmU2YTJiNzNkODcwYzZjMDY1ODg4MTFjYjU5",
+    "git_pull_url": "https://gist.github.com/e2254fe6a2b73d870c6c06588811cb59.git",
+    "git_push_url": "https://gist.github.com/e2254fe6a2b73d870c6c06588811cb59.git",
+    "html_url": "https://gist.github.com/THEGAMER652/e2254fe6a2b73d870c6c06588811cb59",
+    "files": {
+      "script.lua": {
+        "filename": "script.lua",
+        "type": "text/plain",
+        "language": "Lua",
+        "raw_url": "https://gist.githubusercontent.com/THEGAMER652/e2254fe6a2b73d870c6c06588811cb59/raw/42a78e8f25be6efc62af3bdaa3ebe1a82409e241/script.lua",
+        "size": 165
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-09T11:48:47Z",
+    "updated_at": "2025-11-09T11:48:47Z",
+    "description": null,
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/e2254fe6a2b73d870c6c06588811cb59/comments",
+    "owner": {
+      "login": "THEGAMER652",
+      "id": 189123868,
+      "node_id": "U_kgDOC0XNHA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189123868?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/THEGAMER652",
+      "html_url": "https://github.com/THEGAMER652",
+      "followers_url": "https://api.github.com/users/THEGAMER652/followers",
+      "following_url": "https://api.github.com/users/THEGAMER652/following{/other_user}",
+      "gists_url": "https://api.github.com/users/THEGAMER652/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/THEGAMER652/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/THEGAMER652/subscriptions",
+      "organizations_url": "https://api.github.com/users/THEGAMER652/orgs",
+      "repos_url": "https://api.github.com/users/THEGAMER652/repos",
+      "events_url": "https://api.github.com/users/THEGAMER652/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/THEGAMER652/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/7ac83be595a94a1bbd40496e786bf1b1",
+    "forks_url": "https://api.github.com/gists/7ac83be595a94a1bbd40496e786bf1b1/forks",
+    "commits_url": "https://api.github.com/gists/7ac83be595a94a1bbd40496e786bf1b1/commits",
+    "id": "7ac83be595a94a1bbd40496e786bf1b1",
+    "node_id": "G_kwDOC0XNHNoAIDdhYzgzYmU1OTVhOTRhMWJiZDQwNDk2ZTc4NmJmMWIx",
+    "git_pull_url": "https://gist.github.com/7ac83be595a94a1bbd40496e786bf1b1.git",
+    "git_push_url": "https://gist.github.com/7ac83be595a94a1bbd40496e786bf1b1.git",
+    "html_url": "https://gist.github.com/THEGAMER652/7ac83be595a94a1bbd40496e786bf1b1",
+    "files": {
+      "script.lua": {
+        "filename": "script.lua",
+        "type": "text/plain",
+        "language": "Lua",
+        "raw_url": "https://gist.githubusercontent.com/THEGAMER652/7ac83be595a94a1bbd40496e786bf1b1/raw/092630101307b9dd4c486be1c9ab14031c2f6fcc/script.lua",
+        "size": 165
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-09T11:48:37Z",
+    "updated_at": "2025-11-09T11:48:37Z",
+    "description": null,
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/7ac83be595a94a1bbd40496e786bf1b1/comments",
+    "owner": {
+      "login": "THEGAMER652",
+      "id": 189123868,
+      "node_id": "U_kgDOC0XNHA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189123868?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/THEGAMER652",
+      "html_url": "https://github.com/THEGAMER652",
+      "followers_url": "https://api.github.com/users/THEGAMER652/followers",
+      "following_url": "https://api.github.com/users/THEGAMER652/following{/other_user}",
+      "gists_url": "https://api.github.com/users/THEGAMER652/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/THEGAMER652/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/THEGAMER652/subscriptions",
+      "organizations_url": "https://api.github.com/users/THEGAMER652/orgs",
+      "repos_url": "https://api.github.com/users/THEGAMER652/repos",
+      "events_url": "https://api.github.com/users/THEGAMER652/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/THEGAMER652/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/19bd0bb1fa52cb2120399e44b686e010",
+    "forks_url": "https://api.github.com/gists/19bd0bb1fa52cb2120399e44b686e010/forks",
+    "commits_url": "https://api.github.com/gists/19bd0bb1fa52cb2120399e44b686e010/commits",
+    "id": "19bd0bb1fa52cb2120399e44b686e010",
+    "node_id": "G_kwDOABXZYNoAIDE5YmQwYmIxZmE1MmNiMjEyMDM5OWU0NGI2ODZlMDEw",
+    "git_pull_url": "https://gist.github.com/19bd0bb1fa52cb2120399e44b686e010.git",
+    "git_push_url": "https://gist.github.com/19bd0bb1fa52cb2120399e44b686e010.git",
+    "html_url": "https://gist.github.com/konard/19bd0bb1fa52cb2120399e44b686e010",
+    "files": {
+      "solution-draft-log-pr-1762688908078.txt": {
+        "filename": "solution-draft-log-pr-1762688908078.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/a92cf80e2226d05fe5dfe55d15818d59/raw/0aeca65db97a5b725e334d7f8b181c881ed9fef2/output_log.txt",
-        "size": 2423578
+        "raw_url": "https://gist.githubusercontent.com/konard/19bd0bb1fa52cb2120399e44b686e010/raw/bbf0d7a70d2e61ff9fee438972ea2e3653d241d2/solution-draft-log-pr-1762688908078.txt",
+        "size": 230894
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:37:35Z",
-    "updated_at": "2025-11-09T11:37:36Z",
-    "description": "Rimworld output log published using HugsLib",
+    "created_at": "2025-11-09T11:48:29Z",
+    "updated_at": "2025-11-09T11:48:29Z",
+    "description": "Solution draft log for https://github.com/konard/hh-questions/pull/23",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/a92cf80e2226d05fe5dfe55d15818d59/comments",
+    "comments_url": "https://api.github.com/gists/19bd0bb1fa52cb2120399e44b686e010/comments",
     "owner": {
-      "login": "HugsLibRecordKeeper",
-      "id": 23506375,
-      "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
+      "login": "konard",
+      "id": 1431904,
+      "node_id": "MDQ6VXNlcjE0MzE5MDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1431904?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/HugsLibRecordKeeper",
-      "html_url": "https://github.com/HugsLibRecordKeeper",
-      "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
-      "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
-      "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
-      "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
-      "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
-      "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
+      "url": "https://api.github.com/users/konard",
+      "html_url": "https://github.com/konard",
+      "followers_url": "https://api.github.com/users/konard/followers",
+      "following_url": "https://api.github.com/users/konard/following{/other_user}",
+      "gists_url": "https://api.github.com/users/konard/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/konard/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/konard/subscriptions",
+      "organizations_url": "https://api.github.com/users/konard/orgs",
+      "repos_url": "https://api.github.com/users/konard/repos",
+      "events_url": "https://api.github.com/users/konard/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/konard/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -49,48 +196,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/ad093842e526fc156694642af167192c",
-    "forks_url": "https://api.github.com/gists/ad093842e526fc156694642af167192c/forks",
-    "commits_url": "https://api.github.com/gists/ad093842e526fc156694642af167192c/commits",
-    "id": "ad093842e526fc156694642af167192c",
-    "node_id": "G_kwDODWDFaNoAIGFkMDkzODQyZTUyNmZjMTU2Njk0NjQyYWYxNjcxOTJj",
-    "git_pull_url": "https://gist.github.com/ad093842e526fc156694642af167192c.git",
-    "git_push_url": "https://gist.github.com/ad093842e526fc156694642af167192c.git",
-    "html_url": "https://gist.github.com/ywxlol/ad093842e526fc156694642af167192c",
+    "url": "https://api.github.com/gists/14d683e339ea8019991c33bd474ff340",
+    "forks_url": "https://api.github.com/gists/14d683e339ea8019991c33bd474ff340/forks",
+    "commits_url": "https://api.github.com/gists/14d683e339ea8019991c33bd474ff340/commits",
+    "id": "14d683e339ea8019991c33bd474ff340",
+    "node_id": "G_kwDOC0XNHNoAIDE0ZDY4M2UzMzllYTgwMTk5OTFjMzNiZDQ3NGZmMzQw",
+    "git_pull_url": "https://gist.github.com/14d683e339ea8019991c33bd474ff340.git",
+    "git_push_url": "https://gist.github.com/14d683e339ea8019991c33bd474ff340.git",
+    "html_url": "https://gist.github.com/THEGAMER652/14d683e339ea8019991c33bd474ff340",
     "files": {
-      "package.json": {
-        "filename": "package.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/ywxlol/ad093842e526fc156694642af167192c/raw/1a3bcda2649771df43c54ffe80767baa454c7a6d/package.json",
-        "size": 61
+      "script.lua": {
+        "filename": "script.lua",
+        "type": "text/plain",
+        "language": "Lua",
+        "raw_url": "https://gist.githubusercontent.com/THEGAMER652/14d683e339ea8019991c33bd474ff340/raw/ed6912de70c87b1f47edf81fc3d2201e05b1089e/script.lua",
+        "size": 2359
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:36:27Z",
-    "updated_at": "2025-11-09T11:36:27Z",
-    "description": "MediusPlayer ",
+    "created_at": "2025-11-09T11:46:47Z",
+    "updated_at": "2025-11-09T11:46:47Z",
+    "description": null,
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/ad093842e526fc156694642af167192c/comments",
+    "comments_url": "https://api.github.com/gists/14d683e339ea8019991c33bd474ff340/comments",
     "owner": {
-      "login": "ywxlol",
-      "id": 224445800,
-      "node_id": "U_kgDODWDFaA",
-      "avatar_url": "https://avatars.githubusercontent.com/u/224445800?v=4",
+      "login": "THEGAMER652",
+      "id": 189123868,
+      "node_id": "U_kgDOC0XNHA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189123868?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ywxlol",
-      "html_url": "https://github.com/ywxlol",
-      "followers_url": "https://api.github.com/users/ywxlol/followers",
-      "following_url": "https://api.github.com/users/ywxlol/following{/other_user}",
-      "gists_url": "https://api.github.com/users/ywxlol/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/ywxlol/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/ywxlol/subscriptions",
-      "organizations_url": "https://api.github.com/users/ywxlol/orgs",
-      "repos_url": "https://api.github.com/users/ywxlol/repos",
-      "events_url": "https://api.github.com/users/ywxlol/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/ywxlol/received_events",
+      "url": "https://api.github.com/users/THEGAMER652",
+      "html_url": "https://github.com/THEGAMER652",
+      "followers_url": "https://api.github.com/users/THEGAMER652/followers",
+      "following_url": "https://api.github.com/users/THEGAMER652/following{/other_user}",
+      "gists_url": "https://api.github.com/users/THEGAMER652/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/THEGAMER652/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/THEGAMER652/subscriptions",
+      "organizations_url": "https://api.github.com/users/THEGAMER652/orgs",
+      "repos_url": "https://api.github.com/users/THEGAMER652/repos",
+      "events_url": "https://api.github.com/users/THEGAMER652/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/THEGAMER652/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -98,2236 +245,31 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/137d52358449824e6b99509c40f8d789",
-    "forks_url": "https://api.github.com/gists/137d52358449824e6b99509c40f8d789/forks",
-    "commits_url": "https://api.github.com/gists/137d52358449824e6b99509c40f8d789/commits",
-    "id": "137d52358449824e6b99509c40f8d789",
-    "node_id": "G_kwDOBJHh8toAIDEzN2Q1MjM1ODQ0OTgyNGU2Yjk5NTA5YzQwZjhkNzg5",
-    "git_pull_url": "https://gist.github.com/137d52358449824e6b99509c40f8d789.git",
-    "git_push_url": "https://gist.github.com/137d52358449824e6b99509c40f8d789.git",
-    "html_url": "https://gist.github.com/richyfabz/137d52358449824e6b99509c40f8d789",
-    "files": {
-      ".deps...npm...@openzeppelin...contracts...access...AccessControl.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...AccessControl.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/0c7ec6093dd2e9152a205aa1f0b21cf654e9a838/.deps...npm...%40openzeppelin...contracts...access...AccessControl.sol",
-        "size": 7028
-      },
-      ".deps...npm...@openzeppelin...contracts...access...IAccessControl.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...IAccessControl.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/23f0770a0100520c12012ae40f1a96aa7c32e972/.deps...npm...%40openzeppelin...contracts...access...IAccessControl.sol",
-        "size": 3343
-      },
-      ".deps...npm...@openzeppelin...contracts...access...Ownable.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...Ownable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/bd96f6661dcbf7b2d4948823ac0e7bfb4ba31fb1/.deps...npm...%40openzeppelin...contracts...access...Ownable.sol",
-        "size": 3102
-      },
-      ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/aef2b0a0eb956a02ef20a7840e826d36fdd25589/.deps...npm...%40openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "size": 6538
-      },
-      ".deps...npm...@openzeppelin...contracts...security...ReentrancyGuard.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...security...ReentrancyGuard.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/dac508b6a028c8741c8dfb328b9cf2f3e27ce241/.deps...npm...%40openzeppelin...contracts...security...ReentrancyGuard.sol",
-        "size": 3127
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/886febc552f78b1f1fbec494d96a54dff3620120/.deps...npm...%40openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "size": 10798
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/b493743a10c4fba04d91014cbdb7f69b639480c1/.deps...npm...%40openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "size": 2781
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/87bbafa84b834af1da027455bdc2e8a87beeb438/.deps...npm...%40openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "size": 684
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...Context.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...Context.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4e535fe03c243f864568b8f4430c17c25dbadb47/.deps...npm...%40openzeppelin...contracts...utils...Context.sol",
-        "size": 963
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...introspection...ERC165.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...introspection...ERC165.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/be4cc5a6749fcfed498e84f6ec3c5b68988c5606/.deps...npm...%40openzeppelin...contracts...utils...introspection...ERC165.sol",
-        "size": 879
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...introspection...IERC165.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...introspection...IERC165.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/be1932f267f9c794f21d934a6bc21a322c6d2709/.deps...npm...%40openzeppelin...contracts...utils...introspection...IERC165.sol",
-        "size": 871
-      },
-      ".deps...npm...forge-std...Test.sol": {
-        "filename": ".deps...npm...forge-std...Test.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/b0d7a5ed7468ca51cf6ffe3afe2a59e950489318/.deps...npm...forge-std...Test.sol",
-        "size": 22816
-      },
-      ".git...HEAD": {
-        "filename": ".git...HEAD",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/b870d82622c1a9ca6bcaf5df639680424a1904b0/.git...HEAD",
-        "size": 21
-      },
-      ".git...config": {
-        "filename": ".git...config",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/d545cdabdbddafca3501d2114506fc86e50e9824/.git...config",
-        "size": 130
-      },
-      ".prettierrc.json": {
-        "filename": ".prettierrc.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/b2a56f23717b4b9b8f05d45363a0fd58c657ce6e/.prettierrc.json",
-        "size": 758
-      },
-      ".states...vm-prague...state.json": {
-        "filename": ".states...vm-prague...state.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/9234cf8f984e7da2e2b6aeca9483f2aa22ff89af/.states...vm-prague...state.json",
-        "size": 81926
-      },
-      "Built_From_scratch...Array.sol": {
-        "filename": "Built_From_scratch...Array.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4d58bc996587ced927ef858cffbb966166cc4bd7/Built_From_scratch...Array.sol",
-        "size": 1614
-      },
-      "Built_From_scratch...Constant.sol": {
-        "filename": "Built_From_scratch...Constant.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/90ae4f9966006cb0910a47f3a5a0af142cb9d675/Built_From_scratch...Constant.sol",
-        "size": 210
-      },
-      "Built_From_scratch...Enum.sol": {
-        "filename": "Built_From_scratch...Enum.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/ee02ad4c91a912adaffbc1809d3be2c41810bd91/Built_From_scratch...Enum.sol",
-        "size": 473
-      },
-      "Built_From_scratch...First_app.sol": {
-        "filename": "Built_From_scratch...First_app.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/7c1693fe96e897eb06d2fd45cd83b011d96accd9/Built_From_scratch...First_app.sol",
-        "size": 313
-      },
-      "Built_From_scratch...For&WhileLoop.sol": {
-        "filename": "Built_From_scratch...For&WhileLoop.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/784f027cea1f737fe406dda546bf2f73f38fafd8/Built_From_scratch...For%26WhileLoop.sol",
-        "size": 393
-      },
-      "Built_From_scratch...GasAndGasPrice.sol": {
-        "filename": "Built_From_scratch...GasAndGasPrice.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/1e6bb346e3d7b049f62438eaa935280e720b5527/Built_From_scratch...GasAndGasPrice.sol",
-        "size": 218
-      },
-      "Built_From_scratch...Hello_World.sol": {
-        "filename": "Built_From_scratch...Hello_World.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4a0c23739bd6034c6ed60499fb9ac31c01954eaa/Built_From_scratch...Hello_World.sol",
-        "size": 128
-      },
-      "Built_From_scratch...IfOrElse.sol": {
-        "filename": "Built_From_scratch...IfOrElse.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/ec9ac7f5e13b4feb52555704c30c1f1216a6b313/Built_From_scratch...IfOrElse.sol",
-        "size": 421
-      },
-      "Built_From_scratch...Immutable.sol": {
-        "filename": "Built_From_scratch...Immutable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4068e967b05577960b28072f0cd2ba5530472798/Built_From_scratch...Immutable.sol",
-        "size": 285
-      },
-      "Built_From_scratch...Mapping.sol": {
-        "filename": "Built_From_scratch...Mapping.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/1e51959388d90932ba1ab4efd9221378077a7352/Built_From_scratch...Mapping.sol",
-        "size": 716
-      },
-      "Built_From_scratch...Primitive_DataTypes.sol": {
-        "filename": "Built_From_scratch...Primitive_DataTypes.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/cd5a7ce2bfb0921edddf51ff750ad5126dc3e9f9/Built_From_scratch...Primitive_DataTypes.sol",
-        "size": 455
-      },
-      "Built_From_scratch...R&W_State varables.sol": {
-        "filename": "Built_From_scratch...R&W_State varables.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/f6d1fe2308ddd139183fd254254706dfcc889c72/Built_From_scratch...R%26W_State%20varables.sol",
-        "size": 307
-      },
-      "Built_From_scratch...Struct.sol": {
-        "filename": "Built_From_scratch...Struct.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/c8053063e9f86d4668fb592bd3c4b2a8a77a72cf/Built_From_scratch...Struct.sol",
-        "size": 971
-      },
-      "Built_From_scratch...Value_types.sol": {
-        "filename": "Built_From_scratch...Value_types.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/f9181b7f552a5162406a2c4f40e6eb898a9ebe2a/Built_From_scratch...Value_types.sol",
-        "size": 952
-      },
-      "Built_From_scratch...Varables.sol": {
-        "filename": "Built_From_scratch...Varables.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4f0f49c672a3476e4d4c9068f9ddc797e6e81124/Built_From_scratch...Varables.sol",
-        "size": 339
-      },
-      "Built_From_scratch...etherAndWei.sol": {
-        "filename": "Built_From_scratch...etherAndWei.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/5e926d1d45e74037f589ce9bd6c32db5f15d5d36/Built_From_scratch...etherAndWei.sol",
-        "size": 325
-      },
-      "README.txt": {
-        "filename": "README.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/6d9087c1384a0644b420e577503f90ecadd74dba/README.txt",
-        "size": 1541
-      },
-      "RebaseToken...IRebaseToken.sol": {
-        "filename": "RebaseToken...IRebaseToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/f88d2b2cf2f449385a371823c820a1d2189b4273/RebaseToken...IRebaseToken.sol",
-        "size": 282
-      },
-      "RebaseToken...Rebase.t.sol": {
-        "filename": "RebaseToken...Rebase.t.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/d6f4d2b349eea26bc47bda934f46b03dfbf88a4a/RebaseToken...Rebase.t.sol",
-        "size": 6204
-      },
-      "RebaseToken...RebaseToken.sol": {
-        "filename": "RebaseToken...RebaseToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/69f0b02a14013dbc844e1a0a7e87ef81c11d0df4/RebaseToken...RebaseToken.sol",
-        "size": 8456
-      },
-      "RebaseToken...Vault.sol": {
-        "filename": "RebaseToken...Vault.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/7955794b7e17f3de6aa7b30da4ef6779b55b5b61/RebaseToken...Vault.sol",
-        "size": 1814
-      },
-      "artifacts...Arrays.json": {
-        "filename": "artifacts...Arrays.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/c01b47104e842ca524a320e9d3f2771ca00040c5/artifacts...Arrays.json",
-        "size": 186279
-      },
-      "artifacts...Arrays_metadata.json": {
-        "filename": "artifacts...Arrays_metadata.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/dd0c225a206cc9e6ce7677d000011f1336a23ebf/artifacts...Arrays_metadata.json",
-        "size": 3194
-      },
-      "artifacts...Ecommerce.json": {
-        "filename": "artifacts...Ecommerce.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/07e09afa03b3c1fe98d9b3423c2134bc0e9f4ab2/artifacts...Ecommerce.json",
-        "size": 574374
-      },
-      "artifacts...Ecommerce_metadata.json": {
-        "filename": "artifacts...Ecommerce_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/2c829a57b147bfa6a28b625bccb13bdc27f8405c/artifacts...Ecommerce_metadata.json",
-        "size": 4906
-      },
-      "artifacts...Enums.json": {
-        "filename": "artifacts...Enums.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/92750fb6d1e42f90d5ee4b4b5a4acab287f4f067/artifacts...Enums.json",
-        "size": 2045
-      },
-      "artifacts...Enums_metadata.json": {
-        "filename": "artifacts...Enums_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/bafd1e02e663d8c2267befdbbd72523a326c9645/artifacts...Enums_metadata.json",
-        "size": 839
-      },
-      "artifacts...RebaseToken.json": {
-        "filename": "artifacts...RebaseToken.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/42dcaf485e2ebe632d003ae7f4d8d3ede1097e12/artifacts...RebaseToken.json",
-        "size": 394910
-      },
-      "artifacts...RebaseToken_metadata.json": {
-        "filename": "artifacts...RebaseToken_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/f697fb610e61595abb45e8d51206560ccfad593b/artifacts...RebaseToken_metadata.json",
-        "size": 13468
-      },
-      "artifacts...VotingSystem.json": {
-        "filename": "artifacts...VotingSystem.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/a207d672b8ee1d78c238c0eae41b1bf1aa684b96/artifacts...VotingSystem.json",
-        "size": 100882
-      },
-      "artifacts...VotingSystem_metadata.json": {
-        "filename": "artifacts...VotingSystem_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/e2d7883e800e4d25e82c94ec0a7464d02cbb6c7a/artifacts...VotingSystem_metadata.json",
-        "size": 2481
-      },
-      "artifacts...VotingSysytem.json": {
-        "filename": "artifacts...VotingSysytem.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4065b936305b0bd6be1bbb337654b34ad5e8b349/artifacts...VotingSysytem.json",
-        "size": 341512
-      },
-      "artifacts...VotingSysytem_metadata.json": {
-        "filename": "artifacts...VotingSysytem_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/d91b9b060ee59dfde8031d687cd563b7ae8fc0e0/artifacts...VotingSysytem_metadata.json",
-        "size": 4398
-      },
-      "artifacts...build-info...1137dc0d0c1f7ec3fb8861cb06ddfdbf.json": {
-        "filename": "artifacts...build-info...1137dc0d0c1f7ec3fb8861cb06ddfdbf.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/d1803b128d71df0e0f64e12469fcac5fd17bebcb/artifacts...build-info...1137dc0d0c1f7ec3fb8861cb06ddfdbf.json",
-        "size": 767194
-      },
-      "artifacts...build-info...2d7a3e4a220e96f259606f0c1b67e653.json": {
-        "filename": "artifacts...build-info...2d7a3e4a220e96f259606f0c1b67e653.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/3121fdfc1c67021cbb52e743241752ce79cdf69a/artifacts...build-info...2d7a3e4a220e96f259606f0c1b67e653.json",
-        "size": 488035
-      },
-      "artifacts...build-info...6339ec3964346cb0923b668c2008f28f.json": {
-        "filename": "artifacts...build-info...6339ec3964346cb0923b668c2008f28f.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/3b12d308cd71fa82bf2d14ee482aa40a3e9f7156/artifacts...build-info...6339ec3964346cb0923b668c2008f28f.json",
-        "size": 266398
-      },
-      "artifacts...build-info...8385f58f2def23f67a55d22dc3844c22.json": {
-        "filename": "artifacts...build-info...8385f58f2def23f67a55d22dc3844c22.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/bb2b101d62b590df4331578c400e04f1ffa705ce/artifacts...build-info...8385f58f2def23f67a55d22dc3844c22.json",
-        "size": 321248
-      },
-      "artifacts...build-info...a65c19017b071920ccf9250947a16a02.json": {
-        "filename": "artifacts...build-info...a65c19017b071920ccf9250947a16a02.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/11a1e0e182b16951b6a65d0b75f2fe01845e0d53/artifacts...build-info...a65c19017b071920ccf9250947a16a02.json",
-        "size": 565103
-      },
-      "artifacts...build-info...bdacd75450f756df1ec87235ed43c370.json": {
-        "filename": "artifacts...build-info...bdacd75450f756df1ec87235ed43c370.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/68439876442052accf4793b66233c6cf0452268b/artifacts...build-info...bdacd75450f756df1ec87235ed43c370.json",
-        "size": 925670
-      },
-      "artifacts...build-info...bf2d3f792f79e8940a830d61608ca084.json": {
-        "filename": "artifacts...build-info...bf2d3f792f79e8940a830d61608ca084.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/f13c49ea74f80b8bb6f1f777a11f4fb611c6f9bb/artifacts...build-info...bf2d3f792f79e8940a830d61608ca084.json",
-        "size": 1580175
-      },
-      "artifacts...build-info...bff79abda84f5cff2d2b4718d0d7b023.json": {
-        "filename": "artifacts...build-info...bff79abda84f5cff2d2b4718d0d7b023.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/a97208d741487e4e6397f60312432cc6b2c2575b/artifacts...build-info...bff79abda84f5cff2d2b4718d0d7b023.json",
-        "size": 10826
-      },
-      "artifacts...build-info...fbc534c7bb529d959fb4ecbd3029d515.json": {
-        "filename": "artifacts...build-info...fbc534c7bb529d959fb4ecbd3029d515.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/96a764d90f74c13a80109276d804e6ad05801d7d/artifacts...build-info...fbc534c7bb529d959fb4ecbd3029d515.json",
-        "size": 667378
-      },
-      "artifacts...build-info...fd6889632cc612a5d10c4b4321744ef0.json": {
-        "filename": "artifacts...build-info...fd6889632cc612a5d10c4b4321744ef0.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/dce5591d6ea81831fc095f4848f63ce37582faba/artifacts...build-info...fd6889632cc612a5d10c4b4321744ef0.json",
-        "size": 1653745
-      },
-      "artifacts...coinFlippAttack.json": {
-        "filename": "artifacts...coinFlippAttack.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/a0271403150944b1273256e932b74f2acf99988f/artifacts...coinFlippAttack.json",
-        "size": 105030
-      },
-      "artifacts...coinFlippAttack_metadata.json": {
-        "filename": "artifacts...coinFlippAttack_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/2079c2b92882f4de672b962328aefcd8c587362f/artifacts...coinFlippAttack_metadata.json",
-        "size": 1830
-      },
-      "artifacts...simpleStorage.json": {
-        "filename": "artifacts...simpleStorage.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/727f89699f233a754964f5526db02de49647ea7b/artifacts...simpleStorage.json",
-        "size": 262078
-      },
-      "artifacts...simpleStorage_metadata.json": {
-        "filename": "artifacts...simpleStorage_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/5c2bae355871c76d17447539633a50d65a4e6101/artifacts...simpleStorage_metadata.json",
-        "size": 1865
-      },
-      "artifacts...structCalls.json": {
-        "filename": "artifacts...structCalls.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/da80337bcf80e476f5b38c85ab7bda901af9b0d9/artifacts...structCalls.json",
-        "size": 318944
-      },
-      "artifacts...structCalls_metadata.json": {
-        "filename": "artifacts...structCalls_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/8c46de880ce3167fdc79324163aee81c7b0d9653/artifacts...structCalls_metadata.json",
-        "size": 2964
-      },
-      "artifacts...telephoeAttack.json": {
-        "filename": "artifacts...telephoeAttack.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/9d995de7cbab11414d8b4020b6763770e35a287e/artifacts...telephoeAttack.json",
-        "size": 59862
-      },
-      "artifacts...telephoeAttack_metadata.json": {
-        "filename": "artifacts...telephoeAttack_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/7c1fac5d8ae7b2ed05a2882885f25b9fd720cf0f/artifacts...telephoeAttack_metadata.json",
-        "size": 1747
-      },
-      "artifacts...vault.json": {
-        "filename": "artifacts...vault.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/8637b5b434c28e5b1a200cd31f1c78efa19415b9/artifacts...vault.json",
-        "size": 102017
-      },
-      "artifacts...vault_metadata.json": {
-        "filename": "artifacts...vault_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/1d83a53c76ae34dda26e76ea225af7200ebf1524/artifacts...vault_metadata.json",
-        "size": 3564
-      },
-      "contracts...Building Contracts...Constant.sol": {
-        "filename": "contracts...Building Contracts...Constant.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/90ae4f9966006cb0910a47f3a5a0af142cb9d675/contracts...Building%20Contracts...Constant.sol",
-        "size": 210
-      },
-      "contracts...Building Contracts...First_app.sol": {
-        "filename": "contracts...Building Contracts...First_app.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/7c1693fe96e897eb06d2fd45cd83b011d96accd9/contracts...Building%20Contracts...First_app.sol",
-        "size": 313
-      },
-      "contracts...Building Contracts...For&WhileLoop.sol": {
-        "filename": "contracts...Building Contracts...For&WhileLoop.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/784f027cea1f737fe406dda546bf2f73f38fafd8/contracts...Building%20Contracts...For%26WhileLoop.sol",
-        "size": 393
-      },
-      "contracts...Building Contracts...GasAndGasPrice.sol": {
-        "filename": "contracts...Building Contracts...GasAndGasPrice.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/1e6bb346e3d7b049f62438eaa935280e720b5527/contracts...Building%20Contracts...GasAndGasPrice.sol",
-        "size": 218
-      },
-      "contracts...Building Contracts...Hello_World.sol": {
-        "filename": "contracts...Building Contracts...Hello_World.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4a0c23739bd6034c6ed60499fb9ac31c01954eaa/contracts...Building%20Contracts...Hello_World.sol",
-        "size": 128
-      },
-      "contracts...Building Contracts...IfOrElse.sol": {
-        "filename": "contracts...Building Contracts...IfOrElse.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/ec9ac7f5e13b4feb52555704c30c1f1216a6b313/contracts...Building%20Contracts...IfOrElse.sol",
-        "size": 421
-      },
-      "contracts...Building Contracts...Immutable.sol": {
-        "filename": "contracts...Building Contracts...Immutable.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4068e967b05577960b28072f0cd2ba5530472798/contracts...Building%20Contracts...Immutable.sol",
-        "size": 285
-      },
-      "contracts...Building Contracts...Mapping.sol": {
-        "filename": "contracts...Building Contracts...Mapping.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/e078a5aa168ae21aad9ac9659cf4dbfe91aa8e57/contracts...Building%20Contracts...Mapping.sol",
-        "size": 720
-      },
-      "contracts...Building Contracts...Primitive_DataTypes.sol": {
-        "filename": "contracts...Building Contracts...Primitive_DataTypes.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/cd5a7ce2bfb0921edddf51ff750ad5126dc3e9f9/contracts...Building%20Contracts...Primitive_DataTypes.sol",
-        "size": 455
-      },
-      "contracts...Building Contracts...R&W_State varables.sol": {
-        "filename": "contracts...Building Contracts...R&W_State varables.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/f6d1fe2308ddd139183fd254254706dfcc889c72/contracts...Building%20Contracts...R%26W_State%20varables.sol",
-        "size": 307
-      },
-      "contracts...Building Contracts...Varables.sol": {
-        "filename": "contracts...Building Contracts...Varables.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/4f0f49c672a3476e4d4c9068f9ddc797e6e81124/contracts...Building%20Contracts...Varables.sol",
-        "size": 339
-      },
-      "contracts...Building Contracts...etherAndWei.sol": {
-        "filename": "contracts...Building Contracts...etherAndWei.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/5e926d1d45e74037f589ce9bd6c32db5f15d5d36/contracts...Building%20Contracts...etherAndWei.sol",
-        "size": 325
-      },
-      "contracts...DSCEngine.sol": {
-        "filename": "contracts...DSCEngine.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/d1cef9c3350609cd15c92d9d3f82362013276b0b/contracts...DSCEngine.sol",
-        "size": 18122
-      },
-      "contracts...DSCEngine.t.sol": {
-        "filename": "contracts...DSCEngine.t.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/1d094cc21dd3a9d659e68c7b5ba511b891fe46c4/contracts...DSCEngine.t.sol",
-        "size": 5484
-      },
-      "contracts...Token.sol": {
-        "filename": "contracts...Token.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/91b3f837d2049ed02a02821933c7745effb871fa/contracts...Token.sol",
-        "size": 629
-      },
-      "contracts...coinFlip.sol": {
-        "filename": "contracts...coinFlip.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/7a9d6461e3e04179eacbe843b74d95594341908c/contracts...coinFlip.sol",
-        "size": 832
-      },
-      "contracts...coinFlipAttack.sol": {
-        "filename": "contracts...coinFlipAttack.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/52ae6caf1817f0e1d3bfed23c8f5a78dab80a028/contracts...coinFlipAttack.sol",
-        "size": 832
-      },
-      "contracts...telephone.sol": {
-        "filename": "contracts...telephone.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/d982dc74f072808b27c7321352da091407dd9349/contracts...telephone.sol",
-        "size": 309
-      },
-      "contracts...telephoneAttack.sol": {
-        "filename": "contracts...telephoneAttack.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/2feb4f490741c8d238041a43e17fdcc010a3b485/contracts...telephoneAttack.sol",
-        "size": 355
-      },
-      "contracts...tokenAttack.sol": {
-        "filename": "contracts...tokenAttack.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/ae1a3e3325ace3a25465d1ccde7aa2e832cb5f35/contracts...tokenAttack.sol",
-        "size": 496
-      },
-      "ecommerce conntract...Ecommerce.sol": {
-        "filename": "ecommerce conntract...Ecommerce.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/ad023bf91d289b38b4e79bbdd18b2048e87ccc8d/ecommerce%20conntract...Ecommerce.sol",
-        "size": 5365
-      },
-      "practiceContrats...simpleCounter.sol": {
-        "filename": "practiceContrats...simpleCounter.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/61fc0d0a77101e5a883dd7dcdf4457c9a822254e/practiceContrats...simpleCounter.sol",
-        "size": 672
-      },
-      "practiceContrats...simpleRegistry.sol": {
-        "filename": "practiceContrats...simpleRegistry.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/307088804133b58d57cffc51388b1c6006c75330/practiceContrats...simpleRegistry.sol",
-        "size": 2135
-      },
-      "practiceContrats...simpleStoragec.sol": {
-        "filename": "practiceContrats...simpleStoragec.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/3557f32bf09ed9e47c17d823727a6cdd746c60e8/practiceContrats...simpleStoragec.sol",
-        "size": 754
-      },
-      "practiceContrats...simpleVotingSystem.sol": {
-        "filename": "practiceContrats...simpleVotingSystem.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/78f64b4a89ca36f18293943cbb7332cced58ea68/practiceContrats...simpleVotingSystem.sol",
-        "size": 3993
-      },
-      "remix.config.json": {
-        "filename": "remix.config.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/331ab73c579a70cc251a40bee683f5edf49d1328/remix.config.json",
-        "size": 84
-      },
-      "scripts...deploy_with_ethers.ts": {
-        "filename": "scripts...deploy_with_ethers.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/513d496d7638a86e7b7339272f853a7053429336/scripts...deploy_with_ethers.ts",
-        "size": 488
-      },
-      "scripts...deploy_with_web3.ts": {
-        "filename": "scripts...deploy_with_web3.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/dca0bbcfddbe3f383747e26bc829500ea82e189e/scripts...deploy_with_web3.ts",
-        "size": 481
-      },
-      "scripts...ethers-lib.ts": {
-        "filename": "scripts...ethers-lib.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/c5dd03f7deb6a05afaadcd8218bdbcc41e571d5a/scripts...ethers-lib.ts",
-        "size": 1227
-      },
-      "scripts...web3-lib.ts": {
-        "filename": "scripts...web3-lib.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/ae81db65c54eb3c23b26a20307f150fd085d85eb/scripts...web3-lib.ts",
-        "size": 1302
-      },
-      "tests...Ballot_test.sol": {
-        "filename": "tests...Ballot_test.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/49146e99facba02fce64738239bec0b835cec15b/tests...Ballot_test.sol",
-        "size": 938
-      },
-      "tests...storage.test.js": {
-        "filename": "tests...storage.test.js",
-        "type": "text/javascript",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/137d52358449824e6b99509c40f8d789/raw/8e37b7c39b76b12519a9f931ba858624e573e1f7/tests...storage.test.js",
-        "size": 947
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:36:13Z",
-    "updated_at": "2025-11-09T11:36:14Z",
-    "description": "Created using remix-ide: Realtime Ethereum Contract Compiler and Runtime. \n Load this file by pasting this gists URL or ID at https://remix.ethereum.org/#version=soljson-v0.8.30+commit.73712a01.js&optimize=false&runs=200&gist=",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/137d52358449824e6b99509c40f8d789/comments",
-    "owner": {
-      "login": "richyfabz",
-      "id": 76669426,
-      "node_id": "MDQ6VXNlcjc2NjY5NDI2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/76669426?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/richyfabz",
-      "html_url": "https://github.com/richyfabz",
-      "followers_url": "https://api.github.com/users/richyfabz/followers",
-      "following_url": "https://api.github.com/users/richyfabz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/richyfabz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/richyfabz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/richyfabz/subscriptions",
-      "organizations_url": "https://api.github.com/users/richyfabz/orgs",
-      "repos_url": "https://api.github.com/users/richyfabz/repos",
-      "events_url": "https://api.github.com/users/richyfabz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/richyfabz/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/e9880133a2300591ff6981e9fae4a218",
-    "forks_url": "https://api.github.com/gists/e9880133a2300591ff6981e9fae4a218/forks",
-    "commits_url": "https://api.github.com/gists/e9880133a2300591ff6981e9fae4a218/commits",
-    "id": "e9880133a2300591ff6981e9fae4a218",
-    "node_id": "G_kwDODngb3toAIGU5ODgwMTMzYTIzMDA1OTFmZjY5ODFlOWZhZTRhMjE4",
-    "git_pull_url": "https://gist.github.com/e9880133a2300591ff6981e9fae4a218.git",
-    "git_push_url": "https://gist.github.com/e9880133a2300591ff6981e9fae4a218.git",
-    "html_url": "https://gist.github.com/bestpractes/e9880133a2300591ff6981e9fae4a218",
-    "files": {
-      "engineering_blogs.goggle": {
-        "filename": "engineering_blogs.goggle",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/bestpractes/e9880133a2300591ff6981e9fae4a218/raw/5e35baa342ebff16af0af84c68af23553bd4ef75/engineering_blogs.goggle",
-        "size": 2280
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:36:12Z",
-    "updated_at": "2025-11-09T11:36:26Z",
-    "description": "engineering_blogs.goggle",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/e9880133a2300591ff6981e9fae4a218/comments",
-    "owner": {
-      "login": "bestpractes",
-      "id": 242752478,
-      "node_id": "U_kgDODngb3g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/242752478?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bestpractes",
-      "html_url": "https://github.com/bestpractes",
-      "followers_url": "https://api.github.com/users/bestpractes/followers",
-      "following_url": "https://api.github.com/users/bestpractes/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bestpractes/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bestpractes/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bestpractes/subscriptions",
-      "organizations_url": "https://api.github.com/users/bestpractes/orgs",
-      "repos_url": "https://api.github.com/users/bestpractes/repos",
-      "events_url": "https://api.github.com/users/bestpractes/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bestpractes/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/e1b28c4b3b8b68ee579760a1ea5086bc",
-    "forks_url": "https://api.github.com/gists/e1b28c4b3b8b68ee579760a1ea5086bc/forks",
-    "commits_url": "https://api.github.com/gists/e1b28c4b3b8b68ee579760a1ea5086bc/commits",
-    "id": "e1b28c4b3b8b68ee579760a1ea5086bc",
-    "node_id": "G_kwDOCovwCdoAIGUxYjI4YzRiM2I4YjY4ZWU1Nzk3NjBhMWVhNTA4NmJj",
-    "git_pull_url": "https://gist.github.com/e1b28c4b3b8b68ee579760a1ea5086bc.git",
-    "git_push_url": "https://gist.github.com/e1b28c4b3b8b68ee579760a1ea5086bc.git",
-    "html_url": "https://gist.github.com/Elements501/e1b28c4b3b8b68ee579760a1ea5086bc",
-    "files": {
-      "settings.json": {
-        "filename": "settings.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/Elements501/e1b28c4b3b8b68ee579760a1ea5086bc/raw/c5a7114b0500753c21a365555d3a7cd104232c47/settings.json",
-        "size": 5219
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:36:06Z",
-    "updated_at": "2025-11-09T11:36:30Z",
-    "description": "VS Code Color Scheme - Bubblegum",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/e1b28c4b3b8b68ee579760a1ea5086bc/comments",
-    "owner": {
-      "login": "Elements501",
-      "id": 176943113,
-      "node_id": "U_kgDOCovwCQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/176943113?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/Elements501",
-      "html_url": "https://github.com/Elements501",
-      "followers_url": "https://api.github.com/users/Elements501/followers",
-      "following_url": "https://api.github.com/users/Elements501/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Elements501/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Elements501/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Elements501/subscriptions",
-      "organizations_url": "https://api.github.com/users/Elements501/orgs",
-      "repos_url": "https://api.github.com/users/Elements501/repos",
-      "events_url": "https://api.github.com/users/Elements501/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Elements501/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/b13d1822ff6b7a90cb3b6c80a3fe774d",
-    "forks_url": "https://api.github.com/gists/b13d1822ff6b7a90cb3b6c80a3fe774d/forks",
-    "commits_url": "https://api.github.com/gists/b13d1822ff6b7a90cb3b6c80a3fe774d/commits",
-    "id": "b13d1822ff6b7a90cb3b6c80a3fe774d",
-    "node_id": "G_kwDOCIfWS9oAIGIxM2QxODIyZmY2YjdhOTBjYjNiNmM4MGEzZmU3NzRk",
-    "git_pull_url": "https://gist.github.com/b13d1822ff6b7a90cb3b6c80a3fe774d.git",
-    "git_push_url": "https://gist.github.com/b13d1822ff6b7a90cb3b6c80a3fe774d.git",
-    "html_url": "https://gist.github.com/Packletka/b13d1822ff6b7a90cb3b6c80a3fe774d",
-    "files": {
-      "Laba_7": {
-        "filename": "Laba_7",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/Packletka/b13d1822ff6b7a90cb3b6c80a3fe774d/raw/dfb2ffa9f8cecd22f627a23046555bc5e83653f2/Laba_7",
-        "size": 26479
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:35:54Z",
-    "updated_at": "2025-11-09T11:35:54Z",
-    "description": "Лабораторная работа 7",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/b13d1822ff6b7a90cb3b6c80a3fe774d/comments",
-    "owner": {
-      "login": "Packletka",
-      "id": 143119947,
-      "node_id": "U_kgDOCIfWSw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/143119947?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/Packletka",
-      "html_url": "https://github.com/Packletka",
-      "followers_url": "https://api.github.com/users/Packletka/followers",
-      "following_url": "https://api.github.com/users/Packletka/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Packletka/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Packletka/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Packletka/subscriptions",
-      "organizations_url": "https://api.github.com/users/Packletka/orgs",
-      "repos_url": "https://api.github.com/users/Packletka/repos",
-      "events_url": "https://api.github.com/users/Packletka/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Packletka/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/5517ece268ab4bb1e895a5db90697f68",
-    "forks_url": "https://api.github.com/gists/5517ece268ab4bb1e895a5db90697f68/forks",
-    "commits_url": "https://api.github.com/gists/5517ece268ab4bb1e895a5db90697f68/commits",
-    "id": "5517ece268ab4bb1e895a5db90697f68",
-    "node_id": "G_kwDOBJHh8toAIDU1MTdlY2UyNjhhYjRiYjFlODk1YTVkYjkwNjk3ZjY4",
-    "git_pull_url": "https://gist.github.com/5517ece268ab4bb1e895a5db90697f68.git",
-    "git_push_url": "https://gist.github.com/5517ece268ab4bb1e895a5db90697f68.git",
-    "html_url": "https://gist.github.com/richyfabz/5517ece268ab4bb1e895a5db90697f68",
-    "files": {
-      ".deps...npm...@openzeppelin...contracts...access...AccessControl.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...AccessControl.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/0c7ec6093dd2e9152a205aa1f0b21cf654e9a838/.deps...npm...%40openzeppelin...contracts...access...AccessControl.sol",
-        "size": 7028
-      },
-      ".deps...npm...@openzeppelin...contracts...access...IAccessControl.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...IAccessControl.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/23f0770a0100520c12012ae40f1a96aa7c32e972/.deps...npm...%40openzeppelin...contracts...access...IAccessControl.sol",
-        "size": 3343
-      },
-      ".deps...npm...@openzeppelin...contracts...access...Ownable.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...Ownable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/bd96f6661dcbf7b2d4948823ac0e7bfb4ba31fb1/.deps...npm...%40openzeppelin...contracts...access...Ownable.sol",
-        "size": 3102
-      },
-      ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/aef2b0a0eb956a02ef20a7840e826d36fdd25589/.deps...npm...%40openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "size": 6538
-      },
-      ".deps...npm...@openzeppelin...contracts...security...ReentrancyGuard.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...security...ReentrancyGuard.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/dac508b6a028c8741c8dfb328b9cf2f3e27ce241/.deps...npm...%40openzeppelin...contracts...security...ReentrancyGuard.sol",
-        "size": 3127
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/886febc552f78b1f1fbec494d96a54dff3620120/.deps...npm...%40openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "size": 10798
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/b493743a10c4fba04d91014cbdb7f69b639480c1/.deps...npm...%40openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "size": 2781
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/87bbafa84b834af1da027455bdc2e8a87beeb438/.deps...npm...%40openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "size": 684
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...Context.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...Context.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4e535fe03c243f864568b8f4430c17c25dbadb47/.deps...npm...%40openzeppelin...contracts...utils...Context.sol",
-        "size": 963
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...introspection...ERC165.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...introspection...ERC165.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/be4cc5a6749fcfed498e84f6ec3c5b68988c5606/.deps...npm...%40openzeppelin...contracts...utils...introspection...ERC165.sol",
-        "size": 879
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...introspection...IERC165.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...introspection...IERC165.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/be1932f267f9c794f21d934a6bc21a322c6d2709/.deps...npm...%40openzeppelin...contracts...utils...introspection...IERC165.sol",
-        "size": 871
-      },
-      ".deps...npm...forge-std...Test.sol": {
-        "filename": ".deps...npm...forge-std...Test.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/b0d7a5ed7468ca51cf6ffe3afe2a59e950489318/.deps...npm...forge-std...Test.sol",
-        "size": 22816
-      },
-      ".git...HEAD": {
-        "filename": ".git...HEAD",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/b870d82622c1a9ca6bcaf5df639680424a1904b0/.git...HEAD",
-        "size": 21
-      },
-      ".git...config": {
-        "filename": ".git...config",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/d545cdabdbddafca3501d2114506fc86e50e9824/.git...config",
-        "size": 130
-      },
-      ".prettierrc.json": {
-        "filename": ".prettierrc.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/b2a56f23717b4b9b8f05d45363a0fd58c657ce6e/.prettierrc.json",
-        "size": 758
-      },
-      ".states...vm-prague...state.json": {
-        "filename": ".states...vm-prague...state.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/9234cf8f984e7da2e2b6aeca9483f2aa22ff89af/.states...vm-prague...state.json",
-        "size": 81926
-      },
-      "Built_From_scratch...Array.sol": {
-        "filename": "Built_From_scratch...Array.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4d58bc996587ced927ef858cffbb966166cc4bd7/Built_From_scratch...Array.sol",
-        "size": 1614
-      },
-      "Built_From_scratch...Constant.sol": {
-        "filename": "Built_From_scratch...Constant.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/90ae4f9966006cb0910a47f3a5a0af142cb9d675/Built_From_scratch...Constant.sol",
-        "size": 210
-      },
-      "Built_From_scratch...Enum.sol": {
-        "filename": "Built_From_scratch...Enum.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/ee02ad4c91a912adaffbc1809d3be2c41810bd91/Built_From_scratch...Enum.sol",
-        "size": 473
-      },
-      "Built_From_scratch...First_app.sol": {
-        "filename": "Built_From_scratch...First_app.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/7c1693fe96e897eb06d2fd45cd83b011d96accd9/Built_From_scratch...First_app.sol",
-        "size": 313
-      },
-      "Built_From_scratch...For&WhileLoop.sol": {
-        "filename": "Built_From_scratch...For&WhileLoop.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/784f027cea1f737fe406dda546bf2f73f38fafd8/Built_From_scratch...For%26WhileLoop.sol",
-        "size": 393
-      },
-      "Built_From_scratch...GasAndGasPrice.sol": {
-        "filename": "Built_From_scratch...GasAndGasPrice.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/1e6bb346e3d7b049f62438eaa935280e720b5527/Built_From_scratch...GasAndGasPrice.sol",
-        "size": 218
-      },
-      "Built_From_scratch...Hello_World.sol": {
-        "filename": "Built_From_scratch...Hello_World.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4a0c23739bd6034c6ed60499fb9ac31c01954eaa/Built_From_scratch...Hello_World.sol",
-        "size": 128
-      },
-      "Built_From_scratch...IfOrElse.sol": {
-        "filename": "Built_From_scratch...IfOrElse.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/ec9ac7f5e13b4feb52555704c30c1f1216a6b313/Built_From_scratch...IfOrElse.sol",
-        "size": 421
-      },
-      "Built_From_scratch...Immutable.sol": {
-        "filename": "Built_From_scratch...Immutable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4068e967b05577960b28072f0cd2ba5530472798/Built_From_scratch...Immutable.sol",
-        "size": 285
-      },
-      "Built_From_scratch...Mapping.sol": {
-        "filename": "Built_From_scratch...Mapping.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/1e51959388d90932ba1ab4efd9221378077a7352/Built_From_scratch...Mapping.sol",
-        "size": 716
-      },
-      "Built_From_scratch...Primitive_DataTypes.sol": {
-        "filename": "Built_From_scratch...Primitive_DataTypes.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/cd5a7ce2bfb0921edddf51ff750ad5126dc3e9f9/Built_From_scratch...Primitive_DataTypes.sol",
-        "size": 455
-      },
-      "Built_From_scratch...R&W_State varables.sol": {
-        "filename": "Built_From_scratch...R&W_State varables.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/f6d1fe2308ddd139183fd254254706dfcc889c72/Built_From_scratch...R%26W_State%20varables.sol",
-        "size": 307
-      },
-      "Built_From_scratch...Struct.sol": {
-        "filename": "Built_From_scratch...Struct.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/c8053063e9f86d4668fb592bd3c4b2a8a77a72cf/Built_From_scratch...Struct.sol",
-        "size": 971
-      },
-      "Built_From_scratch...Value_types.sol": {
-        "filename": "Built_From_scratch...Value_types.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/f9181b7f552a5162406a2c4f40e6eb898a9ebe2a/Built_From_scratch...Value_types.sol",
-        "size": 952
-      },
-      "Built_From_scratch...Varables.sol": {
-        "filename": "Built_From_scratch...Varables.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4f0f49c672a3476e4d4c9068f9ddc797e6e81124/Built_From_scratch...Varables.sol",
-        "size": 339
-      },
-      "Built_From_scratch...etherAndWei.sol": {
-        "filename": "Built_From_scratch...etherAndWei.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/5e926d1d45e74037f589ce9bd6c32db5f15d5d36/Built_From_scratch...etherAndWei.sol",
-        "size": 325
-      },
-      "README.txt": {
-        "filename": "README.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/6d9087c1384a0644b420e577503f90ecadd74dba/README.txt",
-        "size": 1541
-      },
-      "RebaseToken...IRebaseToken.sol": {
-        "filename": "RebaseToken...IRebaseToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/f88d2b2cf2f449385a371823c820a1d2189b4273/RebaseToken...IRebaseToken.sol",
-        "size": 282
-      },
-      "RebaseToken...Rebase.t.sol": {
-        "filename": "RebaseToken...Rebase.t.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/d6f4d2b349eea26bc47bda934f46b03dfbf88a4a/RebaseToken...Rebase.t.sol",
-        "size": 6204
-      },
-      "RebaseToken...RebaseToken.sol": {
-        "filename": "RebaseToken...RebaseToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/69f0b02a14013dbc844e1a0a7e87ef81c11d0df4/RebaseToken...RebaseToken.sol",
-        "size": 8456
-      },
-      "RebaseToken...Vault.sol": {
-        "filename": "RebaseToken...Vault.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/7955794b7e17f3de6aa7b30da4ef6779b55b5b61/RebaseToken...Vault.sol",
-        "size": 1814
-      },
-      "artifacts...Arrays.json": {
-        "filename": "artifacts...Arrays.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/c01b47104e842ca524a320e9d3f2771ca00040c5/artifacts...Arrays.json",
-        "size": 186279
-      },
-      "artifacts...Arrays_metadata.json": {
-        "filename": "artifacts...Arrays_metadata.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/dd0c225a206cc9e6ce7677d000011f1336a23ebf/artifacts...Arrays_metadata.json",
-        "size": 3194
-      },
-      "artifacts...Ecommerce.json": {
-        "filename": "artifacts...Ecommerce.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/07e09afa03b3c1fe98d9b3423c2134bc0e9f4ab2/artifacts...Ecommerce.json",
-        "size": 574374
-      },
-      "artifacts...Ecommerce_metadata.json": {
-        "filename": "artifacts...Ecommerce_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/2c829a57b147bfa6a28b625bccb13bdc27f8405c/artifacts...Ecommerce_metadata.json",
-        "size": 4906
-      },
-      "artifacts...Enums.json": {
-        "filename": "artifacts...Enums.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/92750fb6d1e42f90d5ee4b4b5a4acab287f4f067/artifacts...Enums.json",
-        "size": 2045
-      },
-      "artifacts...Enums_metadata.json": {
-        "filename": "artifacts...Enums_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/bafd1e02e663d8c2267befdbbd72523a326c9645/artifacts...Enums_metadata.json",
-        "size": 839
-      },
-      "artifacts...RebaseToken.json": {
-        "filename": "artifacts...RebaseToken.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/42dcaf485e2ebe632d003ae7f4d8d3ede1097e12/artifacts...RebaseToken.json",
-        "size": 394910
-      },
-      "artifacts...RebaseToken_metadata.json": {
-        "filename": "artifacts...RebaseToken_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/f697fb610e61595abb45e8d51206560ccfad593b/artifacts...RebaseToken_metadata.json",
-        "size": 13468
-      },
-      "artifacts...VotingSystem.json": {
-        "filename": "artifacts...VotingSystem.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/a207d672b8ee1d78c238c0eae41b1bf1aa684b96/artifacts...VotingSystem.json",
-        "size": 100882
-      },
-      "artifacts...VotingSystem_metadata.json": {
-        "filename": "artifacts...VotingSystem_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/e2d7883e800e4d25e82c94ec0a7464d02cbb6c7a/artifacts...VotingSystem_metadata.json",
-        "size": 2481
-      },
-      "artifacts...VotingSysytem.json": {
-        "filename": "artifacts...VotingSysytem.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4065b936305b0bd6be1bbb337654b34ad5e8b349/artifacts...VotingSysytem.json",
-        "size": 341512
-      },
-      "artifacts...VotingSysytem_metadata.json": {
-        "filename": "artifacts...VotingSysytem_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/d91b9b060ee59dfde8031d687cd563b7ae8fc0e0/artifacts...VotingSysytem_metadata.json",
-        "size": 4398
-      },
-      "artifacts...build-info...1137dc0d0c1f7ec3fb8861cb06ddfdbf.json": {
-        "filename": "artifacts...build-info...1137dc0d0c1f7ec3fb8861cb06ddfdbf.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/d1803b128d71df0e0f64e12469fcac5fd17bebcb/artifacts...build-info...1137dc0d0c1f7ec3fb8861cb06ddfdbf.json",
-        "size": 767194
-      },
-      "artifacts...build-info...2d7a3e4a220e96f259606f0c1b67e653.json": {
-        "filename": "artifacts...build-info...2d7a3e4a220e96f259606f0c1b67e653.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/3121fdfc1c67021cbb52e743241752ce79cdf69a/artifacts...build-info...2d7a3e4a220e96f259606f0c1b67e653.json",
-        "size": 488035
-      },
-      "artifacts...build-info...6339ec3964346cb0923b668c2008f28f.json": {
-        "filename": "artifacts...build-info...6339ec3964346cb0923b668c2008f28f.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/3b12d308cd71fa82bf2d14ee482aa40a3e9f7156/artifacts...build-info...6339ec3964346cb0923b668c2008f28f.json",
-        "size": 266398
-      },
-      "artifacts...build-info...8385f58f2def23f67a55d22dc3844c22.json": {
-        "filename": "artifacts...build-info...8385f58f2def23f67a55d22dc3844c22.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/bb2b101d62b590df4331578c400e04f1ffa705ce/artifacts...build-info...8385f58f2def23f67a55d22dc3844c22.json",
-        "size": 321248
-      },
-      "artifacts...build-info...a65c19017b071920ccf9250947a16a02.json": {
-        "filename": "artifacts...build-info...a65c19017b071920ccf9250947a16a02.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/11a1e0e182b16951b6a65d0b75f2fe01845e0d53/artifacts...build-info...a65c19017b071920ccf9250947a16a02.json",
-        "size": 565103
-      },
-      "artifacts...build-info...bdacd75450f756df1ec87235ed43c370.json": {
-        "filename": "artifacts...build-info...bdacd75450f756df1ec87235ed43c370.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/68439876442052accf4793b66233c6cf0452268b/artifacts...build-info...bdacd75450f756df1ec87235ed43c370.json",
-        "size": 925670
-      },
-      "artifacts...build-info...bf2d3f792f79e8940a830d61608ca084.json": {
-        "filename": "artifacts...build-info...bf2d3f792f79e8940a830d61608ca084.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/f13c49ea74f80b8bb6f1f777a11f4fb611c6f9bb/artifacts...build-info...bf2d3f792f79e8940a830d61608ca084.json",
-        "size": 1580175
-      },
-      "artifacts...build-info...bff79abda84f5cff2d2b4718d0d7b023.json": {
-        "filename": "artifacts...build-info...bff79abda84f5cff2d2b4718d0d7b023.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/a97208d741487e4e6397f60312432cc6b2c2575b/artifacts...build-info...bff79abda84f5cff2d2b4718d0d7b023.json",
-        "size": 10826
-      },
-      "artifacts...build-info...fbc534c7bb529d959fb4ecbd3029d515.json": {
-        "filename": "artifacts...build-info...fbc534c7bb529d959fb4ecbd3029d515.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/96a764d90f74c13a80109276d804e6ad05801d7d/artifacts...build-info...fbc534c7bb529d959fb4ecbd3029d515.json",
-        "size": 667378
-      },
-      "artifacts...build-info...fd6889632cc612a5d10c4b4321744ef0.json": {
-        "filename": "artifacts...build-info...fd6889632cc612a5d10c4b4321744ef0.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/dce5591d6ea81831fc095f4848f63ce37582faba/artifacts...build-info...fd6889632cc612a5d10c4b4321744ef0.json",
-        "size": 1653745
-      },
-      "artifacts...coinFlippAttack.json": {
-        "filename": "artifacts...coinFlippAttack.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/a0271403150944b1273256e932b74f2acf99988f/artifacts...coinFlippAttack.json",
-        "size": 105030
-      },
-      "artifacts...coinFlippAttack_metadata.json": {
-        "filename": "artifacts...coinFlippAttack_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/2079c2b92882f4de672b962328aefcd8c587362f/artifacts...coinFlippAttack_metadata.json",
-        "size": 1830
-      },
-      "artifacts...simpleStorage.json": {
-        "filename": "artifacts...simpleStorage.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/727f89699f233a754964f5526db02de49647ea7b/artifacts...simpleStorage.json",
-        "size": 262078
-      },
-      "artifacts...simpleStorage_metadata.json": {
-        "filename": "artifacts...simpleStorage_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/5c2bae355871c76d17447539633a50d65a4e6101/artifacts...simpleStorage_metadata.json",
-        "size": 1865
-      },
-      "artifacts...structCalls.json": {
-        "filename": "artifacts...structCalls.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/da80337bcf80e476f5b38c85ab7bda901af9b0d9/artifacts...structCalls.json",
-        "size": 318944
-      },
-      "artifacts...structCalls_metadata.json": {
-        "filename": "artifacts...structCalls_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/8c46de880ce3167fdc79324163aee81c7b0d9653/artifacts...structCalls_metadata.json",
-        "size": 2964
-      },
-      "artifacts...telephoeAttack.json": {
-        "filename": "artifacts...telephoeAttack.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/9d995de7cbab11414d8b4020b6763770e35a287e/artifacts...telephoeAttack.json",
-        "size": 59862
-      },
-      "artifacts...telephoeAttack_metadata.json": {
-        "filename": "artifacts...telephoeAttack_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/7c1fac5d8ae7b2ed05a2882885f25b9fd720cf0f/artifacts...telephoeAttack_metadata.json",
-        "size": 1747
-      },
-      "artifacts...vault.json": {
-        "filename": "artifacts...vault.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/8637b5b434c28e5b1a200cd31f1c78efa19415b9/artifacts...vault.json",
-        "size": 102017
-      },
-      "artifacts...vault_metadata.json": {
-        "filename": "artifacts...vault_metadata.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/1d83a53c76ae34dda26e76ea225af7200ebf1524/artifacts...vault_metadata.json",
-        "size": 3564
-      },
-      "contracts...Building Contracts...Constant.sol": {
-        "filename": "contracts...Building Contracts...Constant.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/90ae4f9966006cb0910a47f3a5a0af142cb9d675/contracts...Building%20Contracts...Constant.sol",
-        "size": 210
-      },
-      "contracts...Building Contracts...First_app.sol": {
-        "filename": "contracts...Building Contracts...First_app.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/7c1693fe96e897eb06d2fd45cd83b011d96accd9/contracts...Building%20Contracts...First_app.sol",
-        "size": 313
-      },
-      "contracts...Building Contracts...For&WhileLoop.sol": {
-        "filename": "contracts...Building Contracts...For&WhileLoop.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/784f027cea1f737fe406dda546bf2f73f38fafd8/contracts...Building%20Contracts...For%26WhileLoop.sol",
-        "size": 393
-      },
-      "contracts...Building Contracts...GasAndGasPrice.sol": {
-        "filename": "contracts...Building Contracts...GasAndGasPrice.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/1e6bb346e3d7b049f62438eaa935280e720b5527/contracts...Building%20Contracts...GasAndGasPrice.sol",
-        "size": 218
-      },
-      "contracts...Building Contracts...Hello_World.sol": {
-        "filename": "contracts...Building Contracts...Hello_World.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4a0c23739bd6034c6ed60499fb9ac31c01954eaa/contracts...Building%20Contracts...Hello_World.sol",
-        "size": 128
-      },
-      "contracts...Building Contracts...IfOrElse.sol": {
-        "filename": "contracts...Building Contracts...IfOrElse.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/ec9ac7f5e13b4feb52555704c30c1f1216a6b313/contracts...Building%20Contracts...IfOrElse.sol",
-        "size": 421
-      },
-      "contracts...Building Contracts...Immutable.sol": {
-        "filename": "contracts...Building Contracts...Immutable.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4068e967b05577960b28072f0cd2ba5530472798/contracts...Building%20Contracts...Immutable.sol",
-        "size": 285
-      },
-      "contracts...Building Contracts...Mapping.sol": {
-        "filename": "contracts...Building Contracts...Mapping.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/e078a5aa168ae21aad9ac9659cf4dbfe91aa8e57/contracts...Building%20Contracts...Mapping.sol",
-        "size": 720
-      },
-      "contracts...Building Contracts...Primitive_DataTypes.sol": {
-        "filename": "contracts...Building Contracts...Primitive_DataTypes.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/cd5a7ce2bfb0921edddf51ff750ad5126dc3e9f9/contracts...Building%20Contracts...Primitive_DataTypes.sol",
-        "size": 455
-      },
-      "contracts...Building Contracts...R&W_State varables.sol": {
-        "filename": "contracts...Building Contracts...R&W_State varables.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/f6d1fe2308ddd139183fd254254706dfcc889c72/contracts...Building%20Contracts...R%26W_State%20varables.sol",
-        "size": 307
-      },
-      "contracts...Building Contracts...Varables.sol": {
-        "filename": "contracts...Building Contracts...Varables.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/4f0f49c672a3476e4d4c9068f9ddc797e6e81124/contracts...Building%20Contracts...Varables.sol",
-        "size": 339
-      },
-      "contracts...Building Contracts...etherAndWei.sol": {
-        "filename": "contracts...Building Contracts...etherAndWei.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/5e926d1d45e74037f589ce9bd6c32db5f15d5d36/contracts...Building%20Contracts...etherAndWei.sol",
-        "size": 325
-      },
-      "contracts...DSCEngine.sol": {
-        "filename": "contracts...DSCEngine.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/d1cef9c3350609cd15c92d9d3f82362013276b0b/contracts...DSCEngine.sol",
-        "size": 18122
-      },
-      "contracts...DSCEngine.t.sol": {
-        "filename": "contracts...DSCEngine.t.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/1d094cc21dd3a9d659e68c7b5ba511b891fe46c4/contracts...DSCEngine.t.sol",
-        "size": 5484
-      },
-      "contracts...Token.sol": {
-        "filename": "contracts...Token.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/91b3f837d2049ed02a02821933c7745effb871fa/contracts...Token.sol",
-        "size": 629
-      },
-      "contracts...coinFlip.sol": {
-        "filename": "contracts...coinFlip.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/7a9d6461e3e04179eacbe843b74d95594341908c/contracts...coinFlip.sol",
-        "size": 832
-      },
-      "contracts...coinFlipAttack.sol": {
-        "filename": "contracts...coinFlipAttack.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/52ae6caf1817f0e1d3bfed23c8f5a78dab80a028/contracts...coinFlipAttack.sol",
-        "size": 832
-      },
-      "contracts...telephone.sol": {
-        "filename": "contracts...telephone.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/d982dc74f072808b27c7321352da091407dd9349/contracts...telephone.sol",
-        "size": 309
-      },
-      "contracts...telephoneAttack.sol": {
-        "filename": "contracts...telephoneAttack.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/2feb4f490741c8d238041a43e17fdcc010a3b485/contracts...telephoneAttack.sol",
-        "size": 355
-      },
-      "contracts...tokenAttack.sol": {
-        "filename": "contracts...tokenAttack.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/ae1a3e3325ace3a25465d1ccde7aa2e832cb5f35/contracts...tokenAttack.sol",
-        "size": 496
-      },
-      "ecommerce conntract...Ecommerce.sol": {
-        "filename": "ecommerce conntract...Ecommerce.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/ad023bf91d289b38b4e79bbdd18b2048e87ccc8d/ecommerce%20conntract...Ecommerce.sol",
-        "size": 5365
-      },
-      "practiceContrats...simpleCounter.sol": {
-        "filename": "practiceContrats...simpleCounter.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/61fc0d0a77101e5a883dd7dcdf4457c9a822254e/practiceContrats...simpleCounter.sol",
-        "size": 672
-      },
-      "practiceContrats...simpleRegistry.sol": {
-        "filename": "practiceContrats...simpleRegistry.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/307088804133b58d57cffc51388b1c6006c75330/practiceContrats...simpleRegistry.sol",
-        "size": 2135
-      },
-      "practiceContrats...simpleStoragec.sol": {
-        "filename": "practiceContrats...simpleStoragec.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/3557f32bf09ed9e47c17d823727a6cdd746c60e8/practiceContrats...simpleStoragec.sol",
-        "size": 754
-      },
-      "practiceContrats...simpleVotingSystem.sol": {
-        "filename": "practiceContrats...simpleVotingSystem.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/78f64b4a89ca36f18293943cbb7332cced58ea68/practiceContrats...simpleVotingSystem.sol",
-        "size": 3993
-      },
-      "remix.config.json": {
-        "filename": "remix.config.json",
-        "type": "application/json",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/331ab73c579a70cc251a40bee683f5edf49d1328/remix.config.json",
-        "size": 84
-      },
-      "scripts...deploy_with_ethers.ts": {
-        "filename": "scripts...deploy_with_ethers.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/513d496d7638a86e7b7339272f853a7053429336/scripts...deploy_with_ethers.ts",
-        "size": 488
-      },
-      "scripts...deploy_with_web3.ts": {
-        "filename": "scripts...deploy_with_web3.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/dca0bbcfddbe3f383747e26bc829500ea82e189e/scripts...deploy_with_web3.ts",
-        "size": 481
-      },
-      "scripts...ethers-lib.ts": {
-        "filename": "scripts...ethers-lib.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/c5dd03f7deb6a05afaadcd8218bdbcc41e571d5a/scripts...ethers-lib.ts",
-        "size": 1227
-      },
-      "scripts...web3-lib.ts": {
-        "filename": "scripts...web3-lib.ts",
-        "type": "video/MP2T",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/ae81db65c54eb3c23b26a20307f150fd085d85eb/scripts...web3-lib.ts",
-        "size": 1302
-      },
-      "tests...Ballot_test.sol": {
-        "filename": "tests...Ballot_test.sol",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/49146e99facba02fce64738239bec0b835cec15b/tests...Ballot_test.sol",
-        "size": 938
-      },
-      "tests...storage.test.js": {
-        "filename": "tests...storage.test.js",
-        "type": "text/javascript",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/richyfabz/5517ece268ab4bb1e895a5db90697f68/raw/8e37b7c39b76b12519a9f931ba858624e573e1f7/tests...storage.test.js",
-        "size": 947
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:35:53Z",
-    "updated_at": "2025-11-09T11:35:53Z",
-    "description": "Created using remix-ide: Realtime Ethereum Contract Compiler and Runtime. \n Load this file by pasting this gists URL or ID at https://remix.ethereum.org/#version=soljson-v0.8.30+commit.73712a01.js&optimize=false&runs=200&gist=",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/5517ece268ab4bb1e895a5db90697f68/comments",
-    "owner": {
-      "login": "richyfabz",
-      "id": 76669426,
-      "node_id": "MDQ6VXNlcjc2NjY5NDI2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/76669426?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/richyfabz",
-      "html_url": "https://github.com/richyfabz",
-      "followers_url": "https://api.github.com/users/richyfabz/followers",
-      "following_url": "https://api.github.com/users/richyfabz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/richyfabz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/richyfabz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/richyfabz/subscriptions",
-      "organizations_url": "https://api.github.com/users/richyfabz/orgs",
-      "repos_url": "https://api.github.com/users/richyfabz/repos",
-      "events_url": "https://api.github.com/users/richyfabz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/richyfabz/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/b2efbc27c61cc4ba62890341fb3e737e",
-    "forks_url": "https://api.github.com/gists/b2efbc27c61cc4ba62890341fb3e737e/forks",
-    "commits_url": "https://api.github.com/gists/b2efbc27c61cc4ba62890341fb3e737e/commits",
-    "id": "b2efbc27c61cc4ba62890341fb3e737e",
-    "node_id": "G_kwDODWDFaNoAIGIyZWZiYzI3YzYxY2M0YmE2Mjg5MDM0MWZiM2U3Mzdl",
-    "git_pull_url": "https://gist.github.com/b2efbc27c61cc4ba62890341fb3e737e.git",
-    "git_push_url": "https://gist.github.com/b2efbc27c61cc4ba62890341fb3e737e.git",
-    "html_url": "https://gist.github.com/ywxlol/b2efbc27c61cc4ba62890341fb3e737e",
+    "url": "https://api.github.com/gists/96964138220fabb0d7e4b6015d68ff7d",
+    "forks_url": "https://api.github.com/gists/96964138220fabb0d7e4b6015d68ff7d/forks",
+    "commits_url": "https://api.github.com/gists/96964138220fabb0d7e4b6015d68ff7d/commits",
+    "id": "96964138220fabb0d7e4b6015d68ff7d",
+    "node_id": "G_kwDODlykitoAIDk2OTY0MTM4MjIwZmFiYjBkN2U0YjYwMTVkNjhmZjdk",
+    "git_pull_url": "https://gist.github.com/96964138220fabb0d7e4b6015d68ff7d.git",
+    "git_push_url": "https://gist.github.com/96964138220fabb0d7e4b6015d68ff7d.git",
+    "html_url": "https://gist.github.com/artemcurko7-art/96964138220fabb0d7e4b6015d68ff7d",
     "files": {
       "gistfile1.txt": {
         "filename": "gistfile1.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/ywxlol/b2efbc27c61cc4ba62890341fb3e737e/raw/1a3bcda2649771df43c54ffe80767baa454c7a6d/gistfile1.txt",
-        "size": 61
+        "raw_url": "https://gist.githubusercontent.com/artemcurko7-art/96964138220fabb0d7e4b6015d68ff7d/raw/6a78268d19d3cb0fafc51cc3095c5272a0cdd5af/gistfile1.txt",
+        "size": 1114
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:35:39Z",
-    "updated_at": "2025-11-09T11:35:39Z",
-    "description": "Medius Player",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/b2efbc27c61cc4ba62890341fb3e737e/comments",
-    "owner": {
-      "login": "ywxlol",
-      "id": 224445800,
-      "node_id": "U_kgDODWDFaA",
-      "avatar_url": "https://avatars.githubusercontent.com/u/224445800?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ywxlol",
-      "html_url": "https://github.com/ywxlol",
-      "followers_url": "https://api.github.com/users/ywxlol/followers",
-      "following_url": "https://api.github.com/users/ywxlol/following{/other_user}",
-      "gists_url": "https://api.github.com/users/ywxlol/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/ywxlol/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/ywxlol/subscriptions",
-      "organizations_url": "https://api.github.com/users/ywxlol/orgs",
-      "repos_url": "https://api.github.com/users/ywxlol/repos",
-      "events_url": "https://api.github.com/users/ywxlol/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/ywxlol/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/912c28045d7f1f304c04d19a1c8265f1",
-    "forks_url": "https://api.github.com/gists/912c28045d7f1f304c04d19a1c8265f1/forks",
-    "commits_url": "https://api.github.com/gists/912c28045d7f1f304c04d19a1c8265f1/commits",
-    "id": "912c28045d7f1f304c04d19a1c8265f1",
-    "node_id": "G_kwDOAF-wA9oAIDkxMmMyODA0NWQ3ZjFmMzA0YzA0ZDE5YTFjODI2NWYx",
-    "git_pull_url": "https://gist.github.com/912c28045d7f1f304c04d19a1c8265f1.git",
-    "git_push_url": "https://gist.github.com/912c28045d7f1f304c04d19a1c8265f1.git",
-    "html_url": "https://gist.github.com/choco-bot/912c28045d7f1f304c04d19a1c8265f1",
-    "files": {
-      "FilesSnapshot.xml": {
-        "filename": "FilesSnapshot.xml",
-        "type": "application/xml",
-        "language": "XML",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/912c28045d7f1f304c04d19a1c8265f1/raw/7364be4313a556c57f8a8cbed53c349469847624/FilesSnapshot.xml",
-        "size": 12060
-      },
-      "Install.txt": {
-        "filename": "Install.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/912c28045d7f1f304c04d19a1c8265f1/raw/557f546d994f88bb11072ae5ce5e624f1a112624/Install.txt",
-        "size": 74334
-      },
-      "Uninstall.txt": {
-        "filename": "Uninstall.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/912c28045d7f1f304c04d19a1c8265f1/raw/78b730da9be40652f7725d8bf6aa455828b9a7b7/Uninstall.txt",
-        "size": 82684
-      },
-      "_Summary.md": {
-        "filename": "_Summary.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/912c28045d7f1f304c04d19a1c8265f1/raw/2700f2f5c7be16cb5b18e0f4219bce0b0997513b/_Summary.md",
-        "size": 502
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:35:37Z",
-    "updated_at": "2025-11-09T11:35:38Z",
-    "description": "goldendict.portable v1.0.1 - Passed - Package Tests Results",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/912c28045d7f1f304c04d19a1c8265f1/comments",
-    "owner": {
-      "login": "choco-bot",
-      "id": 6270979,
-      "node_id": "MDQ6VXNlcjYyNzA5Nzk=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6270979?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/choco-bot",
-      "html_url": "https://github.com/choco-bot",
-      "followers_url": "https://api.github.com/users/choco-bot/followers",
-      "following_url": "https://api.github.com/users/choco-bot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/choco-bot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/choco-bot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/choco-bot/subscriptions",
-      "organizations_url": "https://api.github.com/users/choco-bot/orgs",
-      "repos_url": "https://api.github.com/users/choco-bot/repos",
-      "events_url": "https://api.github.com/users/choco-bot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/choco-bot/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/538e4f40f1f8cb175ddbe24a6da25cfa",
-    "forks_url": "https://api.github.com/gists/538e4f40f1f8cb175ddbe24a6da25cfa/forks",
-    "commits_url": "https://api.github.com/gists/538e4f40f1f8cb175ddbe24a6da25cfa/commits",
-    "id": "538e4f40f1f8cb175ddbe24a6da25cfa",
-    "node_id": "G_kwDOAWatx9oAIDUzOGU0ZjQwZjFmOGNiMTc1ZGRiZTI0YTZkYTI1Y2Zh",
-    "git_pull_url": "https://gist.github.com/538e4f40f1f8cb175ddbe24a6da25cfa.git",
-    "git_push_url": "https://gist.github.com/538e4f40f1f8cb175ddbe24a6da25cfa.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/538e4f40f1f8cb175ddbe24a6da25cfa",
-    "files": {
-      "output_log.txt": {
-        "filename": "output_log.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/538e4f40f1f8cb175ddbe24a6da25cfa/raw/07f7223fa1723db3426901041456fe3a9952ed99/output_log.txt",
-        "size": 324634
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:33:03Z",
-    "updated_at": "2025-11-09T11:33:03Z",
-    "description": "Rimworld output log published using HugsLib Standalone Log Publisher",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/538e4f40f1f8cb175ddbe24a6da25cfa/comments",
-    "owner": {
-      "login": "HugsLibRecordKeeper",
-      "id": 23506375,
-      "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/HugsLibRecordKeeper",
-      "html_url": "https://github.com/HugsLibRecordKeeper",
-      "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
-      "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
-      "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
-      "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
-      "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
-      "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/427cf91a635d389c91c7c3b2508ddde4",
-    "forks_url": "https://api.github.com/gists/427cf91a635d389c91c7c3b2508ddde4/forks",
-    "commits_url": "https://api.github.com/gists/427cf91a635d389c91c7c3b2508ddde4/commits",
-    "id": "427cf91a635d389c91c7c3b2508ddde4",
-    "node_id": "G_kwDOAlTILNoAIDQyN2NmOTFhNjM1ZDM4OWM5MWM3YzNiMjUwOGRkZGU0",
-    "git_pull_url": "https://gist.github.com/427cf91a635d389c91c7c3b2508ddde4.git",
-    "git_push_url": "https://gist.github.com/427cf91a635d389c91c7c3b2508ddde4.git",
-    "html_url": "https://gist.github.com/annaamikom/427cf91a635d389c91c7c3b2508ddde4",
-    "files": {
-      "time-series-analysis.ipynb": {
-        "filename": "time-series-analysis.ipynb",
-        "type": "text/plain",
-        "language": "Jupyter Notebook",
-        "raw_url": "https://gist.githubusercontent.com/annaamikom/427cf91a635d389c91c7c3b2508ddde4/raw/e3820470f111dfe7246281b1451a6f69f28d7ea6/time-series-analysis.ipynb",
-        "size": 1534534
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:31:54Z",
-    "updated_at": "2025-11-09T11:32:55Z",
-    "description": "Time Series Analysis.ipynb",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/427cf91a635d389c91c7c3b2508ddde4/comments",
-    "owner": {
-      "login": "annaamikom",
-      "id": 39110700,
-      "node_id": "MDQ6VXNlcjM5MTEwNzAw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/39110700?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/annaamikom",
-      "html_url": "https://github.com/annaamikom",
-      "followers_url": "https://api.github.com/users/annaamikom/followers",
-      "following_url": "https://api.github.com/users/annaamikom/following{/other_user}",
-      "gists_url": "https://api.github.com/users/annaamikom/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/annaamikom/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/annaamikom/subscriptions",
-      "organizations_url": "https://api.github.com/users/annaamikom/orgs",
-      "repos_url": "https://api.github.com/users/annaamikom/repos",
-      "events_url": "https://api.github.com/users/annaamikom/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/annaamikom/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/d1faca739443cd99b7e3c1fab8a8cd30",
-    "forks_url": "https://api.github.com/gists/d1faca739443cd99b7e3c1fab8a8cd30/forks",
-    "commits_url": "https://api.github.com/gists/d1faca739443cd99b7e3c1fab8a8cd30/commits",
-    "id": "d1faca739443cd99b7e3c1fab8a8cd30",
-    "node_id": "G_kwDOAWatx9oAIGQxZmFjYTczOTQ0M2NkOTliN2UzYzFmYWI4YThjZDMw",
-    "git_pull_url": "https://gist.github.com/d1faca739443cd99b7e3c1fab8a8cd30.git",
-    "git_push_url": "https://gist.github.com/d1faca739443cd99b7e3c1fab8a8cd30.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/d1faca739443cd99b7e3c1fab8a8cd30",
-    "files": {
-      "output_log.txt": {
-        "filename": "output_log.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/d1faca739443cd99b7e3c1fab8a8cd30/raw/ca0c7343082b9ec37ae3e05db3a06aea4a2504a1/output_log.txt",
-        "size": 339915
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:31:23Z",
-    "updated_at": "2025-11-09T11:31:25Z",
-    "description": "Rimworld output log published using HugsLib",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/d1faca739443cd99b7e3c1fab8a8cd30/comments",
-    "owner": {
-      "login": "HugsLibRecordKeeper",
-      "id": 23506375,
-      "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/HugsLibRecordKeeper",
-      "html_url": "https://github.com/HugsLibRecordKeeper",
-      "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
-      "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
-      "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
-      "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
-      "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
-      "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/5a7873b582a066459b4beebc4fbdae58",
-    "forks_url": "https://api.github.com/gists/5a7873b582a066459b4beebc4fbdae58/forks",
-    "commits_url": "https://api.github.com/gists/5a7873b582a066459b4beebc4fbdae58/commits",
-    "id": "5a7873b582a066459b4beebc4fbdae58",
-    "node_id": "G_kwDOAWatx9oAIDVhNzg3M2I1ODJhMDY2NDU5YjRiZWViYzRmYmRhZTU4",
-    "git_pull_url": "https://gist.github.com/5a7873b582a066459b4beebc4fbdae58.git",
-    "git_push_url": "https://gist.github.com/5a7873b582a066459b4beebc4fbdae58.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/5a7873b582a066459b4beebc4fbdae58",
-    "files": {
-      "output_log.txt": {
-        "filename": "output_log.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/5a7873b582a066459b4beebc4fbdae58/raw/b265015c446e23ed1846d00298f3d1b22f5fd1ff/output_log.txt",
-        "size": 597316
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:31:09Z",
-    "updated_at": "2025-11-09T11:31:09Z",
-    "description": "Rimworld output log published using HugsLib Standalone Log Publisher",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/5a7873b582a066459b4beebc4fbdae58/comments",
-    "owner": {
-      "login": "HugsLibRecordKeeper",
-      "id": 23506375,
-      "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/HugsLibRecordKeeper",
-      "html_url": "https://github.com/HugsLibRecordKeeper",
-      "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
-      "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
-      "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
-      "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
-      "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
-      "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/96a61acf509e73908428a269bc3667b3",
-    "forks_url": "https://api.github.com/gists/96a61acf509e73908428a269bc3667b3/forks",
-    "commits_url": "https://api.github.com/gists/96a61acf509e73908428a269bc3667b3/commits",
-    "id": "96a61acf509e73908428a269bc3667b3",
-    "node_id": "G_kwDOCGxax9oAIDk2YTYxYWNmNTA5ZTczOTA4NDI4YTI2OWJjMzY2N2Iz",
-    "git_pull_url": "https://gist.github.com/96a61acf509e73908428a269bc3667b3.git",
-    "git_push_url": "https://gist.github.com/96a61acf509e73908428a269bc3667b3.git",
-    "html_url": "https://gist.github.com/demon0id/96a61acf509e73908428a269bc3667b3",
-    "files": {
-      "Кратные числа": {
-        "filename": "Кратные числа",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/demon0id/96a61acf509e73908428a269bc3667b3/raw/cc6e0d6246db7b5fb2991ccddcda94b97d403e71/%D0%9A%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D1%87%D0%B8%D1%81%D0%BB%D0%B0",
-        "size": 840
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:31:08Z",
-    "updated_at": "2025-11-09T11:31:08Z",
-    "description": "Циклы",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/96a61acf509e73908428a269bc3667b3/comments",
-    "owner": {
-      "login": "demon0id",
-      "id": 141318855,
-      "node_id": "U_kgDOCGxaxw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/141318855?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/demon0id",
-      "html_url": "https://github.com/demon0id",
-      "followers_url": "https://api.github.com/users/demon0id/followers",
-      "following_url": "https://api.github.com/users/demon0id/following{/other_user}",
-      "gists_url": "https://api.github.com/users/demon0id/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/demon0id/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/demon0id/subscriptions",
-      "organizations_url": "https://api.github.com/users/demon0id/orgs",
-      "repos_url": "https://api.github.com/users/demon0id/repos",
-      "events_url": "https://api.github.com/users/demon0id/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/demon0id/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/90834aaa10d5ff9736cf83f2f9b15860",
-    "forks_url": "https://api.github.com/gists/90834aaa10d5ff9736cf83f2f9b15860/forks",
-    "commits_url": "https://api.github.com/gists/90834aaa10d5ff9736cf83f2f9b15860/commits",
-    "id": "90834aaa10d5ff9736cf83f2f9b15860",
-    "node_id": "G_kwDOBGj6MdoAIDkwODM0YWFhMTBkNWZmOTczNmNmODNmMmY5YjE1ODYw",
-    "git_pull_url": "https://gist.github.com/90834aaa10d5ff9736cf83f2f9b15860.git",
-    "git_push_url": "https://gist.github.com/90834aaa10d5ff9736cf83f2f9b15860.git",
-    "html_url": "https://gist.github.com/forkyau/90834aaa10d5ff9736cf83f2f9b15860",
-    "files": {
-      "hourly_rainfall_data-2025-11-09|19-15.csv": {
-        "filename": "hourly_rainfall_data-2025-11-09|19-15.csv",
-        "type": "text/csv",
-        "language": "CSV",
-        "raw_url": "https://gist.githubusercontent.com/forkyau/90834aaa10d5ff9736cf83f2f9b15860/raw/ca434536e180d0065d0b3fd5d2fcaf201aaa214f/hourly_rainfall_data-2025-11-09%7C19-15.csv",
-        "size": 2197
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:31:04Z",
-    "updated_at": "2025-11-09T11:31:04Z",
-    "description": "GIST created by python code",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/90834aaa10d5ff9736cf83f2f9b15860/comments",
-    "owner": {
-      "login": "forkyau",
-      "id": 73988657,
-      "node_id": "MDQ6VXNlcjczOTg4NjU3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73988657?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/forkyau",
-      "html_url": "https://github.com/forkyau",
-      "followers_url": "https://api.github.com/users/forkyau/followers",
-      "following_url": "https://api.github.com/users/forkyau/following{/other_user}",
-      "gists_url": "https://api.github.com/users/forkyau/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/forkyau/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/forkyau/subscriptions",
-      "organizations_url": "https://api.github.com/users/forkyau/orgs",
-      "repos_url": "https://api.github.com/users/forkyau/repos",
-      "events_url": "https://api.github.com/users/forkyau/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/forkyau/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/680191f03edf8f59c08bedb5ed0b91cc",
-    "forks_url": "https://api.github.com/gists/680191f03edf8f59c08bedb5ed0b91cc/forks",
-    "commits_url": "https://api.github.com/gists/680191f03edf8f59c08bedb5ed0b91cc/commits",
-    "id": "680191f03edf8f59c08bedb5ed0b91cc",
-    "node_id": "G_kwDODcCvC9oAIDY4MDE5MWYwM2VkZjhmNTljMDhiZWRiNWVkMGI5MWNj",
-    "git_pull_url": "https://gist.github.com/680191f03edf8f59c08bedb5ed0b91cc.git",
-    "git_push_url": "https://gist.github.com/680191f03edf8f59c08bedb5ed0b91cc.git",
-    "html_url": "https://gist.github.com/Ivane120585/680191f03edf8f59c08bedb5ed0b91cc",
-    "files": {
-      "SCROLL TWENTY-EIGHT COMMENTARY PLAYBACK  SURGE SYSTEMS ILLUMINATED": {
-        "filename": "SCROLL TWENTY-EIGHT COMMENTARY PLAYBACK  SURGE SYSTEMS ILLUMINATED",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/Ivane120585/680191f03edf8f59c08bedb5ed0b91cc/raw/6df824fe3cc60234ac4c2503d8acda5437eeaf45/SCROLL%20TWENTY-EIGHT%20COMMENTARY%20PLAYBACK%20%20SURGE%20SYSTEMS%20ILLUMINATED",
-        "size": 746
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:30:53Z",
-    "updated_at": "2025-11-09T11:30:53Z",
-    "description": "Ivane Shaorshadze ",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/680191f03edf8f59c08bedb5ed0b91cc/comments",
-    "owner": {
-      "login": "Ivane120585",
-      "id": 230731531,
-      "node_id": "U_kgDODcCvCw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/230731531?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/Ivane120585",
-      "html_url": "https://github.com/Ivane120585",
-      "followers_url": "https://api.github.com/users/Ivane120585/followers",
-      "following_url": "https://api.github.com/users/Ivane120585/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Ivane120585/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Ivane120585/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Ivane120585/subscriptions",
-      "organizations_url": "https://api.github.com/users/Ivane120585/orgs",
-      "repos_url": "https://api.github.com/users/Ivane120585/repos",
-      "events_url": "https://api.github.com/users/Ivane120585/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Ivane120585/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/c50df8cbf424a50261c0ff271b6b8480",
-    "forks_url": "https://api.github.com/gists/c50df8cbf424a50261c0ff271b6b8480/forks",
-    "commits_url": "https://api.github.com/gists/c50df8cbf424a50261c0ff271b6b8480/commits",
-    "id": "c50df8cbf424a50261c0ff271b6b8480",
-    "node_id": "G_kwDOBJdl7toAIGM1MGRmOGNiZjQyNGE1MDI2MWMwZmYyNzFiNmI4NDgw",
-    "git_pull_url": "https://gist.github.com/c50df8cbf424a50261c0ff271b6b8480.git",
-    "git_push_url": "https://gist.github.com/c50df8cbf424a50261c0ff271b6b8480.git",
-    "html_url": "https://gist.github.com/fulcrum6378/c50df8cbf424a50261c0ff271b6b8480",
-    "files": {
-      "poser_render_times.py": {
-        "filename": "poser_render_times.py",
-        "type": "application/x-python",
-        "language": "Python",
-        "raw_url": "https://gist.githubusercontent.com/fulcrum6378/c50df8cbf424a50261c0ff271b6b8480/raw/58424aa0559574c8d04f881e76239b01c4450147/poser_render_times.py",
-        "size": 637
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:30:49Z",
-    "updated_at": "2025-11-09T11:30:49Z",
-    "description": "Lists the file creation and modification times of Poser renders (a 3D program).",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/c50df8cbf424a50261c0ff271b6b8480/comments",
-    "owner": {
-      "login": "fulcrum6378",
-      "id": 77030894,
-      "node_id": "MDQ6VXNlcjc3MDMwODk0",
-      "avatar_url": "https://avatars.githubusercontent.com/u/77030894?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fulcrum6378",
-      "html_url": "https://github.com/fulcrum6378",
-      "followers_url": "https://api.github.com/users/fulcrum6378/followers",
-      "following_url": "https://api.github.com/users/fulcrum6378/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fulcrum6378/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fulcrum6378/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fulcrum6378/subscriptions",
-      "organizations_url": "https://api.github.com/users/fulcrum6378/orgs",
-      "repos_url": "https://api.github.com/users/fulcrum6378/repos",
-      "events_url": "https://api.github.com/users/fulcrum6378/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fulcrum6378/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/33b15db5db60318257a9885b6dadaf9e",
-    "forks_url": "https://api.github.com/gists/33b15db5db60318257a9885b6dadaf9e/forks",
-    "commits_url": "https://api.github.com/gists/33b15db5db60318257a9885b6dadaf9e/commits",
-    "id": "33b15db5db60318257a9885b6dadaf9e",
-    "node_id": "G_kwDOAHuXZdoAIDMzYjE1ZGI1ZGI2MDMxODI1N2E5ODg1YjZkYWRhZjll",
-    "git_pull_url": "https://gist.github.com/33b15db5db60318257a9885b6dadaf9e.git",
-    "git_push_url": "https://gist.github.com/33b15db5db60318257a9885b6dadaf9e.git",
-    "html_url": "https://gist.github.com/borodamd/33b15db5db60318257a9885b6dadaf9e",
-    "files": {
-      "MainScreen.kt": {
-        "filename": "MainScreen.kt",
-        "type": "text/plain",
-        "language": "Kotlin",
-        "raw_url": "https://gist.githubusercontent.com/borodamd/33b15db5db60318257a9885b6dadaf9e/raw/616a96874a9bf43fed8b911c88577635882e6780/MainScreen.kt",
-        "size": 81707
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:30:40Z",
-    "updated_at": "2025-11-09T11:30:41Z",
-    "description": "",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/33b15db5db60318257a9885b6dadaf9e/comments",
-    "owner": {
-      "login": "borodamd",
-      "id": 8099685,
-      "node_id": "MDQ6VXNlcjgwOTk2ODU=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/8099685?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/borodamd",
-      "html_url": "https://github.com/borodamd",
-      "followers_url": "https://api.github.com/users/borodamd/followers",
-      "following_url": "https://api.github.com/users/borodamd/following{/other_user}",
-      "gists_url": "https://api.github.com/users/borodamd/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/borodamd/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/borodamd/subscriptions",
-      "organizations_url": "https://api.github.com/users/borodamd/orgs",
-      "repos_url": "https://api.github.com/users/borodamd/repos",
-      "events_url": "https://api.github.com/users/borodamd/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/borodamd/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/b1c730e7782e21fdada90a2dda4cc081",
-    "forks_url": "https://api.github.com/gists/b1c730e7782e21fdada90a2dda4cc081/forks",
-    "commits_url": "https://api.github.com/gists/b1c730e7782e21fdada90a2dda4cc081/commits",
-    "id": "b1c730e7782e21fdada90a2dda4cc081",
-    "node_id": "G_kwDODlykitoAIGIxYzczMGU3NzgyZTIxZmRhZGE5MGEyZGRhNGNjMDgx",
-    "git_pull_url": "https://gist.github.com/b1c730e7782e21fdada90a2dda4cc081.git",
-    "git_push_url": "https://gist.github.com/b1c730e7782e21fdada90a2dda4cc081.git",
-    "html_url": "https://gist.github.com/artemcurko7-art/b1c730e7782e21fdada90a2dda4cc081",
-    "files": {
-      "gistfile1.txt": {
-        "filename": "gistfile1.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/artemcurko7-art/b1c730e7782e21fdada90a2dda4cc081/raw/95bf5c66100fcb247d971006e684a59672cc2af5/gistfile1.txt",
-        "size": 902
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:30:31Z",
-    "updated_at": "2025-11-09T11:30:32Z",
+    "created_at": "2025-11-09T11:46:31Z",
+    "updated_at": "2025-11-09T11:46:31Z",
     "description": "Задача по ООП",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/b1c730e7782e21fdada90a2dda4cc081/comments",
+    "comments_url": "https://api.github.com/gists/96964138220fabb0d7e4b6015d68ff7d/comments",
     "owner": {
       "login": "artemcurko7-art",
       "id": 240952458,
@@ -2352,48 +294,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/41404e1fab017b291b3cdb021eaff4fd",
-    "forks_url": "https://api.github.com/gists/41404e1fab017b291b3cdb021eaff4fd/forks",
-    "commits_url": "https://api.github.com/gists/41404e1fab017b291b3cdb021eaff4fd/commits",
-    "id": "41404e1fab017b291b3cdb021eaff4fd",
-    "node_id": "G_kwDOBJdl7toAIDQxNDA0ZTFmYWIwMTdiMjkxYjNjZGIwMjFlYWZmNGZk",
-    "git_pull_url": "https://gist.github.com/41404e1fab017b291b3cdb021eaff4fd.git",
-    "git_push_url": "https://gist.github.com/41404e1fab017b291b3cdb021eaff4fd.git",
-    "html_url": "https://gist.github.com/fulcrum6378/41404e1fab017b291b3cdb021eaff4fd",
+    "url": "https://api.github.com/gists/de955083279b0d915dbea7c5e53225b4",
+    "forks_url": "https://api.github.com/gists/de955083279b0d915dbea7c5e53225b4/forks",
+    "commits_url": "https://api.github.com/gists/de955083279b0d915dbea7c5e53225b4/commits",
+    "id": "de955083279b0d915dbea7c5e53225b4",
+    "node_id": "G_kwDOC0XNHNoAIGRlOTU1MDgzMjc5YjBkOTE1ZGJlYTdjNWU1MzIyNWI0",
+    "git_pull_url": "https://gist.github.com/de955083279b0d915dbea7c5e53225b4.git",
+    "git_push_url": "https://gist.github.com/de955083279b0d915dbea7c5e53225b4.git",
+    "html_url": "https://gist.github.com/THEGAMER652/de955083279b0d915dbea7c5e53225b4",
     "files": {
-      "poser_collect_required_content.py": {
-        "filename": "poser_collect_required_content.py",
-        "type": "application/x-python",
-        "language": "Python",
-        "raw_url": "https://gist.githubusercontent.com/fulcrum6378/41404e1fab017b291b3cdb021eaff4fd/raw/6863db680586133e8f93cf7cf3ce94e0dd78c2fc/poser_collect_required_content.py",
-        "size": 2357
+      "script.lua": {
+        "filename": "script.lua",
+        "type": "text/plain",
+        "language": "Lua",
+        "raw_url": "https://gist.githubusercontent.com/THEGAMER652/de955083279b0d915dbea7c5e53225b4/raw/6407669ae8f5f1570513fc44ba91ba1c62c647e1/script.lua",
+        "size": 7
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:29:21Z",
-    "updated_at": "2025-11-09T11:29:21Z",
-    "description": "Collects required Runtime files of a Poser scene (a 3D program).",
+    "created_at": "2025-11-09T11:46:22Z",
+    "updated_at": "2025-11-09T11:46:22Z",
+    "description": null,
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/41404e1fab017b291b3cdb021eaff4fd/comments",
+    "comments_url": "https://api.github.com/gists/de955083279b0d915dbea7c5e53225b4/comments",
     "owner": {
-      "login": "fulcrum6378",
-      "id": 77030894,
-      "node_id": "MDQ6VXNlcjc3MDMwODk0",
-      "avatar_url": "https://avatars.githubusercontent.com/u/77030894?v=4",
+      "login": "THEGAMER652",
+      "id": 189123868,
+      "node_id": "U_kgDOC0XNHA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189123868?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/fulcrum6378",
-      "html_url": "https://github.com/fulcrum6378",
-      "followers_url": "https://api.github.com/users/fulcrum6378/followers",
-      "following_url": "https://api.github.com/users/fulcrum6378/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fulcrum6378/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fulcrum6378/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fulcrum6378/subscriptions",
-      "organizations_url": "https://api.github.com/users/fulcrum6378/orgs",
-      "repos_url": "https://api.github.com/users/fulcrum6378/repos",
-      "events_url": "https://api.github.com/users/fulcrum6378/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fulcrum6378/received_events",
+      "url": "https://api.github.com/users/THEGAMER652",
+      "html_url": "https://github.com/THEGAMER652",
+      "followers_url": "https://api.github.com/users/THEGAMER652/followers",
+      "following_url": "https://api.github.com/users/THEGAMER652/following{/other_user}",
+      "gists_url": "https://api.github.com/users/THEGAMER652/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/THEGAMER652/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/THEGAMER652/subscriptions",
+      "organizations_url": "https://api.github.com/users/THEGAMER652/orgs",
+      "repos_url": "https://api.github.com/users/THEGAMER652/repos",
+      "events_url": "https://api.github.com/users/THEGAMER652/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/THEGAMER652/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -2401,48 +343,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/500dd4ef3bb4a67e33516f8d4201c607",
-    "forks_url": "https://api.github.com/gists/500dd4ef3bb4a67e33516f8d4201c607/forks",
-    "commits_url": "https://api.github.com/gists/500dd4ef3bb4a67e33516f8d4201c607/commits",
-    "id": "500dd4ef3bb4a67e33516f8d4201c607",
-    "node_id": "G_kwDOAMO7W9oAIDUwMGRkNGVmM2JiNGE2N2UzMzUxNmY4ZDQyMDFjNjA3",
-    "git_pull_url": "https://gist.github.com/500dd4ef3bb4a67e33516f8d4201c607.git",
-    "git_push_url": "https://gist.github.com/500dd4ef3bb4a67e33516f8d4201c607.git",
-    "html_url": "https://gist.github.com/adampielak/500dd4ef3bb4a67e33516f8d4201c607",
+    "url": "https://api.github.com/gists/259112831e61c78bcc999b36fadd12b9",
+    "forks_url": "https://api.github.com/gists/259112831e61c78bcc999b36fadd12b9/forks",
+    "commits_url": "https://api.github.com/gists/259112831e61c78bcc999b36fadd12b9/commits",
+    "id": "259112831e61c78bcc999b36fadd12b9",
+    "node_id": "G_kwDODAwEDtoAIDI1OTExMjgzMWU2MWM3OGJjYzk5OWIzNmZhZGQxMmI5",
+    "git_pull_url": "https://gist.github.com/259112831e61c78bcc999b36fadd12b9.git",
+    "git_push_url": "https://gist.github.com/259112831e61c78bcc999b36fadd12b9.git",
+    "html_url": "https://gist.github.com/ImSoDeep/259112831e61c78bcc999b36fadd12b9",
     "files": {
-      "WazuheBPFTCPTracer.py": {
-        "filename": "WazuheBPFTCPTracer.py",
-        "type": "application/x-python",
-        "language": "Python",
-        "raw_url": "https://gist.githubusercontent.com/adampielak/500dd4ef3bb4a67e33516f8d4201c607/raw/a87e9597826302120ab8986ddd110fb4f61db0b0/WazuheBPFTCPTracer.py",
-        "size": 18966
+      "7700537015_16668.txt": {
+        "filename": "7700537015_16668.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/ImSoDeep/259112831e61c78bcc999b36fadd12b9/raw/224587870e0061dd61f669a8fb1c9ab318b9bf43/7700537015_16668.txt",
+        "size": 1280
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:29:01Z",
-    "updated_at": "2025-11-09T11:29:01Z",
-    "description": "Wazuh & eBPF  established TCP connections tracer",
+    "created_at": "2025-11-09T11:44:46Z",
+    "updated_at": "2025-11-09T11:44:46Z",
+    "description": "V2Ray subscription for user 7700537015, factor 16668",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/500dd4ef3bb4a67e33516f8d4201c607/comments",
+    "comments_url": "https://api.github.com/gists/259112831e61c78bcc999b36fadd12b9/comments",
     "owner": {
-      "login": "adampielak",
-      "id": 12827483,
-      "node_id": "MDQ6VXNlcjEyODI3NDgz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12827483?v=4",
+      "login": "ImSoDeep",
+      "id": 202114062,
+      "node_id": "U_kgDODAwEDg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202114062?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/adampielak",
-      "html_url": "https://github.com/adampielak",
-      "followers_url": "https://api.github.com/users/adampielak/followers",
-      "following_url": "https://api.github.com/users/adampielak/following{/other_user}",
-      "gists_url": "https://api.github.com/users/adampielak/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/adampielak/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/adampielak/subscriptions",
-      "organizations_url": "https://api.github.com/users/adampielak/orgs",
-      "repos_url": "https://api.github.com/users/adampielak/repos",
-      "events_url": "https://api.github.com/users/adampielak/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/adampielak/received_events",
+      "url": "https://api.github.com/users/ImSoDeep",
+      "html_url": "https://github.com/ImSoDeep",
+      "followers_url": "https://api.github.com/users/ImSoDeep/followers",
+      "following_url": "https://api.github.com/users/ImSoDeep/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ImSoDeep/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ImSoDeep/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ImSoDeep/subscriptions",
+      "organizations_url": "https://api.github.com/users/ImSoDeep/orgs",
+      "repos_url": "https://api.github.com/users/ImSoDeep/repos",
+      "events_url": "https://api.github.com/users/ImSoDeep/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ImSoDeep/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -2450,48 +392,146 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/f39d09f1e067143148fbd5765d117a63",
-    "forks_url": "https://api.github.com/gists/f39d09f1e067143148fbd5765d117a63/forks",
-    "commits_url": "https://api.github.com/gists/f39d09f1e067143148fbd5765d117a63/commits",
-    "id": "f39d09f1e067143148fbd5765d117a63",
-    "node_id": "G_kwDOARiqvNoAIGYzOWQwOWYxZTA2NzE0MzE0OGZiZDU3NjVkMTE3YTYz",
-    "git_pull_url": "https://gist.github.com/f39d09f1e067143148fbd5765d117a63.git",
-    "git_push_url": "https://gist.github.com/f39d09f1e067143148fbd5765d117a63.git",
-    "html_url": "https://gist.github.com/janvarev/f39d09f1e067143148fbd5765d117a63",
+    "url": "https://api.github.com/gists/72a56cb3429b6ea566a681b7f50db55d",
+    "forks_url": "https://api.github.com/gists/72a56cb3429b6ea566a681b7f50db55d/forks",
+    "commits_url": "https://api.github.com/gists/72a56cb3429b6ea566a681b7f50db55d/commits",
+    "id": "72a56cb3429b6ea566a681b7f50db55d",
+    "node_id": "G_kwDODANB99oAIDcyYTU2Y2IzNDI5YjZlYTU2NmE2ODFiN2Y1MGRiNTVk",
+    "git_pull_url": "https://gist.github.com/72a56cb3429b6ea566a681b7f50db55d.git",
+    "git_push_url": "https://gist.github.com/72a56cb3429b6ea566a681b7f50db55d.git",
+    "html_url": "https://gist.github.com/Chicc601/72a56cb3429b6ea566a681b7f50db55d",
     "files": {
-      "plugin_tts_xtts.py": {
-        "filename": "plugin_tts_xtts.py",
-        "type": "application/x-python",
-        "language": "Python",
-        "raw_url": "https://gist.githubusercontent.com/janvarev/f39d09f1e067143148fbd5765d117a63/raw/8ecb02b52ea2215d69c94f231425ea300ec8bb4e/plugin_tts_xtts.py",
-        "size": 1693
+      "1~70_inventory_nodes.csv": {
+        "filename": "1~70_inventory_nodes.csv",
+        "type": "text/csv",
+        "language": "CSV",
+        "raw_url": "https://gist.githubusercontent.com/Chicc601/72a56cb3429b6ea566a681b7f50db55d/raw/5c7a8a085f3595667fb486b5e5800b6a234c30a7/1%7E70_inventory_nodes.csv",
+        "size": 55057
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:28:39Z",
-    "updated_at": "2025-11-09T11:28:39Z",
+    "created_at": "2025-11-09T11:44:36Z",
+    "updated_at": "2025-11-09T11:44:36Z",
+    "description": "前70条数据梳理",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/72a56cb3429b6ea566a681b7f50db55d/comments",
+    "owner": {
+      "login": "Chicc601",
+      "id": 201540087,
+      "node_id": "U_kgDODANB9w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201540087?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Chicc601",
+      "html_url": "https://github.com/Chicc601",
+      "followers_url": "https://api.github.com/users/Chicc601/followers",
+      "following_url": "https://api.github.com/users/Chicc601/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Chicc601/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Chicc601/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Chicc601/subscriptions",
+      "organizations_url": "https://api.github.com/users/Chicc601/orgs",
+      "repos_url": "https://api.github.com/users/Chicc601/repos",
+      "events_url": "https://api.github.com/users/Chicc601/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Chicc601/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a7d997f38a5342d3e3d7c5aaba465eb3",
+    "forks_url": "https://api.github.com/gists/a7d997f38a5342d3e3d7c5aaba465eb3/forks",
+    "commits_url": "https://api.github.com/gists/a7d997f38a5342d3e3d7c5aaba465eb3/commits",
+    "id": "a7d997f38a5342d3e3d7c5aaba465eb3",
+    "node_id": "G_kwDOAWatx9oAIGE3ZDk5N2YzOGE1MzQyZDNlM2Q3YzVhYWJhNDY1ZWIz",
+    "git_pull_url": "https://gist.github.com/a7d997f38a5342d3e3d7c5aaba465eb3.git",
+    "git_push_url": "https://gist.github.com/a7d997f38a5342d3e3d7c5aaba465eb3.git",
+    "html_url": "https://gist.github.com/HugsLibRecordKeeper/a7d997f38a5342d3e3d7c5aaba465eb3",
+    "files": {
+      "output_log.txt": {
+        "filename": "output_log.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/a7d997f38a5342d3e3d7c5aaba465eb3/raw/62ea12e8a5cb51d2bb205cd23db9054d0dd22b34/output_log.txt",
+        "size": 478043
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-09T11:43:19Z",
+    "updated_at": "2025-11-09T11:43:19Z",
+    "description": "Rimworld output log published using HugsLib",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/a7d997f38a5342d3e3d7c5aaba465eb3/comments",
+    "owner": {
+      "login": "HugsLibRecordKeeper",
+      "id": 23506375,
+      "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/HugsLibRecordKeeper",
+      "html_url": "https://github.com/HugsLibRecordKeeper",
+      "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
+      "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
+      "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
+      "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
+      "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
+      "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/cdb43dd9d5bb3d807c35ceea4d8cd20f",
+    "forks_url": "https://api.github.com/gists/cdb43dd9d5bb3d807c35ceea4d8cd20f/forks",
+    "commits_url": "https://api.github.com/gists/cdb43dd9d5bb3d807c35ceea4d8cd20f/commits",
+    "id": "cdb43dd9d5bb3d807c35ceea4d8cd20f",
+    "node_id": "G_kwDOB56XgtoAIGNkYjQzZGQ5ZDViYjNkODA3YzM1Y2VlYTRkOGNkMjBm",
+    "git_pull_url": "https://gist.github.com/cdb43dd9d5bb3d807c35ceea4d8cd20f.git",
+    "git_push_url": "https://gist.github.com/cdb43dd9d5bb3d807c35ceea4d8cd20f.git",
+    "html_url": "https://gist.github.com/is-hee-ya/cdb43dd9d5bb3d807c35ceea4d8cd20f",
+    "files": {
+      "Calendar.java": {
+        "filename": "Calendar.java",
+        "type": "text/x-java-source",
+        "language": "Java",
+        "raw_url": "https://gist.githubusercontent.com/is-hee-ya/cdb43dd9d5bb3d807c35ceea4d8cd20f/raw/3cab66d4cbb8635bf93fdaed6446d38e08be3260/Calendar.java",
+        "size": 1561
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-09T11:42:51Z",
+    "updated_at": "2025-11-09T11:42:51Z",
     "description": "",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/f39d09f1e067143148fbd5765d117a63/comments",
+    "comments_url": "https://api.github.com/gists/cdb43dd9d5bb3d807c35ceea4d8cd20f/comments",
     "owner": {
-      "login": "janvarev",
-      "id": 18393788,
-      "node_id": "MDQ6VXNlcjE4MzkzNzg4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18393788?v=4",
+      "login": "is-hee-ya",
+      "id": 127833986,
+      "node_id": "U_kgDOB56Xgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127833986?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/janvarev",
-      "html_url": "https://github.com/janvarev",
-      "followers_url": "https://api.github.com/users/janvarev/followers",
-      "following_url": "https://api.github.com/users/janvarev/following{/other_user}",
-      "gists_url": "https://api.github.com/users/janvarev/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/janvarev/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/janvarev/subscriptions",
-      "organizations_url": "https://api.github.com/users/janvarev/orgs",
-      "repos_url": "https://api.github.com/users/janvarev/repos",
-      "events_url": "https://api.github.com/users/janvarev/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/janvarev/received_events",
+      "url": "https://api.github.com/users/is-hee-ya",
+      "html_url": "https://github.com/is-hee-ya",
+      "followers_url": "https://api.github.com/users/is-hee-ya/followers",
+      "following_url": "https://api.github.com/users/is-hee-ya/following{/other_user}",
+      "gists_url": "https://api.github.com/users/is-hee-ya/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/is-hee-ya/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/is-hee-ya/subscriptions",
+      "organizations_url": "https://api.github.com/users/is-hee-ya/orgs",
+      "repos_url": "https://api.github.com/users/is-hee-ya/repos",
+      "events_url": "https://api.github.com/users/is-hee-ya/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/is-hee-ya/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -2499,48 +539,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/789b523c3179bf5ad455d5a48c6566bf",
-    "forks_url": "https://api.github.com/gists/789b523c3179bf5ad455d5a48c6566bf/forks",
-    "commits_url": "https://api.github.com/gists/789b523c3179bf5ad455d5a48c6566bf/commits",
-    "id": "789b523c3179bf5ad455d5a48c6566bf",
-    "node_id": "G_kwDOAMO7W9oAIDc4OWI1MjNjMzE3OWJmNWFkNDU1ZDVhNDhjNjU2NmJm",
-    "git_pull_url": "https://gist.github.com/789b523c3179bf5ad455d5a48c6566bf.git",
-    "git_push_url": "https://gist.github.com/789b523c3179bf5ad455d5a48c6566bf.git",
-    "html_url": "https://gist.github.com/adampielak/789b523c3179bf5ad455d5a48c6566bf",
+    "url": "https://api.github.com/gists/2b39eb6d48722dda3a2425a16456a0e2",
+    "forks_url": "https://api.github.com/gists/2b39eb6d48722dda3a2425a16456a0e2/forks",
+    "commits_url": "https://api.github.com/gists/2b39eb6d48722dda3a2425a16456a0e2/commits",
+    "id": "2b39eb6d48722dda3a2425a16456a0e2",
+    "node_id": "G_kwDOC0XNHNoAIDJiMzllYjZkNDg3MjJkZGEzYTI0MjVhMTY0NTZhMGUy",
+    "git_pull_url": "https://gist.github.com/2b39eb6d48722dda3a2425a16456a0e2.git",
+    "git_push_url": "https://gist.github.com/2b39eb6d48722dda3a2425a16456a0e2.git",
+    "html_url": "https://gist.github.com/THEGAMER652/2b39eb6d48722dda3a2425a16456a0e2",
     "files": {
-      "volume-WazuhManager-Migrator.sh": {
-        "filename": "volume-WazuhManager-Migrator.sh",
-        "type": "application/x-sh",
-        "language": "Shell",
-        "raw_url": "https://gist.githubusercontent.com/adampielak/789b523c3179bf5ad455d5a48c6566bf/raw/5bd67fb4f8ad9a18b43a0546fe81f02566b99d5e/volume-WazuhManager-Migrator.sh",
-        "size": 4257
+      "script.lua": {
+        "filename": "script.lua",
+        "type": "text/plain",
+        "language": "Lua",
+        "raw_url": "https://gist.githubusercontent.com/THEGAMER652/2b39eb6d48722dda3a2425a16456a0e2/raw/ebad4996b9895cfa120a3e231fcb455a7f7a3cd3/script.lua",
+        "size": 6
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:28:34Z",
-    "updated_at": "2025-11-09T11:28:34Z",
-    "description": "Migrate Wazuh Manager volume from 4.2 to 4.3",
+    "created_at": "2025-11-09T11:42:27Z",
+    "updated_at": "2025-11-09T11:42:28Z",
+    "description": null,
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/789b523c3179bf5ad455d5a48c6566bf/comments",
+    "comments_url": "https://api.github.com/gists/2b39eb6d48722dda3a2425a16456a0e2/comments",
     "owner": {
-      "login": "adampielak",
-      "id": 12827483,
-      "node_id": "MDQ6VXNlcjEyODI3NDgz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12827483?v=4",
+      "login": "THEGAMER652",
+      "id": 189123868,
+      "node_id": "U_kgDOC0XNHA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189123868?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/adampielak",
-      "html_url": "https://github.com/adampielak",
-      "followers_url": "https://api.github.com/users/adampielak/followers",
-      "following_url": "https://api.github.com/users/adampielak/following{/other_user}",
-      "gists_url": "https://api.github.com/users/adampielak/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/adampielak/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/adampielak/subscriptions",
-      "organizations_url": "https://api.github.com/users/adampielak/orgs",
-      "repos_url": "https://api.github.com/users/adampielak/repos",
-      "events_url": "https://api.github.com/users/adampielak/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/adampielak/received_events",
+      "url": "https://api.github.com/users/THEGAMER652",
+      "html_url": "https://github.com/THEGAMER652",
+      "followers_url": "https://api.github.com/users/THEGAMER652/followers",
+      "following_url": "https://api.github.com/users/THEGAMER652/following{/other_user}",
+      "gists_url": "https://api.github.com/users/THEGAMER652/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/THEGAMER652/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/THEGAMER652/subscriptions",
+      "organizations_url": "https://api.github.com/users/THEGAMER652/orgs",
+      "repos_url": "https://api.github.com/users/THEGAMER652/repos",
+      "events_url": "https://api.github.com/users/THEGAMER652/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/THEGAMER652/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -2548,59 +588,164 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/96dee25f3ce9087cd3e444f7df3c3aff",
-    "forks_url": "https://api.github.com/gists/96dee25f3ce9087cd3e444f7df3c3aff/forks",
-    "commits_url": "https://api.github.com/gists/96dee25f3ce9087cd3e444f7df3c3aff/commits",
-    "id": "96dee25f3ce9087cd3e444f7df3c3aff",
-    "node_id": "G_kwDOAF-wA9oAIDk2ZGVlMjVmM2NlOTA4N2NkM2U0NDRmN2RmM2MzYWZm",
-    "git_pull_url": "https://gist.github.com/96dee25f3ce9087cd3e444f7df3c3aff.git",
-    "git_push_url": "https://gist.github.com/96dee25f3ce9087cd3e444f7df3c3aff.git",
-    "html_url": "https://gist.github.com/choco-bot/96dee25f3ce9087cd3e444f7df3c3aff",
+    "url": "https://api.github.com/gists/e9e7d2555ad8dc7bc60fa7a844810d56",
+    "forks_url": "https://api.github.com/gists/e9e7d2555ad8dc7bc60fa7a844810d56/forks",
+    "commits_url": "https://api.github.com/gists/e9e7d2555ad8dc7bc60fa7a844810d56/commits",
+    "id": "e9e7d2555ad8dc7bc60fa7a844810d56",
+    "node_id": "G_kwDOABXZYNoAIGU5ZTdkMjU1NWFkOGRjN2JjNjBmYTdhODQ0ODEwZDU2",
+    "git_pull_url": "https://gist.github.com/e9e7d2555ad8dc7bc60fa7a844810d56.git",
+    "git_push_url": "https://gist.github.com/e9e7d2555ad8dc7bc60fa7a844810d56.git",
+    "html_url": "https://gist.github.com/konard/e9e7d2555ad8dc7bc60fa7a844810d56",
+    "files": {
+      "solution-draft-log-pr-1762688515127.txt": {
+        "filename": "solution-draft-log-pr-1762688515127.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/konard/e9e7d2555ad8dc7bc60fa7a844810d56/raw/55cced7fba4fdf8bce2f7962d3f71860ec3eac70/solution-draft-log-pr-1762688515127.txt",
+        "size": 156564
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-09T11:41:56Z",
+    "updated_at": "2025-11-09T11:41:56Z",
+    "description": "Solution draft log for https://github.com/konard/hh-questions/pull/22",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/e9e7d2555ad8dc7bc60fa7a844810d56/comments",
+    "owner": {
+      "login": "konard",
+      "id": 1431904,
+      "node_id": "MDQ6VXNlcjE0MzE5MDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1431904?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/konard",
+      "html_url": "https://github.com/konard",
+      "followers_url": "https://api.github.com/users/konard/followers",
+      "following_url": "https://api.github.com/users/konard/following{/other_user}",
+      "gists_url": "https://api.github.com/users/konard/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/konard/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/konard/subscriptions",
+      "organizations_url": "https://api.github.com/users/konard/orgs",
+      "repos_url": "https://api.github.com/users/konard/repos",
+      "events_url": "https://api.github.com/users/konard/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/konard/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/62ef429eda826867cb43fae0edb76234",
+    "forks_url": "https://api.github.com/gists/62ef429eda826867cb43fae0edb76234/forks",
+    "commits_url": "https://api.github.com/gists/62ef429eda826867cb43fae0edb76234/commits",
+    "id": "62ef429eda826867cb43fae0edb76234",
+    "node_id": "G_kwDOAsnzytoAIDYyZWY0MjllZGE4MjY4NjdjYjQzZmFlMGVkYjc2MjM0",
+    "git_pull_url": "https://gist.github.com/62ef429eda826867cb43fae0edb76234.git",
+    "git_push_url": "https://gist.github.com/62ef429eda826867cb43fae0edb76234.git",
+    "html_url": "https://gist.github.com/Chuturica/62ef429eda826867cb43fae0edb76234",
+    "files": {
+      "HH-game-script": {
+        "filename": "HH-game-script",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Chuturica/62ef429eda826867cb43fae0edb76234/raw/56e4db699c1afd717dc9c0773f800c415a3c0619/HH-game-script",
+        "size": 938197
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-09T11:40:33Z",
+    "updated_at": "2025-11-09T11:40:34Z",
+    "description": "HH game script - Season version",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/62ef429eda826867cb43fae0edb76234/comments",
+    "owner": {
+      "login": "Chuturica",
+      "id": 46789578,
+      "node_id": "MDQ6VXNlcjQ2Nzg5NTc4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46789578?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Chuturica",
+      "html_url": "https://github.com/Chuturica",
+      "followers_url": "https://api.github.com/users/Chuturica/followers",
+      "following_url": "https://api.github.com/users/Chuturica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Chuturica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Chuturica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Chuturica/subscriptions",
+      "organizations_url": "https://api.github.com/users/Chuturica/orgs",
+      "repos_url": "https://api.github.com/users/Chuturica/repos",
+      "events_url": "https://api.github.com/users/Chuturica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Chuturica/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/d9e63622e6c88c29e411ab53126598a4",
+    "forks_url": "https://api.github.com/gists/d9e63622e6c88c29e411ab53126598a4/forks",
+    "commits_url": "https://api.github.com/gists/d9e63622e6c88c29e411ab53126598a4/commits",
+    "id": "d9e63622e6c88c29e411ab53126598a4",
+    "node_id": "G_kwDOAF-wA9oAIGQ5ZTYzNjIyZTZjODhjMjllNDExYWI1MzEyNjU5OGE0",
+    "git_pull_url": "https://gist.github.com/d9e63622e6c88c29e411ab53126598a4.git",
+    "git_push_url": "https://gist.github.com/d9e63622e6c88c29e411ab53126598a4.git",
+    "html_url": "https://gist.github.com/choco-bot/d9e63622e6c88c29e411ab53126598a4",
     "files": {
       "1.RegistrySnapshot.xml": {
         "filename": "1.RegistrySnapshot.xml",
         "type": "application/xml",
         "language": "XML",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96dee25f3ce9087cd3e444f7df3c3aff/raw/7a9f2e60f0323aa70e385408617d129cbe9dfc61/1.RegistrySnapshot.xml",
-        "size": 1192
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/d9e63622e6c88c29e411ab53126598a4/raw/ed62dbbabdc060a3173e4d8627558caf94eef88b/1.RegistrySnapshot.xml",
+        "size": 1276
       },
       "FilesSnapshot.xml": {
         "filename": "FilesSnapshot.xml",
         "type": "application/xml",
         "language": "XML",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96dee25f3ce9087cd3e444f7df3c3aff/raw/9c51c95f0a46a67554e96bdab73ca5f199581f5a/FilesSnapshot.xml",
-        "size": 614
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/d9e63622e6c88c29e411ab53126598a4/raw/8dba5b81ee9487dca9b27acc8bf2d30be32c76e2/FilesSnapshot.xml",
+        "size": 698
       },
       "Install.txt": {
         "filename": "Install.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96dee25f3ce9087cd3e444f7df3c3aff/raw/4296d7fc986927fae3ecb14bbbcb8f6948978a5c/Install.txt",
-        "size": 50606
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/d9e63622e6c88c29e411ab53126598a4/raw/611e46ce56ae5f567fc41f823e469b0820f09b4e/Install.txt",
+        "size": 50322
       },
       "Uninstall.txt": {
         "filename": "Uninstall.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96dee25f3ce9087cd3e444f7df3c3aff/raw/1e4fd9f7df6ba94acfd00c0947e2e531a1d4e693/Uninstall.txt",
-        "size": 24241
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/d9e63622e6c88c29e411ab53126598a4/raw/2827122d621188a5bc1c1fb55e5bc79d65c6a375/Uninstall.txt",
+        "size": 40606
+      },
+      "UninstallImage.md": {
+        "filename": "UninstallImage.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/d9e63622e6c88c29e411ab53126598a4/raw/140b60534bafcb31afce691c5886f079fe716275/UninstallImage.md",
+        "size": 240
       },
       "_Summary.md": {
         "filename": "_Summary.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96dee25f3ce9087cd3e444f7df3c3aff/raw/b98434dfb10735c1ce0250b088868fc70510c18c/_Summary.md",
-        "size": 499
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/d9e63622e6c88c29e411ab53126598a4/raw/05ea1aa6db7ea7620937fe4602ad4b0e492ef595/_Summary.md",
+        "size": 727
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:28:06Z",
-    "updated_at": "2025-11-09T11:28:06Z",
-    "description": "goldendict.install v1.0.1 - Passed - Package Tests Results",
+    "created_at": "2025-11-09T11:38:46Z",
+    "updated_at": "2025-11-09T11:38:46Z",
+    "description": "wizmouse v1.7.0.3 - Passed - Package Tests Results",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/96dee25f3ce9087cd3e444f7df3c3aff/comments",
+    "comments_url": "https://api.github.com/gists/d9e63622e6c88c29e411ab53126598a4/comments",
     "owner": {
       "login": "choco-bot",
       "id": 6270979,
@@ -2625,293 +770,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/c74de4b1eaa6a0ad9b305b23514d617e",
-    "forks_url": "https://api.github.com/gists/c74de4b1eaa6a0ad9b305b23514d617e/forks",
-    "commits_url": "https://api.github.com/gists/c74de4b1eaa6a0ad9b305b23514d617e/commits",
-    "id": "c74de4b1eaa6a0ad9b305b23514d617e",
-    "node_id": "G_kwDOAWatx9oAIGM3NGRlNGIxZWFhNmEwYWQ5YjMwNWIyMzUxNGQ2MTdl",
-    "git_pull_url": "https://gist.github.com/c74de4b1eaa6a0ad9b305b23514d617e.git",
-    "git_push_url": "https://gist.github.com/c74de4b1eaa6a0ad9b305b23514d617e.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/c74de4b1eaa6a0ad9b305b23514d617e",
+    "url": "https://api.github.com/gists/db8ba3675872fbd2cd1f6790e5e4a75e",
+    "forks_url": "https://api.github.com/gists/db8ba3675872fbd2cd1f6790e5e4a75e/forks",
+    "commits_url": "https://api.github.com/gists/db8ba3675872fbd2cd1f6790e5e4a75e/commits",
+    "id": "db8ba3675872fbd2cd1f6790e5e4a75e",
+    "node_id": "G_kwDODcCvC9oAIGRiOGJhMzY3NTg3MmZiZDJjZDFmNjc5MGU1ZTRhNzVl",
+    "git_pull_url": "https://gist.github.com/db8ba3675872fbd2cd1f6790e5e4a75e.git",
+    "git_push_url": "https://gist.github.com/db8ba3675872fbd2cd1f6790e5e4a75e.git",
+    "html_url": "https://gist.github.com/Ivane120585/db8ba3675872fbd2cd1f6790e5e4a75e",
     "files": {
-      "output_log.txt": {
-        "filename": "output_log.txt",
+      "SCROLL TWENTY-NINE COMMENTARY PLAYBACK SURGE SYSTEMS BROADCASTED": {
+        "filename": "SCROLL TWENTY-NINE COMMENTARY PLAYBACK SURGE SYSTEMS BROADCASTED",
         "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/c74de4b1eaa6a0ad9b305b23514d617e/raw/7b7903fa8566991dc75df389d73336ea5d9e0128/output_log.txt",
-        "size": 466983
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Ivane120585/db8ba3675872fbd2cd1f6790e5e4a75e/raw/6660ff5fb385935a5f734d88fb19c1efc1eb366b/SCROLL%20TWENTY-NINE%20COMMENTARY%20PLAYBACK%20SURGE%20SYSTEMS%20BROADCASTED",
+        "size": 741
       }
     },
     "public": true,
-    "created_at": "2025-11-09T11:27:23Z",
-    "updated_at": "2025-11-09T11:27:24Z",
-    "description": "Rimworld output log published using HugsLib",
+    "created_at": "2025-11-09T11:38:39Z",
+    "updated_at": "2025-11-09T11:38:39Z",
+    "description": "Ivane Shaorshadze",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/c74de4b1eaa6a0ad9b305b23514d617e/comments",
+    "comments_url": "https://api.github.com/gists/db8ba3675872fbd2cd1f6790e5e4a75e/comments",
     "owner": {
-      "login": "HugsLibRecordKeeper",
-      "id": 23506375,
-      "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
+      "login": "Ivane120585",
+      "id": 230731531,
+      "node_id": "U_kgDODcCvCw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230731531?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/HugsLibRecordKeeper",
-      "html_url": "https://github.com/HugsLibRecordKeeper",
-      "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
-      "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
-      "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
-      "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
-      "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
-      "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/2601ac9f1712b0693d9de4fe2311e2b5",
-    "forks_url": "https://api.github.com/gists/2601ac9f1712b0693d9de4fe2311e2b5/forks",
-    "commits_url": "https://api.github.com/gists/2601ac9f1712b0693d9de4fe2311e2b5/commits",
-    "id": "2601ac9f1712b0693d9de4fe2311e2b5",
-    "node_id": "G_kwDOAWatx9oAIDI2MDFhYzlmMTcxMmIwNjkzZDlkZTRmZTIzMTFlMmI1",
-    "git_pull_url": "https://gist.github.com/2601ac9f1712b0693d9de4fe2311e2b5.git",
-    "git_push_url": "https://gist.github.com/2601ac9f1712b0693d9de4fe2311e2b5.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/2601ac9f1712b0693d9de4fe2311e2b5",
-    "files": {
-      "output_log.txt": {
-        "filename": "output_log.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/2601ac9f1712b0693d9de4fe2311e2b5/raw/4980792cc61b3cb0dfc36175ade3bfe2736d8ce6/output_log.txt",
-        "size": 448857
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:27:19Z",
-    "updated_at": "2025-11-09T11:27:19Z",
-    "description": "Rimworld output log published using HugsLib",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/2601ac9f1712b0693d9de4fe2311e2b5/comments",
-    "owner": {
-      "login": "HugsLibRecordKeeper",
-      "id": 23506375,
-      "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/HugsLibRecordKeeper",
-      "html_url": "https://github.com/HugsLibRecordKeeper",
-      "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
-      "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
-      "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
-      "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
-      "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
-      "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/6260ccc855a6e912879df1436a825a89",
-    "forks_url": "https://api.github.com/gists/6260ccc855a6e912879df1436a825a89/forks",
-    "commits_url": "https://api.github.com/gists/6260ccc855a6e912879df1436a825a89/commits",
-    "id": "6260ccc855a6e912879df1436a825a89",
-    "node_id": "G_kwDODdXZYNoAIDYyNjBjY2M4NTVhNmU5MTI4NzlkZjE0MzZhODI1YTg5",
-    "git_pull_url": "https://gist.github.com/6260ccc855a6e912879df1436a825a89.git",
-    "git_push_url": "https://gist.github.com/6260ccc855a6e912879df1436a825a89.git",
-    "html_url": "https://gist.github.com/lusirimon/6260ccc855a6e912879df1436a825a89",
-    "files": {
-      "LJ_original_foto_aspekt.js": {
-        "filename": "LJ_original_foto_aspekt.js",
-        "type": "text/javascript",
-        "language": "JavaScript",
-        "raw_url": "https://gist.githubusercontent.com/lusirimon/6260ccc855a6e912879df1436a825a89/raw/20b80d3294843afbf3f08aa8a77535495f4996dc/LJ_original_foto_aspekt.js",
-        "size": 7357
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:27:18Z",
-    "updated_at": "2025-11-09T11:27:18Z",
-    "description": "",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/6260ccc855a6e912879df1436a825a89/comments",
-    "owner": {
-      "login": "lusirimon",
-      "id": 232118624,
-      "node_id": "U_kgDODdXZYA",
-      "avatar_url": "https://avatars.githubusercontent.com/u/232118624?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lusirimon",
-      "html_url": "https://github.com/lusirimon",
-      "followers_url": "https://api.github.com/users/lusirimon/followers",
-      "following_url": "https://api.github.com/users/lusirimon/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lusirimon/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lusirimon/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lusirimon/subscriptions",
-      "organizations_url": "https://api.github.com/users/lusirimon/orgs",
-      "repos_url": "https://api.github.com/users/lusirimon/repos",
-      "events_url": "https://api.github.com/users/lusirimon/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lusirimon/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/e343d4dffddb3f8c5f6766c474ef793c",
-    "forks_url": "https://api.github.com/gists/e343d4dffddb3f8c5f6766c474ef793c/forks",
-    "commits_url": "https://api.github.com/gists/e343d4dffddb3f8c5f6766c474ef793c/commits",
-    "id": "e343d4dffddb3f8c5f6766c474ef793c",
-    "node_id": "G_kwDODjzb1toAIGUzNDNkNGRmZmRkYjNmOGM1ZjY3NjZjNDc0ZWY3OTNj",
-    "git_pull_url": "https://gist.github.com/e343d4dffddb3f8c5f6766c474ef793c.git",
-    "git_push_url": "https://gist.github.com/e343d4dffddb3f8c5f6766c474ef793c.git",
-    "html_url": "https://gist.github.com/hannah-so-hot/e343d4dffddb3f8c5f6766c474ef793c",
-    "files": {
-      "7.1.py": {
-        "filename": "7.1.py",
-        "type": "application/x-python",
-        "language": "Python",
-        "raw_url": "https://gist.githubusercontent.com/hannah-so-hot/e343d4dffddb3f8c5f6766c474ef793c/raw/3a31e16bccf9fca2e6c52c2333302b9fc6ed79fd/7.1.py",
-        "size": 70
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:26:56Z",
-    "updated_at": "2025-11-09T11:26:56Z",
-    "description": "",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/e343d4dffddb3f8c5f6766c474ef793c/comments",
-    "owner": {
-      "login": "hannah-so-hot",
-      "id": 238869462,
-      "node_id": "U_kgDODjzb1g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/238869462?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/hannah-so-hot",
-      "html_url": "https://github.com/hannah-so-hot",
-      "followers_url": "https://api.github.com/users/hannah-so-hot/followers",
-      "following_url": "https://api.github.com/users/hannah-so-hot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/hannah-so-hot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/hannah-so-hot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/hannah-so-hot/subscriptions",
-      "organizations_url": "https://api.github.com/users/hannah-so-hot/orgs",
-      "repos_url": "https://api.github.com/users/hannah-so-hot/repos",
-      "events_url": "https://api.github.com/users/hannah-so-hot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/hannah-so-hot/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/42ea44dafd0ccd7a3c8629bfaafe5c8c",
-    "forks_url": "https://api.github.com/gists/42ea44dafd0ccd7a3c8629bfaafe5c8c/forks",
-    "commits_url": "https://api.github.com/gists/42ea44dafd0ccd7a3c8629bfaafe5c8c/commits",
-    "id": "42ea44dafd0ccd7a3c8629bfaafe5c8c",
-    "node_id": "G_kwDOBsnrVtoAIDQyZWE0NGRhZmQwY2NkN2EzYzg2MjliZmFhZmU1Yzhj",
-    "git_pull_url": "https://gist.github.com/42ea44dafd0ccd7a3c8629bfaafe5c8c.git",
-    "git_push_url": "https://gist.github.com/42ea44dafd0ccd7a3c8629bfaafe5c8c.git",
-    "html_url": "https://gist.github.com/zeeqaa/42ea44dafd0ccd7a3c8629bfaafe5c8c",
-    "files": {
-      "شاهد فيديو سكس رحمه محسن المسرب الجديد في اوضة الن.md": {
-        "filename": "شاهد فيديو سكس رحمه محسن المسرب الجديد في اوضة الن.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/zeeqaa/42ea44dafd0ccd7a3c8629bfaafe5c8c/raw/b5d5b074bb6937b890954da6fbf4ffc24e5ce32a/%D8%B4%D8%A7%D9%87%D8%AF%20%D9%81%D9%8A%D8%AF%D9%8A%D9%88%20%D8%B3%D9%83%D8%B3%20%D8%B1%D8%AD%D9%85%D9%87%20%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%20%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%20%D9%81%D9%8A%20%D8%A7%D9%88%D8%B6%D8%A9%20%D8%A7%D9%84%D9%86.md",
-        "size": 7137
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:26:42Z",
-    "updated_at": "2025-11-09T11:26:42Z",
-    "description": "شاهد فيديو سكس رحمه محسن المسرب الجديد في اوضة الن",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/42ea44dafd0ccd7a3c8629bfaafe5c8c/comments",
-    "owner": {
-      "login": "zeeqaa",
-      "id": 113896278,
-      "node_id": "U_kgDOBsnrVg",
-      "avatar_url": "https://avatars.githubusercontent.com/u/113896278?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/zeeqaa",
-      "html_url": "https://github.com/zeeqaa",
-      "followers_url": "https://api.github.com/users/zeeqaa/followers",
-      "following_url": "https://api.github.com/users/zeeqaa/following{/other_user}",
-      "gists_url": "https://api.github.com/users/zeeqaa/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/zeeqaa/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/zeeqaa/subscriptions",
-      "organizations_url": "https://api.github.com/users/zeeqaa/orgs",
-      "repos_url": "https://api.github.com/users/zeeqaa/repos",
-      "events_url": "https://api.github.com/users/zeeqaa/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/zeeqaa/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/526018edfe210b626eb050d85076fb33",
-    "forks_url": "https://api.github.com/gists/526018edfe210b626eb050d85076fb33/forks",
-    "commits_url": "https://api.github.com/gists/526018edfe210b626eb050d85076fb33/commits",
-    "id": "526018edfe210b626eb050d85076fb33",
-    "node_id": "G_kwDOBsnrVtoAIDUyNjAxOGVkZmUyMTBiNjI2ZWIwNTBkODUwNzZmYjMz",
-    "git_pull_url": "https://gist.github.com/526018edfe210b626eb050d85076fb33.git",
-    "git_push_url": "https://gist.github.com/526018edfe210b626eb050d85076fb33.git",
-    "html_url": "https://gist.github.com/zeeqaa/526018edfe210b626eb050d85076fb33",
-    "files": {
-      "shil.md": {
-        "filename": "shil.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/zeeqaa/526018edfe210b626eb050d85076fb33/raw/6392338c2afcc75781cd26d6b47dc0d02d52b381/shil.md",
-        "size": 7160
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-09T11:26:37Z",
-    "updated_at": "2025-11-09T11:26:37Z",
-    "description": "[clip!]*شاهد فيديو سكس رحمه محسن المسرب الجديد في اوضة النوم +18 للكبار",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/526018edfe210b626eb050d85076fb33/comments",
-    "owner": {
-      "login": "zeeqaa",
-      "id": 113896278,
-      "node_id": "U_kgDOBsnrVg",
-      "avatar_url": "https://avatars.githubusercontent.com/u/113896278?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/zeeqaa",
-      "html_url": "https://github.com/zeeqaa",
-      "followers_url": "https://api.github.com/users/zeeqaa/followers",
-      "following_url": "https://api.github.com/users/zeeqaa/following{/other_user}",
-      "gists_url": "https://api.github.com/users/zeeqaa/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/zeeqaa/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/zeeqaa/subscriptions",
-      "organizations_url": "https://api.github.com/users/zeeqaa/orgs",
-      "repos_url": "https://api.github.com/users/zeeqaa/repos",
-      "events_url": "https://api.github.com/users/zeeqaa/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/zeeqaa/received_events",
+      "url": "https://api.github.com/users/Ivane120585",
+      "html_url": "https://github.com/Ivane120585",
+      "followers_url": "https://api.github.com/users/Ivane120585/followers",
+      "following_url": "https://api.github.com/users/Ivane120585/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Ivane120585/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Ivane120585/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Ivane120585/subscriptions",
+      "organizations_url": "https://api.github.com/users/Ivane120585/orgs",
+      "repos_url": "https://api.github.com/users/Ivane120585/repos",
+      "events_url": "https://api.github.com/users/Ivane120585/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Ivane120585/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
