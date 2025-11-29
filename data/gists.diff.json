@@ -1,30 +1,128 @@
 [
   {
-    "url": "https://api.github.com/gists/16395d5bfa8a2e7a063fb9f3496df89e",
-    "forks_url": "https://api.github.com/gists/16395d5bfa8a2e7a063fb9f3496df89e/forks",
-    "commits_url": "https://api.github.com/gists/16395d5bfa8a2e7a063fb9f3496df89e/commits",
-    "id": "16395d5bfa8a2e7a063fb9f3496df89e",
-    "node_id": "G_kwDOBUWb_doAIDE2Mzk1ZDViZmE4YTJlN2EwNjNmYjlmMzQ5NmRmODll",
-    "git_pull_url": "https://gist.github.com/16395d5bfa8a2e7a063fb9f3496df89e.git",
-    "git_push_url": "https://gist.github.com/16395d5bfa8a2e7a063fb9f3496df89e.git",
-    "html_url": "https://gist.github.com/rh-operator-bundle-bot/16395d5bfa8a2e7a063fb9f3496df89e",
+    "url": "https://api.github.com/gists/23c6eedf2c1759289766f4fdad710e74",
+    "forks_url": "https://api.github.com/gists/23c6eedf2c1759289766f4fdad710e74/forks",
+    "commits_url": "https://api.github.com/gists/23c6eedf2c1759289766f4fdad710e74/commits",
+    "id": "23c6eedf2c1759289766f4fdad710e74",
+    "node_id": "G_kwDOALcxktoAIDIzYzZlZWRmMmMxNzU5Mjg5NzY2ZjRmZGFkNzEwZTc0",
+    "git_pull_url": "https://gist.github.com/23c6eedf2c1759289766f4fdad710e74.git",
+    "git_push_url": "https://gist.github.com/23c6eedf2c1759289766f4fdad710e74.git",
+    "html_url": "https://gist.github.com/IvanGulizia/23c6eedf2c1759289766f4fdad710e74",
     "files": {
-      "operator-release-pipeline-run267wd.log": {
-        "filename": "operator-release-pipeline-run267wd.log",
+      "gistfile1.txt": {
+        "filename": "gistfile1.txt",
         "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/16395d5bfa8a2e7a063fb9f3496df89e/raw/54c86f21f9b32a7723ed4234f00eedb8cd0729b7/operator-release-pipeline-run267wd.log",
-        "size": 46936
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/IvanGulizia/23c6eedf2c1759289766f4fdad710e74/raw/424e1ae4fb75d55e2e64a6833c6dcbb862b812af/gistfile1.txt",
+        "size": 128789
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:45:10Z",
-    "updated_at": "2025-11-29T09:45:11Z",
+    "created_at": "2025-11-29T09:55:04Z",
+    "updated_at": "2025-11-29T09:55:05Z",
+    "description": "",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/23c6eedf2c1759289766f4fdad710e74/comments",
+    "owner": {
+      "login": "IvanGulizia",
+      "id": 12005778,
+      "node_id": "MDQ6VXNlcjEyMDA1Nzc4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12005778?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/IvanGulizia",
+      "html_url": "https://github.com/IvanGulizia",
+      "followers_url": "https://api.github.com/users/IvanGulizia/followers",
+      "following_url": "https://api.github.com/users/IvanGulizia/following{/other_user}",
+      "gists_url": "https://api.github.com/users/IvanGulizia/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/IvanGulizia/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/IvanGulizia/subscriptions",
+      "organizations_url": "https://api.github.com/users/IvanGulizia/orgs",
+      "repos_url": "https://api.github.com/users/IvanGulizia/repos",
+      "events_url": "https://api.github.com/users/IvanGulizia/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/IvanGulizia/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b9e2b8bea06f0d30e9f551e8324bf916",
+    "forks_url": "https://api.github.com/gists/b9e2b8bea06f0d30e9f551e8324bf916/forks",
+    "commits_url": "https://api.github.com/gists/b9e2b8bea06f0d30e9f551e8324bf916/commits",
+    "id": "b9e2b8bea06f0d30e9f551e8324bf916",
+    "node_id": "G_kwDODgnzXdoAIGI5ZTJiOGJlYTA2ZjBkMzBlOWY1NTFlODMyNGJmOTE2",
+    "git_pull_url": "https://gist.github.com/b9e2b8bea06f0d30e9f551e8324bf916.git",
+    "git_push_url": "https://gist.github.com/b9e2b8bea06f0d30e9f551e8324bf916.git",
+    "html_url": "https://gist.github.com/maruf127679-pixel/b9e2b8bea06f0d30e9f551e8324bf916",
+    "files": {
+      "sing.js": {
+        "filename": "sing.js",
+        "type": "text/javascript",
+        "language": "JavaScript",
+        "raw_url": "https://gist.githubusercontent.com/maruf127679-pixel/b9e2b8bea06f0d30e9f551e8324bf916/raw/fb9487bd0ed88a5463884c9efba9c27c0d81ddef/sing.js",
+        "size": 4717
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:55:03Z",
+    "updated_at": "2025-11-29T09:55:03Z",
+    "description": "Gist created via bot command: sing.js",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/b9e2b8bea06f0d30e9f551e8324bf916/comments",
+    "owner": {
+      "login": "maruf127679-pixel",
+      "id": 235533149,
+      "node_id": "U_kgDODgnzXQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235533149?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maruf127679-pixel",
+      "html_url": "https://github.com/maruf127679-pixel",
+      "followers_url": "https://api.github.com/users/maruf127679-pixel/followers",
+      "following_url": "https://api.github.com/users/maruf127679-pixel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/maruf127679-pixel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/maruf127679-pixel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/maruf127679-pixel/subscriptions",
+      "organizations_url": "https://api.github.com/users/maruf127679-pixel/orgs",
+      "repos_url": "https://api.github.com/users/maruf127679-pixel/repos",
+      "events_url": "https://api.github.com/users/maruf127679-pixel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/maruf127679-pixel/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b05c8147238425116908b62864f680d9",
+    "forks_url": "https://api.github.com/gists/b05c8147238425116908b62864f680d9/forks",
+    "commits_url": "https://api.github.com/gists/b05c8147238425116908b62864f680d9/commits",
+    "id": "b05c8147238425116908b62864f680d9",
+    "node_id": "G_kwDOBUWb_doAIGIwNWM4MTQ3MjM4NDI1MTE2OTA4YjYyODY0ZjY4MGQ5",
+    "git_pull_url": "https://gist.github.com/b05c8147238425116908b62864f680d9.git",
+    "git_push_url": "https://gist.github.com/b05c8147238425116908b62864f680d9.git",
+    "html_url": "https://gist.github.com/rh-operator-bundle-bot/b05c8147238425116908b62864f680d9",
+    "files": {
+      "operator-release-pipeline-runfshj8.log": {
+        "filename": "operator-release-pipeline-runfshj8.log",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/b05c8147238425116908b62864f680d9/raw/f10a2642afe9f80e63856103cfd0d6e7fe00b3e9/operator-release-pipeline-runfshj8.log",
+        "size": 358368
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:54:41Z",
+    "updated_at": "2025-11-29T09:54:42Z",
     "description": null,
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/16395d5bfa8a2e7a063fb9f3496df89e/comments",
+    "comments_url": "https://api.github.com/gists/b05c8147238425116908b62864f680d9/comments",
     "owner": {
       "login": "rh-operator-bundle-bot",
       "id": 88447997,
@@ -49,31 +147,31 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/a73d894bddb035e1a8a292b432491564",
-    "forks_url": "https://api.github.com/gists/a73d894bddb035e1a8a292b432491564/forks",
-    "commits_url": "https://api.github.com/gists/a73d894bddb035e1a8a292b432491564/commits",
-    "id": "a73d894bddb035e1a8a292b432491564",
-    "node_id": "G_kwDOAWatx9oAIGE3M2Q4OTRiZGRiMDM1ZTFhOGEyOTJiNDMyNDkxNTY0",
-    "git_pull_url": "https://gist.github.com/a73d894bddb035e1a8a292b432491564.git",
-    "git_push_url": "https://gist.github.com/a73d894bddb035e1a8a292b432491564.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/a73d894bddb035e1a8a292b432491564",
+    "url": "https://api.github.com/gists/12b53c64441e23fd49be21c903fa6904",
+    "forks_url": "https://api.github.com/gists/12b53c64441e23fd49be21c903fa6904/forks",
+    "commits_url": "https://api.github.com/gists/12b53c64441e23fd49be21c903fa6904/commits",
+    "id": "12b53c64441e23fd49be21c903fa6904",
+    "node_id": "G_kwDOAWatx9oAIDEyYjUzYzY0NDQxZTIzZmQ0OWJlMjFjOTAzZmE2OTA0",
+    "git_pull_url": "https://gist.github.com/12b53c64441e23fd49be21c903fa6904.git",
+    "git_push_url": "https://gist.github.com/12b53c64441e23fd49be21c903fa6904.git",
+    "html_url": "https://gist.github.com/HugsLibRecordKeeper/12b53c64441e23fd49be21c903fa6904",
     "files": {
       "output_log.txt": {
         "filename": "output_log.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/a73d894bddb035e1a8a292b432491564/raw/621a7f7f5925b39de962f45a423b0bcc3beb4b32/output_log.txt",
-        "size": 510534
+        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/12b53c64441e23fd49be21c903fa6904/raw/ad275c00acb121a4825e9224391983438b3929a8/output_log.txt",
+        "size": 882122
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:44:56Z",
-    "updated_at": "2025-11-29T09:44:56Z",
-    "description": "Rimworld output log published using HugsLib Standalone Log Publisher",
+    "created_at": "2025-11-29T09:54:33Z",
+    "updated_at": "2025-11-29T09:54:34Z",
+    "description": "Rimworld output log published using HugsLib",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/a73d894bddb035e1a8a292b432491564/comments",
+    "comments_url": "https://api.github.com/gists/12b53c64441e23fd49be21c903fa6904/comments",
     "owner": {
       "login": "HugsLibRecordKeeper",
       "id": 23506375,
@@ -98,1098 +196,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/9f0c59349bb076f18c6c7b38031f6414",
-    "forks_url": "https://api.github.com/gists/9f0c59349bb076f18c6c7b38031f6414/forks",
-    "commits_url": "https://api.github.com/gists/9f0c59349bb076f18c6c7b38031f6414/commits",
-    "id": "9f0c59349bb076f18c6c7b38031f6414",
-    "node_id": "G_kwDOBUWb_doAIDlmMGM1OTM0OWJiMDc2ZjE4YzZjN2IzODAzMWY2NDE0",
-    "git_pull_url": "https://gist.github.com/9f0c59349bb076f18c6c7b38031f6414.git",
-    "git_push_url": "https://gist.github.com/9f0c59349bb076f18c6c7b38031f6414.git",
-    "html_url": "https://gist.github.com/rh-operator-bundle-bot/9f0c59349bb076f18c6c7b38031f6414",
+    "url": "https://api.github.com/gists/b9a66d785a425ea73e83e30b6bcd15c2",
+    "forks_url": "https://api.github.com/gists/b9a66d785a425ea73e83e30b6bcd15c2/forks",
+    "commits_url": "https://api.github.com/gists/b9a66d785a425ea73e83e30b6bcd15c2/commits",
+    "id": "b9a66d785a425ea73e83e30b6bcd15c2",
+    "node_id": "G_kwDOAZS4nNoAIGI5YTY2ZDc4NWE0MjVlYTczZTgzZTMwYjZiY2QxNWMy",
+    "git_pull_url": "https://gist.github.com/b9a66d785a425ea73e83e30b6bcd15c2.git",
+    "git_push_url": "https://gist.github.com/b9a66d785a425ea73e83e30b6bcd15c2.git",
+    "html_url": "https://gist.github.com/boegelbot/b9a66d785a425ea73e83e30b6bcd15c2",
     "files": {
-      "operator-hosted-pipeline-runk6hl5.log": {
-        "filename": "operator-hosted-pipeline-runk6hl5.log",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/9f0c59349bb076f18c6c7b38031f6414/raw/75a7b7862b8dbe51bc8e7d8ce8338ba2eb5e9cbb/operator-hosted-pipeline-runk6hl5.log",
-        "size": 134620
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:44:16Z",
-    "updated_at": "2025-11-29T09:44:16Z",
-    "description": null,
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/9f0c59349bb076f18c6c7b38031f6414/comments",
-    "owner": {
-      "login": "rh-operator-bundle-bot",
-      "id": 88447997,
-      "node_id": "MDQ6VXNlcjg4NDQ3OTk3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/88447997?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/rh-operator-bundle-bot",
-      "html_url": "https://github.com/rh-operator-bundle-bot",
-      "followers_url": "https://api.github.com/users/rh-operator-bundle-bot/followers",
-      "following_url": "https://api.github.com/users/rh-operator-bundle-bot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/rh-operator-bundle-bot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/rh-operator-bundle-bot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/rh-operator-bundle-bot/subscriptions",
-      "organizations_url": "https://api.github.com/users/rh-operator-bundle-bot/orgs",
-      "repos_url": "https://api.github.com/users/rh-operator-bundle-bot/repos",
-      "events_url": "https://api.github.com/users/rh-operator-bundle-bot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/rh-operator-bundle-bot/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/1dceb46c096cc129f509b1f5bb925281",
-    "forks_url": "https://api.github.com/gists/1dceb46c096cc129f509b1f5bb925281/forks",
-    "commits_url": "https://api.github.com/gists/1dceb46c096cc129f509b1f5bb925281/commits",
-    "id": "1dceb46c096cc129f509b1f5bb925281",
-    "node_id": "G_kwDOA1fxUtoAIDFkY2ViNDZjMDk2Y2MxMjlmNTA5YjFmNWJiOTI1Mjgx",
-    "git_pull_url": "https://gist.github.com/1dceb46c096cc129f509b1f5bb925281.git",
-    "git_push_url": "https://gist.github.com/1dceb46c096cc129f509b1f5bb925281.git",
-    "html_url": "https://gist.github.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281",
-    "files": {
-      ".deps...npm...@openzeppelin...contracts...access...Ownable.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...Ownable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/bd96f6661dcbf7b2d4948823ac0e7bfb4ba31fb1/.deps...npm...%40openzeppelin...contracts...access...Ownable.sol",
-        "size": 3102
-      },
-      ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/aef2b0a0eb956a02ef20a7840e826d36fdd25589/.deps...npm...%40openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "size": 6538
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/886febc552f78b1f1fbec494d96a54dff3620120/.deps...npm...%40openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "size": 10798
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/b493743a10c4fba04d91014cbdb7f69b639480c1/.deps...npm...%40openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "size": 2781
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/87bbafa84b834af1da027455bdc2e8a87beeb438/.deps...npm...%40openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "size": 684
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...Context.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...Context.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/4e535fe03c243f864568b8f4430c17c25dbadb47/.deps...npm...%40openzeppelin...contracts...utils...Context.sol",
-        "size": 963
-      },
-      ".prettierrc.json": {
-        "filename": ".prettierrc.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/b2a56f23717b4b9b8f05d45363a0fd58c657ce6e/.prettierrc.json",
-        "size": 758
-      },
-      "NakamotoToken.sol": {
-        "filename": "NakamotoToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/9f2bde7fd09ea0fe8999473114b0a7104f32a7b4/NakamotoToken.sol",
-        "size": 1455
-      },
-      "README.txt": {
-        "filename": "README.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/4b936e9ee108c03a9212f848522aa0ba35e9f789/README.txt",
-        "size": 1494
-      },
-      "contracts...1_Storage.sol": {
-        "filename": "contracts...1_Storage.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/dd1e15d25e783b6eb2149c024787678c663616f7/contracts...1_Storage.sol",
-        "size": 555
-      },
-      "contracts...2_Owner.sol": {
-        "filename": "contracts...2_Owner.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/7aff9aa3d5c2ac9eec1add0101a061835c056998/contracts...2_Owner.sol",
-        "size": 1652
-      },
-      "contracts...3_Ballot.sol": {
-        "filename": "contracts...3_Ballot.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/56b215955168a0867388822328104604acdf0772/contracts...3_Ballot.sol",
-        "size": 6216
-      },
-      "remix.config.json": {
-        "filename": "remix.config.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/13801eefca38e0544fef6b2492ffd7038a4ced7a/remix.config.json",
-        "size": 688
-      },
-      "scripts...deploy_with_ethers.ts": {
-        "filename": "scripts...deploy_with_ethers.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/513d496d7638a86e7b7339272f853a7053429336/scripts...deploy_with_ethers.ts",
-        "size": 488
-      },
-      "scripts...ethers-lib.ts": {
-        "filename": "scripts...ethers-lib.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/c5dd03f7deb6a05afaadcd8218bdbcc41e571d5a/scripts...ethers-lib.ts",
-        "size": 1227
-      },
-      "tests...Ballot_test.sol": {
-        "filename": "tests...Ballot_test.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/49146e99facba02fce64738239bec0b835cec15b/tests...Ballot_test.sol",
-        "size": 938
-      },
-      "tests...storage.test.js": {
-        "filename": "tests...storage.test.js",
-        "type": "text/javascript",
-        "language": "JavaScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/1dceb46c096cc129f509b1f5bb925281/raw/8e37b7c39b76b12519a9f931ba858624e573e1f7/tests...storage.test.js",
-        "size": 947
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:43:29Z",
-    "updated_at": "2025-11-29T09:43:30Z",
-    "description": "Created using remix-ide: Realtime Ethereum Contract Compiler and Runtime. \n Load this file by pasting this gists URL or ID at https://remix.ethereum.org/#version=soljson-v0.8.30+commit.73712a01.js&optimize=undefined&runs=200&gist=",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/1dceb46c096cc129f509b1f5bb925281/comments",
-    "owner": {
-      "login": "SatoshiNakamotogmx",
-      "id": 56095058,
-      "node_id": "MDQ6VXNlcjU2MDk1MDU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/56095058?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SatoshiNakamotogmx",
-      "html_url": "https://github.com/SatoshiNakamotogmx",
-      "followers_url": "https://api.github.com/users/SatoshiNakamotogmx/followers",
-      "following_url": "https://api.github.com/users/SatoshiNakamotogmx/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SatoshiNakamotogmx/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SatoshiNakamotogmx/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SatoshiNakamotogmx/subscriptions",
-      "organizations_url": "https://api.github.com/users/SatoshiNakamotogmx/orgs",
-      "repos_url": "https://api.github.com/users/SatoshiNakamotogmx/repos",
-      "events_url": "https://api.github.com/users/SatoshiNakamotogmx/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SatoshiNakamotogmx/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/9587eaf03c743a099a11214f02a2d0e0",
-    "forks_url": "https://api.github.com/gists/9587eaf03c743a099a11214f02a2d0e0/forks",
-    "commits_url": "https://api.github.com/gists/9587eaf03c743a099a11214f02a2d0e0/commits",
-    "id": "9587eaf03c743a099a11214f02a2d0e0",
-    "node_id": "G_kwDOA1fxUtoAIDk1ODdlYWYwM2M3NDNhMDk5YTExMjE0ZjAyYTJkMGUw",
-    "git_pull_url": "https://gist.github.com/9587eaf03c743a099a11214f02a2d0e0.git",
-    "git_push_url": "https://gist.github.com/9587eaf03c743a099a11214f02a2d0e0.git",
-    "html_url": "https://gist.github.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0",
-    "files": {
-      ".deps...npm...@openzeppelin...contracts...access...Ownable.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...Ownable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/bd96f6661dcbf7b2d4948823ac0e7bfb4ba31fb1/.deps...npm...%40openzeppelin...contracts...access...Ownable.sol",
-        "size": 3102
-      },
-      ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/aef2b0a0eb956a02ef20a7840e826d36fdd25589/.deps...npm...%40openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "size": 6538
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/886febc552f78b1f1fbec494d96a54dff3620120/.deps...npm...%40openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "size": 10798
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/b493743a10c4fba04d91014cbdb7f69b639480c1/.deps...npm...%40openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "size": 2781
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/87bbafa84b834af1da027455bdc2e8a87beeb438/.deps...npm...%40openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "size": 684
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...Context.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...Context.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/4e535fe03c243f864568b8f4430c17c25dbadb47/.deps...npm...%40openzeppelin...contracts...utils...Context.sol",
-        "size": 963
-      },
-      ".prettierrc.json": {
-        "filename": ".prettierrc.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/b2a56f23717b4b9b8f05d45363a0fd58c657ce6e/.prettierrc.json",
-        "size": 758
-      },
-      "NakamotoToken.sol": {
-        "filename": "NakamotoToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/9f2bde7fd09ea0fe8999473114b0a7104f32a7b4/NakamotoToken.sol",
-        "size": 1455
-      },
-      "README.txt": {
-        "filename": "README.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/4b936e9ee108c03a9212f848522aa0ba35e9f789/README.txt",
-        "size": 1494
-      },
-      "contracts...1_Storage.sol": {
-        "filename": "contracts...1_Storage.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/dd1e15d25e783b6eb2149c024787678c663616f7/contracts...1_Storage.sol",
-        "size": 555
-      },
-      "contracts...2_Owner.sol": {
-        "filename": "contracts...2_Owner.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/7aff9aa3d5c2ac9eec1add0101a061835c056998/contracts...2_Owner.sol",
-        "size": 1652
-      },
-      "contracts...3_Ballot.sol": {
-        "filename": "contracts...3_Ballot.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/56b215955168a0867388822328104604acdf0772/contracts...3_Ballot.sol",
-        "size": 6216
-      },
-      "remix.config.json": {
-        "filename": "remix.config.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/13801eefca38e0544fef6b2492ffd7038a4ced7a/remix.config.json",
-        "size": 688
-      },
-      "scripts...deploy_with_ethers.ts": {
-        "filename": "scripts...deploy_with_ethers.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/513d496d7638a86e7b7339272f853a7053429336/scripts...deploy_with_ethers.ts",
-        "size": 488
-      },
-      "scripts...ethers-lib.ts": {
-        "filename": "scripts...ethers-lib.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/c5dd03f7deb6a05afaadcd8218bdbcc41e571d5a/scripts...ethers-lib.ts",
-        "size": 1227
-      },
-      "tests...Ballot_test.sol": {
-        "filename": "tests...Ballot_test.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/49146e99facba02fce64738239bec0b835cec15b/tests...Ballot_test.sol",
-        "size": 938
-      },
-      "tests...storage.test.js": {
-        "filename": "tests...storage.test.js",
-        "type": "text/javascript",
-        "language": "JavaScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/9587eaf03c743a099a11214f02a2d0e0/raw/8e37b7c39b76b12519a9f931ba858624e573e1f7/tests...storage.test.js",
-        "size": 947
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:43:13Z",
-    "updated_at": "2025-11-29T09:43:14Z",
-    "description": "Created using remix-ide: Realtime Ethereum Contract Compiler and Runtime. \n Load this file by pasting this gists URL or ID at https://remix.ethereum.org/#version=soljson-v0.8.30+commit.73712a01.js&optimize=undefined&runs=200&gist=",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/9587eaf03c743a099a11214f02a2d0e0/comments",
-    "owner": {
-      "login": "SatoshiNakamotogmx",
-      "id": 56095058,
-      "node_id": "MDQ6VXNlcjU2MDk1MDU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/56095058?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SatoshiNakamotogmx",
-      "html_url": "https://github.com/SatoshiNakamotogmx",
-      "followers_url": "https://api.github.com/users/SatoshiNakamotogmx/followers",
-      "following_url": "https://api.github.com/users/SatoshiNakamotogmx/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SatoshiNakamotogmx/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SatoshiNakamotogmx/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SatoshiNakamotogmx/subscriptions",
-      "organizations_url": "https://api.github.com/users/SatoshiNakamotogmx/orgs",
-      "repos_url": "https://api.github.com/users/SatoshiNakamotogmx/repos",
-      "events_url": "https://api.github.com/users/SatoshiNakamotogmx/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SatoshiNakamotogmx/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/72b5fc2431d6e0fb3d2af5fec972d5f3",
-    "forks_url": "https://api.github.com/gists/72b5fc2431d6e0fb3d2af5fec972d5f3/forks",
-    "commits_url": "https://api.github.com/gists/72b5fc2431d6e0fb3d2af5fec972d5f3/commits",
-    "id": "72b5fc2431d6e0fb3d2af5fec972d5f3",
-    "node_id": "G_kwDOA1fxUtoAIDcyYjVmYzI0MzFkNmUwZmIzZDJhZjVmZWM5NzJkNWYz",
-    "git_pull_url": "https://gist.github.com/72b5fc2431d6e0fb3d2af5fec972d5f3.git",
-    "git_push_url": "https://gist.github.com/72b5fc2431d6e0fb3d2af5fec972d5f3.git",
-    "html_url": "https://gist.github.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3",
-    "files": {
-      ".deps...npm...@openzeppelin...contracts...access...Ownable.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...Ownable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/bd96f6661dcbf7b2d4948823ac0e7bfb4ba31fb1/.deps...npm...%40openzeppelin...contracts...access...Ownable.sol",
-        "size": 3102
-      },
-      ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/aef2b0a0eb956a02ef20a7840e826d36fdd25589/.deps...npm...%40openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "size": 6538
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/886febc552f78b1f1fbec494d96a54dff3620120/.deps...npm...%40openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "size": 10798
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/b493743a10c4fba04d91014cbdb7f69b639480c1/.deps...npm...%40openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "size": 2781
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/87bbafa84b834af1da027455bdc2e8a87beeb438/.deps...npm...%40openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "size": 684
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...Context.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...Context.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/4e535fe03c243f864568b8f4430c17c25dbadb47/.deps...npm...%40openzeppelin...contracts...utils...Context.sol",
-        "size": 963
-      },
-      ".prettierrc.json": {
-        "filename": ".prettierrc.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/b2a56f23717b4b9b8f05d45363a0fd58c657ce6e/.prettierrc.json",
-        "size": 758
-      },
-      "NakamotoToken.sol": {
-        "filename": "NakamotoToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/9f2bde7fd09ea0fe8999473114b0a7104f32a7b4/NakamotoToken.sol",
-        "size": 1455
-      },
-      "README.txt": {
-        "filename": "README.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/4b936e9ee108c03a9212f848522aa0ba35e9f789/README.txt",
-        "size": 1494
-      },
-      "contracts...1_Storage.sol": {
-        "filename": "contracts...1_Storage.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/dd1e15d25e783b6eb2149c024787678c663616f7/contracts...1_Storage.sol",
-        "size": 555
-      },
-      "contracts...2_Owner.sol": {
-        "filename": "contracts...2_Owner.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/7aff9aa3d5c2ac9eec1add0101a061835c056998/contracts...2_Owner.sol",
-        "size": 1652
-      },
-      "contracts...3_Ballot.sol": {
-        "filename": "contracts...3_Ballot.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/56b215955168a0867388822328104604acdf0772/contracts...3_Ballot.sol",
-        "size": 6216
-      },
-      "remix.config.json": {
-        "filename": "remix.config.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/13801eefca38e0544fef6b2492ffd7038a4ced7a/remix.config.json",
-        "size": 688
-      },
-      "scripts...deploy_with_ethers.ts": {
-        "filename": "scripts...deploy_with_ethers.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/513d496d7638a86e7b7339272f853a7053429336/scripts...deploy_with_ethers.ts",
-        "size": 488
-      },
-      "scripts...ethers-lib.ts": {
-        "filename": "scripts...ethers-lib.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/c5dd03f7deb6a05afaadcd8218bdbcc41e571d5a/scripts...ethers-lib.ts",
-        "size": 1227
-      },
-      "tests...Ballot_test.sol": {
-        "filename": "tests...Ballot_test.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/49146e99facba02fce64738239bec0b835cec15b/tests...Ballot_test.sol",
-        "size": 938
-      },
-      "tests...storage.test.js": {
-        "filename": "tests...storage.test.js",
-        "type": "text/javascript",
-        "language": "JavaScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/72b5fc2431d6e0fb3d2af5fec972d5f3/raw/8e37b7c39b76b12519a9f931ba858624e573e1f7/tests...storage.test.js",
-        "size": 947
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:43:11Z",
-    "updated_at": "2025-11-29T09:43:12Z",
-    "description": "Created using remix-ide: Realtime Ethereum Contract Compiler and Runtime. \n Load this file by pasting this gists URL or ID at https://remix.ethereum.org/#version=soljson-v0.8.30+commit.73712a01.js&optimize=undefined&runs=200&gist=",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/72b5fc2431d6e0fb3d2af5fec972d5f3/comments",
-    "owner": {
-      "login": "SatoshiNakamotogmx",
-      "id": 56095058,
-      "node_id": "MDQ6VXNlcjU2MDk1MDU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/56095058?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SatoshiNakamotogmx",
-      "html_url": "https://github.com/SatoshiNakamotogmx",
-      "followers_url": "https://api.github.com/users/SatoshiNakamotogmx/followers",
-      "following_url": "https://api.github.com/users/SatoshiNakamotogmx/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SatoshiNakamotogmx/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SatoshiNakamotogmx/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SatoshiNakamotogmx/subscriptions",
-      "organizations_url": "https://api.github.com/users/SatoshiNakamotogmx/orgs",
-      "repos_url": "https://api.github.com/users/SatoshiNakamotogmx/repos",
-      "events_url": "https://api.github.com/users/SatoshiNakamotogmx/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SatoshiNakamotogmx/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/e07cce5ac12207f96d96687f4c9e37e9",
-    "forks_url": "https://api.github.com/gists/e07cce5ac12207f96d96687f4c9e37e9/forks",
-    "commits_url": "https://api.github.com/gists/e07cce5ac12207f96d96687f4c9e37e9/commits",
-    "id": "e07cce5ac12207f96d96687f4c9e37e9",
-    "node_id": "G_kwDOA1fxUtoAIGUwN2NjZTVhYzEyMjA3Zjk2ZDk2Njg3ZjRjOWUzN2U5",
-    "git_pull_url": "https://gist.github.com/e07cce5ac12207f96d96687f4c9e37e9.git",
-    "git_push_url": "https://gist.github.com/e07cce5ac12207f96d96687f4c9e37e9.git",
-    "html_url": "https://gist.github.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9",
-    "files": {
-      ".deps...npm...@openzeppelin...contracts...access...Ownable.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...access...Ownable.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/bd96f6661dcbf7b2d4948823ac0e7bfb4ba31fb1/.deps...npm...%40openzeppelin...contracts...access...Ownable.sol",
-        "size": 3102
-      },
-      ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/aef2b0a0eb956a02ef20a7840e826d36fdd25589/.deps...npm...%40openzeppelin...contracts...interfaces...draft-IERC6093.sol",
-        "size": 6538
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/886febc552f78b1f1fbec494d96a54dff3620120/.deps...npm...%40openzeppelin...contracts...token...ERC20...ERC20.sol",
-        "size": 10798
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/b493743a10c4fba04d91014cbdb7f69b639480c1/.deps...npm...%40openzeppelin...contracts...token...ERC20...IERC20.sol",
-        "size": 2781
-      },
-      ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/87bbafa84b834af1da027455bdc2e8a87beeb438/.deps...npm...%40openzeppelin...contracts...token...ERC20...extensions...IERC20Metadata.sol",
-        "size": 684
-      },
-      ".deps...npm...@openzeppelin...contracts...utils...Context.sol": {
-        "filename": ".deps...npm...@openzeppelin...contracts...utils...Context.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/4e535fe03c243f864568b8f4430c17c25dbadb47/.deps...npm...%40openzeppelin...contracts...utils...Context.sol",
-        "size": 963
-      },
-      ".prettierrc.json": {
-        "filename": ".prettierrc.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/b2a56f23717b4b9b8f05d45363a0fd58c657ce6e/.prettierrc.json",
-        "size": 758
-      },
-      "NakamotoToken.sol": {
-        "filename": "NakamotoToken.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/9f2bde7fd09ea0fe8999473114b0a7104f32a7b4/NakamotoToken.sol",
-        "size": 1455
-      },
-      "README.txt": {
-        "filename": "README.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/4b936e9ee108c03a9212f848522aa0ba35e9f789/README.txt",
-        "size": 1494
-      },
-      "contracts...1_Storage.sol": {
-        "filename": "contracts...1_Storage.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/dd1e15d25e783b6eb2149c024787678c663616f7/contracts...1_Storage.sol",
-        "size": 555
-      },
-      "contracts...2_Owner.sol": {
-        "filename": "contracts...2_Owner.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/7aff9aa3d5c2ac9eec1add0101a061835c056998/contracts...2_Owner.sol",
-        "size": 1652
-      },
-      "contracts...3_Ballot.sol": {
-        "filename": "contracts...3_Ballot.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/56b215955168a0867388822328104604acdf0772/contracts...3_Ballot.sol",
-        "size": 6216
-      },
-      "remix.config.json": {
-        "filename": "remix.config.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/13801eefca38e0544fef6b2492ffd7038a4ced7a/remix.config.json",
-        "size": 688
-      },
-      "scripts...deploy_with_ethers.ts": {
-        "filename": "scripts...deploy_with_ethers.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/513d496d7638a86e7b7339272f853a7053429336/scripts...deploy_with_ethers.ts",
-        "size": 488
-      },
-      "scripts...ethers-lib.ts": {
-        "filename": "scripts...ethers-lib.ts",
-        "type": "video/MP2T",
-        "language": "TypeScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/c5dd03f7deb6a05afaadcd8218bdbcc41e571d5a/scripts...ethers-lib.ts",
-        "size": 1227
-      },
-      "tests...Ballot_test.sol": {
-        "filename": "tests...Ballot_test.sol",
-        "type": "text/plain",
-        "language": "Solidity",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/49146e99facba02fce64738239bec0b835cec15b/tests...Ballot_test.sol",
-        "size": 938
-      },
-      "tests...storage.test.js": {
-        "filename": "tests...storage.test.js",
-        "type": "text/javascript",
-        "language": "JavaScript",
-        "raw_url": "https://gist.githubusercontent.com/SatoshiNakamotogmx/e07cce5ac12207f96d96687f4c9e37e9/raw/8e37b7c39b76b12519a9f931ba858624e573e1f7/tests...storage.test.js",
-        "size": 947
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:43:06Z",
-    "updated_at": "2025-11-29T09:43:06Z",
-    "description": "Created using remix-ide: Realtime Ethereum Contract Compiler and Runtime. \n Load this file by pasting this gists URL or ID at https://remix.ethereum.org/#version=soljson-v0.8.30+commit.73712a01.js&optimize=undefined&runs=200&gist=",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/e07cce5ac12207f96d96687f4c9e37e9/comments",
-    "owner": {
-      "login": "SatoshiNakamotogmx",
-      "id": 56095058,
-      "node_id": "MDQ6VXNlcjU2MDk1MDU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/56095058?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SatoshiNakamotogmx",
-      "html_url": "https://github.com/SatoshiNakamotogmx",
-      "followers_url": "https://api.github.com/users/SatoshiNakamotogmx/followers",
-      "following_url": "https://api.github.com/users/SatoshiNakamotogmx/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SatoshiNakamotogmx/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SatoshiNakamotogmx/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SatoshiNakamotogmx/subscriptions",
-      "organizations_url": "https://api.github.com/users/SatoshiNakamotogmx/orgs",
-      "repos_url": "https://api.github.com/users/SatoshiNakamotogmx/repos",
-      "events_url": "https://api.github.com/users/SatoshiNakamotogmx/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SatoshiNakamotogmx/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/94835bdeff70c4468c15858c90f8cb33",
-    "forks_url": "https://api.github.com/gists/94835bdeff70c4468c15858c90f8cb33/forks",
-    "commits_url": "https://api.github.com/gists/94835bdeff70c4468c15858c90f8cb33/commits",
-    "id": "94835bdeff70c4468c15858c90f8cb33",
-    "node_id": "G_kwDOCJfRsdoAIDk0ODM1YmRlZmY3MGM0NDY4YzE1ODU4YzkwZjhjYjMz",
-    "git_pull_url": "https://gist.github.com/94835bdeff70c4468c15858c90f8cb33.git",
-    "git_push_url": "https://gist.github.com/94835bdeff70c4468c15858c90f8cb33.git",
-    "html_url": "https://gist.github.com/harelsaar/94835bdeff70c4468c15858c90f8cb33",
-    "files": {
-      "open_all_links.html": {
-        "filename": "open_all_links.html",
-        "type": "text/html",
-        "language": "HTML",
-        "raw_url": "https://gist.githubusercontent.com/harelsaar/94835bdeff70c4468c15858c90f8cb33/raw/cd8efd21c5c5ef7e78eaed2f904ba359eab568b7/open_all_links.html",
-        "size": 1142
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:42:13Z",
-    "updated_at": "2025-11-29T09:42:13Z",
-    "description": "Yad2 listings – open all",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/94835bdeff70c4468c15858c90f8cb33/comments",
-    "owner": {
-      "login": "harelsaar",
-      "id": 144167345,
-      "node_id": "U_kgDOCJfRsQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/144167345?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/harelsaar",
-      "html_url": "https://github.com/harelsaar",
-      "followers_url": "https://api.github.com/users/harelsaar/followers",
-      "following_url": "https://api.github.com/users/harelsaar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/harelsaar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/harelsaar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/harelsaar/subscriptions",
-      "organizations_url": "https://api.github.com/users/harelsaar/orgs",
-      "repos_url": "https://api.github.com/users/harelsaar/repos",
-      "events_url": "https://api.github.com/users/harelsaar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/harelsaar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/a6f648c16533025c1611fdd31c351836",
-    "forks_url": "https://api.github.com/gists/a6f648c16533025c1611fdd31c351836/forks",
-    "commits_url": "https://api.github.com/gists/a6f648c16533025c1611fdd31c351836/commits",
-    "id": "a6f648c16533025c1611fdd31c351836",
-    "node_id": "G_kwDOCwyz-doAIGE2ZjY0OGMxNjUzMzAyNWMxNjExZmRkMzFjMzUxODM2",
-    "git_pull_url": "https://gist.github.com/a6f648c16533025c1611fdd31c351836.git",
-    "git_push_url": "https://gist.github.com/a6f648c16533025c1611fdd31c351836.git",
-    "html_url": "https://gist.github.com/12345rgttt/a6f648c16533025c1611fdd31c351836",
-    "files": {
-      "reverseshell": {
-        "filename": "reverseshell",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/12345rgttt/a6f648c16533025c1611fdd31c351836/raw/2f26e70a6bea9d75bb676de9818aac0c5778440f/reverseshell",
-        "size": 3149
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:41:22Z",
-    "updated_at": "2025-11-29T09:41:22Z",
-    "description": "",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/a6f648c16533025c1611fdd31c351836/comments",
-    "owner": {
-      "login": "12345rgttt",
-      "id": 185381881,
-      "node_id": "U_kgDOCwyz-Q",
-      "avatar_url": "https://avatars.githubusercontent.com/u/185381881?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/12345rgttt",
-      "html_url": "https://github.com/12345rgttt",
-      "followers_url": "https://api.github.com/users/12345rgttt/followers",
-      "following_url": "https://api.github.com/users/12345rgttt/following{/other_user}",
-      "gists_url": "https://api.github.com/users/12345rgttt/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/12345rgttt/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/12345rgttt/subscriptions",
-      "organizations_url": "https://api.github.com/users/12345rgttt/orgs",
-      "repos_url": "https://api.github.com/users/12345rgttt/repos",
-      "events_url": "https://api.github.com/users/12345rgttt/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/12345rgttt/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/757a63428d5512a8beca15904d3d9824",
-    "forks_url": "https://api.github.com/gists/757a63428d5512a8beca15904d3d9824/forks",
-    "commits_url": "https://api.github.com/gists/757a63428d5512a8beca15904d3d9824/commits",
-    "id": "757a63428d5512a8beca15904d3d9824",
-    "node_id": "G_kwDOBUWb_doAIDc1N2E2MzQyOGQ1NTEyYThiZWNhMTU5MDRkM2Q5ODI0",
-    "git_pull_url": "https://gist.github.com/757a63428d5512a8beca15904d3d9824.git",
-    "git_push_url": "https://gist.github.com/757a63428d5512a8beca15904d3d9824.git",
-    "html_url": "https://gist.github.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824",
-    "files": {
-      "cert-image.json": {
-        "filename": "cert-image.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/f5c7671068b58cd764115c70a88db1138e619d59/cert-image.json",
-        "size": 8358
-      },
-      "hashes.txt": {
-        "filename": "hashes.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/fd1c37f44db68de3cf31117b8a2029c607e02dca/hashes.txt",
-        "size": 472
-      },
-      "operator_bundle_scorecard_BasicSpecCheck.json": {
-        "filename": "operator_bundle_scorecard_BasicSpecCheck.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/e02f169284ad7df0cf8be3da1dc05d3a88332e58/operator_bundle_scorecard_BasicSpecCheck.json",
-        "size": 766
-      },
-      "operator_bundle_scorecard_OlmSuiteCheck.json": {
-        "filename": "operator_bundle_scorecard_OlmSuiteCheck.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/51472f664ca3494666b0a6f0dcf57ae262640eb1/operator_bundle_scorecard_OlmSuiteCheck.json",
-        "size": 1468
-      },
-      "preflight-results.json": {
-        "filename": "preflight-results.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/3ed783662fe5a46687b3c1d52b7c17cb9b7a0720/preflight-results.json",
-        "size": 1279
-      },
-      "preflight.log": {
-        "filename": "preflight.log",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/3196221a5e797d16e91d016b83e7b6d6868a7fdf/preflight.log",
-        "size": 90320
-      },
-      "preflight.stderr": {
-        "filename": "preflight.stderr",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/f84ea08f403a6953496267489f5e0804deda4281/preflight.stderr",
-        "size": 94510
-      },
-      "preflight.stdout": {
-        "filename": "preflight.stdout",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/3106d6163bf42bb23ed09e1e4574db812a478f44/preflight.stdout",
-        "size": 1502
-      },
-      "tekton-e2e-operator-CatalogSource.json": {
-        "filename": "tekton-e2e-operator-CatalogSource.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/483e2682d0b6ca05d2a370af85075c82b6d90f71/tekton-e2e-operator-CatalogSource.json",
-        "size": 1658
-      },
-      "tekton-e2e-operator-Namespace.json": {
-        "filename": "tekton-e2e-operator-Namespace.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/ba6bad4af0d6c521c5c55eb7285410c6cda895d1/tekton-e2e-operator-Namespace.json",
-        "size": 1746
-      },
-      "tekton-e2e-operator-OperatorGroup.json": {
-        "filename": "tekton-e2e-operator-OperatorGroup.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/77cc0cd2af530b84d6265ed85fbed75c404ba123/tekton-e2e-operator-OperatorGroup.json",
-        "size": 1104
-      },
-      "tekton-e2e-operator-Subscription.json": {
-        "filename": "tekton-e2e-operator-Subscription.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/9b52eb93f8d6a9cc625c13d49bf0e182de6cce46/tekton-e2e-operator-Subscription.json",
-        "size": 3668
-      },
-      "tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-PodStatus.json": {
-        "filename": "tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-PodStatus.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/70955899dd6ae5e2e854185b97c2b72fb1258eeb/tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-PodStatus.json",
-        "size": 2457
-      },
-      "tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-kube-rbac-proxy.log": {
-        "filename": "tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-kube-rbac-proxy.log",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/19ae1165ca4bbbbd18e2724e546df7fa3e16cd66/tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-kube-rbac-proxy.log",
-        "size": 795
-      },
-      "tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-manager.log": {
-        "filename": "tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-manager.log",
-        "type": "text/plain",
-        "language": null,
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/8ea3b384ad87348cad0832ffd98b3a244742a20a/tekton-e2e-operator-controller-manager-57f9fcc668-8tthp-manager.log",
-        "size": 2458
-      },
-      "tekton-e2e-operator-controller-manager-Deployment.json": {
-        "filename": "tekton-e2e-operator-controller-manager-Deployment.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/8b2ecca8fba6c56d6f12642830a85bdb178de4c5/tekton-e2e-operator-controller-manager-Deployment.json",
-        "size": 9800
-      },
-      "tekton-e2e-operator-target-Namespace.json": {
-        "filename": "tekton-e2e-operator-target-Namespace.json",
-        "type": "application/json",
-        "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/rh-operator-bundle-bot/757a63428d5512a8beca15904d3d9824/raw/a9415deb866ac61fdec515fbcc1f63bf7957db08/tekton-e2e-operator-target-Namespace.json",
-        "size": 1760
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:41:18Z",
-    "updated_at": "2025-11-29T09:41:19Z",
-    "description": null,
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/757a63428d5512a8beca15904d3d9824/comments",
-    "owner": {
-      "login": "rh-operator-bundle-bot",
-      "id": 88447997,
-      "node_id": "MDQ6VXNlcjg4NDQ3OTk3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/88447997?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/rh-operator-bundle-bot",
-      "html_url": "https://github.com/rh-operator-bundle-bot",
-      "followers_url": "https://api.github.com/users/rh-operator-bundle-bot/followers",
-      "following_url": "https://api.github.com/users/rh-operator-bundle-bot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/rh-operator-bundle-bot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/rh-operator-bundle-bot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/rh-operator-bundle-bot/subscriptions",
-      "organizations_url": "https://api.github.com/users/rh-operator-bundle-bot/orgs",
-      "repos_url": "https://api.github.com/users/rh-operator-bundle-bot/repos",
-      "events_url": "https://api.github.com/users/rh-operator-bundle-bot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/rh-operator-bundle-bot/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/4e4d4247abf6e664c2ba0cf41bb340b5",
-    "forks_url": "https://api.github.com/gists/4e4d4247abf6e664c2ba0cf41bb340b5/forks",
-    "commits_url": "https://api.github.com/gists/4e4d4247abf6e664c2ba0cf41bb340b5/commits",
-    "id": "4e4d4247abf6e664c2ba0cf41bb340b5",
-    "node_id": "G_kwDOAJnR19oAIDRlNGQ0MjQ3YWJmNmU2NjRjMmJhMGNmNDFiYjM0MGI1",
-    "git_pull_url": "https://gist.github.com/4e4d4247abf6e664c2ba0cf41bb340b5.git",
-    "git_push_url": "https://gist.github.com/4e4d4247abf6e664c2ba0cf41bb340b5.git",
-    "html_url": "https://gist.github.com/0test/4e4d4247abf6e664c2ba0cf41bb340b5",
-    "files": {
-      "MainServiceProvider.php": {
-        "filename": "MainServiceProvider.php",
-        "type": "application/x-httpd-php",
-        "language": "PHP",
-        "raw_url": "https://gist.githubusercontent.com/0test/4e4d4247abf6e664c2ba0cf41bb340b5/raw/cbf6aae96958bcf12fe4b88cbeb5f795a8f62309/MainServiceProvider.php",
-        "size": 667
-      },
-      "Util.php": {
-        "filename": "Util.php",
-        "type": "application/x-httpd-php",
-        "language": "PHP",
-        "raw_url": "https://gist.githubusercontent.com/0test/4e4d4247abf6e664c2ba0cf41bb340b5/raw/cf2456d99f56522f0a658dd63addd4b2967086f9/Util.php",
-        "size": 2483
-      },
-      "app.blade.php": {
-        "filename": "app.blade.php",
-        "type": "application/x-httpd-php",
-        "language": "Blade",
-        "raw_url": "https://gist.githubusercontent.com/0test/4e4d4247abf6e664c2ba0cf41bb340b5/raw/e7ab4d5b5b3e27c22772c1b9174730426a499e2c/app.blade.php",
-        "size": 372
-      },
-      "core\\custom\\config\\vite\\env.php": {
-        "filename": "core\\custom\\config\\vite\\env.php",
-        "type": "application/x-httpd-php",
-        "language": "PHP",
-        "raw_url": "https://gist.githubusercontent.com/0test/4e4d4247abf6e664c2ba0cf41bb340b5/raw/20bf52c8ba929c9249cc975c53a02f26c0a6d8cf/core%5Ccustom%5Cconfig%5Cvite%5Cenv.php",
-        "size": 200
-      },
-      "template\\app\\vite.config.js": {
-        "filename": "template\\app\\vite.config.js",
-        "type": "text/javascript",
-        "language": "JavaScript",
-        "raw_url": "https://gist.githubusercontent.com/0test/4e4d4247abf6e664c2ba0cf41bb340b5/raw/7953c60ad1a4ff7b19eeff92567f4c68a9a2503b/template%5Capp%5Cvite.config.js",
-        "size": 1029
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:41:13Z",
-    "updated_at": "2025-11-29T09:43:09Z",
-    "description": "npm run build/dev",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/4e4d4247abf6e664c2ba0cf41bb340b5/comments",
-    "owner": {
-      "login": "0test",
-      "id": 10080727,
-      "node_id": "MDQ6VXNlcjEwMDgwNzI3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10080727?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/0test",
-      "html_url": "https://github.com/0test",
-      "followers_url": "https://api.github.com/users/0test/followers",
-      "following_url": "https://api.github.com/users/0test/following{/other_user}",
-      "gists_url": "https://api.github.com/users/0test/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/0test/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/0test/subscriptions",
-      "organizations_url": "https://api.github.com/users/0test/orgs",
-      "repos_url": "https://api.github.com/users/0test/repos",
-      "events_url": "https://api.github.com/users/0test/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/0test/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/43a1a6bbb37653932da293362c59aa66",
-    "forks_url": "https://api.github.com/gists/43a1a6bbb37653932da293362c59aa66/forks",
-    "commits_url": "https://api.github.com/gists/43a1a6bbb37653932da293362c59aa66/commits",
-    "id": "43a1a6bbb37653932da293362c59aa66",
-    "node_id": "G_kwDOAF-wA9oAIDQzYTFhNmJiYjM3NjUzOTMyZGEyOTMzNjJjNTlhYTY2",
-    "git_pull_url": "https://gist.github.com/43a1a6bbb37653932da293362c59aa66.git",
-    "git_push_url": "https://gist.github.com/43a1a6bbb37653932da293362c59aa66.git",
-    "html_url": "https://gist.github.com/choco-bot/43a1a6bbb37653932da293362c59aa66",
-    "files": {
-      "FilesSnapshot.xml": {
-        "filename": "FilesSnapshot.xml",
-        "type": "application/xml",
-        "language": "XML",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/43a1a6bbb37653932da293362c59aa66/raw/e98580b1598f4ca45a753095cc718a64b34fd940/FilesSnapshot.xml",
-        "size": 3417
-      },
-      "Install.txt": {
-        "filename": "Install.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/43a1a6bbb37653932da293362c59aa66/raw/5aa4f84783cd5a59eef633885e882a70aec9908a/Install.txt",
-        "size": 53632
-      },
-      "Uninstall.txt": {
-        "filename": "Uninstall.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/43a1a6bbb37653932da293362c59aa66/raw/bc383806e2345f598f41a33974cd80d397c6f2a7/Uninstall.txt",
-        "size": 38509
-      },
-      "_Summary.md": {
-        "filename": "_Summary.md",
+      "easybuild_test_report_24714_easybuilders_preasybuild-easyconfigs_20255429-UTC-09-54-26.md": {
+        "filename": "easybuild_test_report_24714_easybuilders_preasybuild-easyconfigs_20255429-UTC-09-54-26.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/43a1a6bbb37653932da293362c59aa66/raw/fdf8b79e9600e0814c840b5d2f8c0ce11be4da3b/_Summary.md",
-        "size": 469
+        "raw_url": "https://gist.githubusercontent.com/boegelbot/b9a66d785a425ea73e83e30b6bcd15c2/raw/fff223a2231be7c5c024eda483ad005261c4d051/easybuild_test_report_24714_easybuilders_preasybuild-easyconfigs_20255429-UTC-09-54-26.md",
+        "size": 13283
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:41:11Z",
-    "updated_at": "2025-11-29T09:41:11Z",
-    "description": "lessmsi v2.10.8 - Passed - Package Tests Results",
+    "created_at": "2025-11-29T09:54:26Z",
+    "updated_at": "2025-11-29T09:54:27Z",
+    "description": "EasyBuild test report for easybuilders/easybuild-easyconfigs PR(s) #24714",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/43a1a6bbb37653932da293362c59aa66/comments",
+    "comments_url": "https://api.github.com/gists/b9a66d785a425ea73e83e30b6bcd15c2/comments",
     "owner": {
-      "login": "choco-bot",
-      "id": 6270979,
-      "node_id": "MDQ6VXNlcjYyNzA5Nzk=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6270979?v=4",
+      "login": "boegelbot",
+      "id": 26523804,
+      "node_id": "MDQ6VXNlcjI2NTIzODA0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26523804?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/choco-bot",
-      "html_url": "https://github.com/choco-bot",
-      "followers_url": "https://api.github.com/users/choco-bot/followers",
-      "following_url": "https://api.github.com/users/choco-bot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/choco-bot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/choco-bot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/choco-bot/subscriptions",
-      "organizations_url": "https://api.github.com/users/choco-bot/orgs",
-      "repos_url": "https://api.github.com/users/choco-bot/repos",
-      "events_url": "https://api.github.com/users/choco-bot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/choco-bot/received_events",
+      "url": "https://api.github.com/users/boegelbot",
+      "html_url": "https://github.com/boegelbot",
+      "followers_url": "https://api.github.com/users/boegelbot/followers",
+      "following_url": "https://api.github.com/users/boegelbot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/boegelbot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/boegelbot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/boegelbot/subscriptions",
+      "organizations_url": "https://api.github.com/users/boegelbot/orgs",
+      "repos_url": "https://api.github.com/users/boegelbot/repos",
+      "events_url": "https://api.github.com/users/boegelbot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/boegelbot/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -1197,356 +245,97 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/c3874b85a6dbeb4a7606e54a1d94c31c",
-    "forks_url": "https://api.github.com/gists/c3874b85a6dbeb4a7606e54a1d94c31c/forks",
-    "commits_url": "https://api.github.com/gists/c3874b85a6dbeb4a7606e54a1d94c31c/commits",
-    "id": "c3874b85a6dbeb4a7606e54a1d94c31c",
-    "node_id": "G_kwDODrZL-doAIGMzODc0Yjg1YTZkYmViNGE3NjA2ZTU0YTFkOTRjMzFj",
-    "git_pull_url": "https://gist.github.com/c3874b85a6dbeb4a7606e54a1d94c31c.git",
-    "git_push_url": "https://gist.github.com/c3874b85a6dbeb4a7606e54a1d94c31c.git",
-    "html_url": "https://gist.github.com/kbedru094-web/c3874b85a6dbeb4a7606e54a1d94c31c",
-    "files": {
-      "Chemo.html": {
-        "filename": "Chemo.html",
-        "type": "text/html",
-        "language": "HTML",
-        "raw_url": "https://gist.githubusercontent.com/kbedru094-web/c3874b85a6dbeb4a7606e54a1d94c31c/raw/149667fb5a69ad31eae51db4eac224af9b737e2e/Chemo.html",
-        "size": 3604
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:41:07Z",
-    "updated_at": "2025-11-29T09:41:07Z",
-    "description": "",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/c3874b85a6dbeb4a7606e54a1d94c31c/comments",
-    "owner": {
-      "login": "kbedru094-web",
-      "id": 246828025,
-      "node_id": "U_kgDODrZL-Q",
-      "avatar_url": "https://avatars.githubusercontent.com/u/246828025?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/kbedru094-web",
-      "html_url": "https://github.com/kbedru094-web",
-      "followers_url": "https://api.github.com/users/kbedru094-web/followers",
-      "following_url": "https://api.github.com/users/kbedru094-web/following{/other_user}",
-      "gists_url": "https://api.github.com/users/kbedru094-web/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/kbedru094-web/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/kbedru094-web/subscriptions",
-      "organizations_url": "https://api.github.com/users/kbedru094-web/orgs",
-      "repos_url": "https://api.github.com/users/kbedru094-web/repos",
-      "events_url": "https://api.github.com/users/kbedru094-web/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/kbedru094-web/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/98de82d959dfb77f5a4daaeed67e1746",
-    "forks_url": "https://api.github.com/gists/98de82d959dfb77f5a4daaeed67e1746/forks",
-    "commits_url": "https://api.github.com/gists/98de82d959dfb77f5a4daaeed67e1746/commits",
-    "id": "98de82d959dfb77f5a4daaeed67e1746",
-    "node_id": "G_kwDOByK2gtoAIDk4ZGU4MmQ5NTlkZmI3N2Y1YTRkYWFlZWQ2N2UxNzQ2",
-    "git_pull_url": "https://gist.github.com/98de82d959dfb77f5a4daaeed67e1746.git",
-    "git_push_url": "https://gist.github.com/98de82d959dfb77f5a4daaeed67e1746.git",
-    "html_url": "https://gist.github.com/daparic/98de82d959dfb77f5a4daaeed67e1746",
-    "files": {
-      "build.cmd": {
-        "filename": "build.cmd",
-        "type": "application/x-msdos-program",
-        "language": "Batchfile",
-        "raw_url": "https://gist.githubusercontent.com/daparic/98de82d959dfb77f5a4daaeed67e1746/raw/c9d908e82d7db1c1de764cd5a8eea4567b8168db/build.cmd",
-        "size": 960929
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:40:33Z",
-    "updated_at": "2025-11-29T09:41:04Z",
-    "description": "AirSim-1.8.1-windows",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/98de82d959dfb77f5a4daaeed67e1746/comments",
-    "owner": {
-      "login": "daparic",
-      "id": 119715458,
-      "node_id": "U_kgDOByK2gg",
-      "avatar_url": "https://avatars.githubusercontent.com/u/119715458?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/daparic",
-      "html_url": "https://github.com/daparic",
-      "followers_url": "https://api.github.com/users/daparic/followers",
-      "following_url": "https://api.github.com/users/daparic/following{/other_user}",
-      "gists_url": "https://api.github.com/users/daparic/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/daparic/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/daparic/subscriptions",
-      "organizations_url": "https://api.github.com/users/daparic/orgs",
-      "repos_url": "https://api.github.com/users/daparic/repos",
-      "events_url": "https://api.github.com/users/daparic/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/daparic/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/b2f92fd6aa989d2809ebe55186ec064c",
-    "forks_url": "https://api.github.com/gists/b2f92fd6aa989d2809ebe55186ec064c/forks",
-    "commits_url": "https://api.github.com/gists/b2f92fd6aa989d2809ebe55186ec064c/commits",
-    "id": "b2f92fd6aa989d2809ebe55186ec064c",
-    "node_id": "G_kwDOAF-wA9oAIGIyZjkyZmQ2YWE5ODlkMjgwOWViZTU1MTg2ZWMwNjRj",
-    "git_pull_url": "https://gist.github.com/b2f92fd6aa989d2809ebe55186ec064c.git",
-    "git_push_url": "https://gist.github.com/b2f92fd6aa989d2809ebe55186ec064c.git",
-    "html_url": "https://gist.github.com/choco-bot/b2f92fd6aa989d2809ebe55186ec064c",
-    "files": {
-      "Install.txt": {
-        "filename": "Install.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/b2f92fd6aa989d2809ebe55186ec064c/raw/994de2031818c90b8c90869361d8cdde206e5862/Install.txt",
-        "size": 43508
-      },
-      "Uninstall.txt": {
-        "filename": "Uninstall.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/b2f92fd6aa989d2809ebe55186ec064c/raw/af4b97edd276f3726889192258a0eb00286642fb/Uninstall.txt",
-        "size": 23611
-      },
-      "_Summary.md": {
-        "filename": "_Summary.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/b2f92fd6aa989d2809ebe55186ec064c/raw/e542ed4ba3aec809c4521b144594a84f96834fc7/_Summary.md",
-        "size": 484
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:39:33Z",
-    "updated_at": "2025-11-29T09:39:34Z",
-    "description": "dxftoqet v2020.05.05 - Passed - Package Tests Results",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/b2f92fd6aa989d2809ebe55186ec064c/comments",
-    "owner": {
-      "login": "choco-bot",
-      "id": 6270979,
-      "node_id": "MDQ6VXNlcjYyNzA5Nzk=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6270979?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/choco-bot",
-      "html_url": "https://github.com/choco-bot",
-      "followers_url": "https://api.github.com/users/choco-bot/followers",
-      "following_url": "https://api.github.com/users/choco-bot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/choco-bot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/choco-bot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/choco-bot/subscriptions",
-      "organizations_url": "https://api.github.com/users/choco-bot/orgs",
-      "repos_url": "https://api.github.com/users/choco-bot/repos",
-      "events_url": "https://api.github.com/users/choco-bot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/choco-bot/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/06bc4b89d6e81c3615d4b9773b2997f2",
-    "forks_url": "https://api.github.com/gists/06bc4b89d6e81c3615d4b9773b2997f2/forks",
-    "commits_url": "https://api.github.com/gists/06bc4b89d6e81c3615d4b9773b2997f2/commits",
-    "id": "06bc4b89d6e81c3615d4b9773b2997f2",
-    "node_id": "G_kwDOABXZYNoAIDA2YmM0Yjg5ZDZlODFjMzYxNWQ0Yjk3NzNiMjk5N2Yy",
-    "git_pull_url": "https://gist.github.com/06bc4b89d6e81c3615d4b9773b2997f2.git",
-    "git_push_url": "https://gist.github.com/06bc4b89d6e81c3615d4b9773b2997f2.git",
-    "html_url": "https://gist.github.com/konard/06bc4b89d6e81c3615d4b9773b2997f2",
-    "files": {
-      "solution-draft-log-pr-1764409165807.txt": {
-        "filename": "solution-draft-log-pr-1764409165807.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/konard/06bc4b89d6e81c3615d4b9773b2997f2/raw/fd3b54011f658bfa8ce1a0b0788ffcd6d9cfc6cc/solution-draft-log-pr-1764409165807.txt",
-        "size": 397299
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:39:27Z",
-    "updated_at": "2025-11-29T09:39:28Z",
-    "description": "Solution draft log for https://github.com/PavelChurkin/ai_prorok/pull/2",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/06bc4b89d6e81c3615d4b9773b2997f2/comments",
-    "owner": {
-      "login": "konard",
-      "id": 1431904,
-      "node_id": "MDQ6VXNlcjE0MzE5MDQ=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1431904?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/konard",
-      "html_url": "https://github.com/konard",
-      "followers_url": "https://api.github.com/users/konard/followers",
-      "following_url": "https://api.github.com/users/konard/following{/other_user}",
-      "gists_url": "https://api.github.com/users/konard/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/konard/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/konard/subscriptions",
-      "organizations_url": "https://api.github.com/users/konard/orgs",
-      "repos_url": "https://api.github.com/users/konard/repos",
-      "events_url": "https://api.github.com/users/konard/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/konard/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/ed60644e2f879fabc1a4249ab7492333",
-    "forks_url": "https://api.github.com/gists/ed60644e2f879fabc1a4249ab7492333/forks",
-    "commits_url": "https://api.github.com/gists/ed60644e2f879fabc1a4249ab7492333/commits",
-    "id": "ed60644e2f879fabc1a4249ab7492333",
-    "node_id": "G_kwDODgFmUtoAIGVkNjA2NDRlMmY4NzlmYWJjMWE0MjQ5YWI3NDkyMzMz",
-    "git_pull_url": "https://gist.github.com/ed60644e2f879fabc1a4249ab7492333.git",
-    "git_push_url": "https://gist.github.com/ed60644e2f879fabc1a4249ab7492333.git",
-    "html_url": "https://gist.github.com/r9thealien-dev/ed60644e2f879fabc1a4249ab7492333",
-    "files": {
-      "PRIVACY_POLICY.md": {
-        "filename": "PRIVACY_POLICY.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/r9thealien-dev/ed60644e2f879fabc1a4249ab7492333/raw/51f5cada0feca0a0c51def329d407b07c5e8433c/PRIVACY_POLICY.md",
-        "size": 8121
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:39:10Z",
-    "updated_at": "2025-11-29T09:39:11Z",
-    "description": "privacy policy md for chrome extension",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/ed60644e2f879fabc1a4249ab7492333/comments",
-    "owner": {
-      "login": "r9thealien-dev",
-      "id": 234972754,
-      "node_id": "U_kgDODgFmUg",
-      "avatar_url": "https://avatars.githubusercontent.com/u/234972754?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/r9thealien-dev",
-      "html_url": "https://github.com/r9thealien-dev",
-      "followers_url": "https://api.github.com/users/r9thealien-dev/followers",
-      "following_url": "https://api.github.com/users/r9thealien-dev/following{/other_user}",
-      "gists_url": "https://api.github.com/users/r9thealien-dev/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/r9thealien-dev/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/r9thealien-dev/subscriptions",
-      "organizations_url": "https://api.github.com/users/r9thealien-dev/orgs",
-      "repos_url": "https://api.github.com/users/r9thealien-dev/repos",
-      "events_url": "https://api.github.com/users/r9thealien-dev/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/r9thealien-dev/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/e787cf6050db18f1a413005d936f5a43",
-    "forks_url": "https://api.github.com/gists/e787cf6050db18f1a413005d936f5a43/forks",
-    "commits_url": "https://api.github.com/gists/e787cf6050db18f1a413005d936f5a43/commits",
-    "id": "e787cf6050db18f1a413005d936f5a43",
-    "node_id": "G_kwDOAUACBdoAIGU3ODdjZjYwNTBkYjE4ZjFhNDEzMDA1ZDkzNmY1YTQz",
-    "git_pull_url": "https://gist.github.com/e787cf6050db18f1a413005d936f5a43.git",
-    "git_push_url": "https://gist.github.com/e787cf6050db18f1a413005d936f5a43.git",
-    "html_url": "https://gist.github.com/tirimula/e787cf6050db18f1a413005d936f5a43",
-    "files": {
-      "pgcpaitl_application_form.html": {
-        "filename": "pgcpaitl_application_form.html",
-        "type": "text/html",
-        "language": "HTML",
-        "raw_url": "https://gist.githubusercontent.com/tirimula/e787cf6050db18f1a413005d936f5a43/raw/10a75cf7d8b15e11e8ac52ab317631bb45dded75/pgcpaitl_application_form.html",
-        "size": 4111
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:39:10Z",
-    "updated_at": "2025-11-29T09:39:10Z",
-    "description": "PGCPAITL Application",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/e787cf6050db18f1a413005d936f5a43/comments",
-    "owner": {
-      "login": "tirimula",
-      "id": 20972037,
-      "node_id": "MDQ6VXNlcjIwOTcyMDM3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/20972037?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/tirimula",
-      "html_url": "https://github.com/tirimula",
-      "followers_url": "https://api.github.com/users/tirimula/followers",
-      "following_url": "https://api.github.com/users/tirimula/following{/other_user}",
-      "gists_url": "https://api.github.com/users/tirimula/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/tirimula/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/tirimula/subscriptions",
-      "organizations_url": "https://api.github.com/users/tirimula/orgs",
-      "repos_url": "https://api.github.com/users/tirimula/repos",
-      "events_url": "https://api.github.com/users/tirimula/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/tirimula/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/330b9693281d5806a7d00fa7cac64dd6",
-    "forks_url": "https://api.github.com/gists/330b9693281d5806a7d00fa7cac64dd6/forks",
-    "commits_url": "https://api.github.com/gists/330b9693281d5806a7d00fa7cac64dd6/commits",
-    "id": "330b9693281d5806a7d00fa7cac64dd6",
-    "node_id": "G_kwDODrZL-doAIDMzMGI5NjkzMjgxZDU4MDZhN2QwMGZhN2NhYzY0ZGQ2",
-    "git_pull_url": "https://gist.github.com/330b9693281d5806a7d00fa7cac64dd6.git",
-    "git_push_url": "https://gist.github.com/330b9693281d5806a7d00fa7cac64dd6.git",
-    "html_url": "https://gist.github.com/kbedru094-web/330b9693281d5806a7d00fa7cac64dd6",
+    "url": "https://api.github.com/gists/4406d35f9abde366d2fe6140182da587",
+    "forks_url": "https://api.github.com/gists/4406d35f9abde366d2fe6140182da587/forks",
+    "commits_url": "https://api.github.com/gists/4406d35f9abde366d2fe6140182da587/commits",
+    "id": "4406d35f9abde366d2fe6140182da587",
+    "node_id": "G_kwDODrYlvtoAIDQ0MDZkMzVmOWFiZGUzNjZkMmZlNjE0MDE4MmRhNTg3",
+    "git_pull_url": "https://gist.github.com/4406d35f9abde366d2fe6140182da587.git",
+    "git_push_url": "https://gist.github.com/4406d35f9abde366d2fe6140182da587.git",
+    "html_url": "https://gist.github.com/b4vsdaworld/4406d35f9abde366d2fe6140182da587",
     "files": {
       "gistfile1.txt": {
         "filename": "gistfile1.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/kbedru094-web/330b9693281d5806a7d00fa7cac64dd6/raw/149667fb5a69ad31eae51db4eac224af9b737e2e/gistfile1.txt",
-        "size": 3604
+        "raw_url": "https://gist.githubusercontent.com/b4vsdaworld/4406d35f9abde366d2fe6140182da587/raw/2bb1897f365914a96381924d03b4932df4add8b5/gistfile1.txt",
+        "size": 381373
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:38:59Z",
-    "updated_at": "2025-11-29T09:38:59Z",
+    "created_at": "2025-11-29T09:54:26Z",
+    "updated_at": "2025-11-29T09:54:27Z",
+    "description": "Brookhaven Codura",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/4406d35f9abde366d2fe6140182da587/comments",
+    "owner": {
+      "login": "b4vsdaworld",
+      "id": 246818238,
+      "node_id": "U_kgDODrYlvg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246818238?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/b4vsdaworld",
+      "html_url": "https://github.com/b4vsdaworld",
+      "followers_url": "https://api.github.com/users/b4vsdaworld/followers",
+      "following_url": "https://api.github.com/users/b4vsdaworld/following{/other_user}",
+      "gists_url": "https://api.github.com/users/b4vsdaworld/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/b4vsdaworld/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/b4vsdaworld/subscriptions",
+      "organizations_url": "https://api.github.com/users/b4vsdaworld/orgs",
+      "repos_url": "https://api.github.com/users/b4vsdaworld/repos",
+      "events_url": "https://api.github.com/users/b4vsdaworld/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/b4vsdaworld/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/bbf50bdc4350fe820418a9a004309e33",
+    "forks_url": "https://api.github.com/gists/bbf50bdc4350fe820418a9a004309e33/forks",
+    "commits_url": "https://api.github.com/gists/bbf50bdc4350fe820418a9a004309e33/commits",
+    "id": "bbf50bdc4350fe820418a9a004309e33",
+    "node_id": "G_kwDOCFuvgtoAIGJiZjUwYmRjNDM1MGZlODIwNDE4YTlhMDA0MzA5ZTMz",
+    "git_pull_url": "https://gist.github.com/bbf50bdc4350fe820418a9a004309e33.git",
+    "git_push_url": "https://gist.github.com/bbf50bdc4350fe820418a9a004309e33.git",
+    "html_url": "https://gist.github.com/zuox4/bbf50bdc4350fe820418a9a004309e33",
+    "files": {
+      "ege.py": {
+        "filename": "ege.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/zuox4/bbf50bdc4350fe820418a9a004309e33/raw/f47424e45248e02ac9f1699882ad9447c47a342e/ege.py",
+        "size": 22251
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:53:11Z",
+    "updated_at": "2025-11-29T09:55:42Z",
     "description": "",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/330b9693281d5806a7d00fa7cac64dd6/comments",
+    "comments_url": "https://api.github.com/gists/bbf50bdc4350fe820418a9a004309e33/comments",
     "owner": {
-      "login": "kbedru094-web",
-      "id": 246828025,
-      "node_id": "U_kgDODrZL-Q",
-      "avatar_url": "https://avatars.githubusercontent.com/u/246828025?v=4",
+      "login": "zuox4",
+      "id": 140226434,
+      "node_id": "U_kgDOCFuvgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140226434?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/kbedru094-web",
-      "html_url": "https://github.com/kbedru094-web",
-      "followers_url": "https://api.github.com/users/kbedru094-web/followers",
-      "following_url": "https://api.github.com/users/kbedru094-web/following{/other_user}",
-      "gists_url": "https://api.github.com/users/kbedru094-web/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/kbedru094-web/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/kbedru094-web/subscriptions",
-      "organizations_url": "https://api.github.com/users/kbedru094-web/orgs",
-      "repos_url": "https://api.github.com/users/kbedru094-web/repos",
-      "events_url": "https://api.github.com/users/kbedru094-web/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/kbedru094-web/received_events",
+      "url": "https://api.github.com/users/zuox4",
+      "html_url": "https://github.com/zuox4",
+      "followers_url": "https://api.github.com/users/zuox4/followers",
+      "following_url": "https://api.github.com/users/zuox4/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zuox4/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zuox4/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zuox4/subscriptions",
+      "organizations_url": "https://api.github.com/users/zuox4/orgs",
+      "repos_url": "https://api.github.com/users/zuox4/repos",
+      "events_url": "https://api.github.com/users/zuox4/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zuox4/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -1554,48 +343,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/b443fa157bb42af262409b1f3321381c",
-    "forks_url": "https://api.github.com/gists/b443fa157bb42af262409b1f3321381c/forks",
-    "commits_url": "https://api.github.com/gists/b443fa157bb42af262409b1f3321381c/commits",
-    "id": "b443fa157bb42af262409b1f3321381c",
-    "node_id": "G_kwDOAQG6n9oAIGI0NDNmYTE1N2JiNDJhZjI2MjQwOWIxZjMzMjEzODFj",
-    "git_pull_url": "https://gist.github.com/b443fa157bb42af262409b1f3321381c.git",
-    "git_push_url": "https://gist.github.com/b443fa157bb42af262409b1f3321381c.git",
-    "html_url": "https://gist.github.com/kamenmackay/b443fa157bb42af262409b1f3321381c",
+    "url": "https://api.github.com/gists/4a1ad5afcd9a391b31ab3852b9ec8f2c",
+    "forks_url": "https://api.github.com/gists/4a1ad5afcd9a391b31ab3852b9ec8f2c/forks",
+    "commits_url": "https://api.github.com/gists/4a1ad5afcd9a391b31ab3852b9ec8f2c/commits",
+    "id": "4a1ad5afcd9a391b31ab3852b9ec8f2c",
+    "node_id": "G_kwDOCBw3xNoAIDRhMWFkNWFmY2Q5YTM5MWIzMWFiMzg1MmI5ZWM4ZjJj",
+    "git_pull_url": "https://gist.github.com/4a1ad5afcd9a391b31ab3852b9ec8f2c.git",
+    "git_push_url": "https://gist.github.com/4a1ad5afcd9a391b31ab3852b9ec8f2c.git",
+    "html_url": "https://gist.github.com/66631231/4a1ad5afcd9a391b31ab3852b9ec8f2c",
     "files": {
-      "gistfile1.txt": {
-        "filename": "gistfile1.txt",
+      "esp8266_data.txt": {
+        "filename": "esp8266_data.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/kamenmackay/b443fa157bb42af262409b1f3321381c/raw/7e51ea2b39f0b4e50b01bbd7accb800d417c82a9/gistfile1.txt",
-        "size": 4898
+        "raw_url": "https://gist.githubusercontent.com/66631231/4a1ad5afcd9a391b31ab3852b9ec8f2c/raw/6a1592a8dce7b4d3b10a9e3a3f1d98a6bd577a8c/esp8266_data.txt",
+        "size": 215
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:38:49Z",
-    "updated_at": "2025-11-29T09:38:49Z",
-    "description": "Automated heat curve adjustment via Home Assistant and the myVaillant integration",
+    "created_at": "2025-11-29T09:52:49Z",
+    "updated_at": "2025-11-29T09:54:53Z",
+    "description": "ESP8266 数据更新 - 00:02:12",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/b443fa157bb42af262409b1f3321381c/comments",
+    "comments_url": "https://api.github.com/gists/4a1ad5afcd9a391b31ab3852b9ec8f2c/comments",
     "owner": {
-      "login": "kamenmackay",
-      "id": 16890527,
-      "node_id": "MDQ6VXNlcjE2ODkwNTI3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16890527?v=4",
+      "login": "66631231",
+      "id": 136067012,
+      "node_id": "U_kgDOCBw3xA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136067012?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/kamenmackay",
-      "html_url": "https://github.com/kamenmackay",
-      "followers_url": "https://api.github.com/users/kamenmackay/followers",
-      "following_url": "https://api.github.com/users/kamenmackay/following{/other_user}",
-      "gists_url": "https://api.github.com/users/kamenmackay/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/kamenmackay/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/kamenmackay/subscriptions",
-      "organizations_url": "https://api.github.com/users/kamenmackay/orgs",
-      "repos_url": "https://api.github.com/users/kamenmackay/repos",
-      "events_url": "https://api.github.com/users/kamenmackay/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/kamenmackay/received_events",
+      "url": "https://api.github.com/users/66631231",
+      "html_url": "https://github.com/66631231",
+      "followers_url": "https://api.github.com/users/66631231/followers",
+      "following_url": "https://api.github.com/users/66631231/following{/other_user}",
+      "gists_url": "https://api.github.com/users/66631231/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/66631231/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/66631231/subscriptions",
+      "organizations_url": "https://api.github.com/users/66631231/orgs",
+      "repos_url": "https://api.github.com/users/66631231/repos",
+      "events_url": "https://api.github.com/users/66631231/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/66631231/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -1603,55 +392,741 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/be85e90958dfeecbfd6e35ce712a08a9",
-    "forks_url": "https://api.github.com/gists/be85e90958dfeecbfd6e35ce712a08a9/forks",
-    "commits_url": "https://api.github.com/gists/be85e90958dfeecbfd6e35ce712a08a9/commits",
-    "id": "be85e90958dfeecbfd6e35ce712a08a9",
-    "node_id": "G_kwDOAJivKtoAIGJlODVlOTA5NThkZmVlY2JmZDZlMzVjZTcxMmEwOGE5",
-    "git_pull_url": "https://gist.github.com/be85e90958dfeecbfd6e35ce712a08a9.git",
-    "git_push_url": "https://gist.github.com/be85e90958dfeecbfd6e35ce712a08a9.git",
-    "html_url": "https://gist.github.com/benpm/be85e90958dfeecbfd6e35ce712a08a9",
+    "url": "https://api.github.com/gists/35530f874f28e8eabeb34ff2f099db32",
+    "forks_url": "https://api.github.com/gists/35530f874f28e8eabeb34ff2f099db32/forks",
+    "commits_url": "https://api.github.com/gists/35530f874f28e8eabeb34ff2f099db32/commits",
+    "id": "35530f874f28e8eabeb34ff2f099db32",
+    "node_id": "G_kwDOAfg5iNoAIDM1NTMwZjg3NGYyOGU4ZWFiZWIzNGZmMmYwOTlkYjMy",
+    "git_pull_url": "https://gist.github.com/35530f874f28e8eabeb34ff2f099db32.git",
+    "git_push_url": "https://gist.github.com/35530f874f28e8eabeb34ff2f099db32.git",
+    "html_url": "https://gist.github.com/sogaiu/35530f874f28e8eabeb34ff2f099db32",
     "files": {
-      "README.md": {
-        "filename": "README.md",
+      "top-level-defs.janet": {
+        "filename": "top-level-defs.janet",
+        "type": "text/plain",
+        "language": "Janet",
+        "raw_url": "https://gist.githubusercontent.com/sogaiu/35530f874f28e8eabeb34ff2f099db32/raw/7909812e27d12bdebc68cc2d2304faaf6f1ad023/top-level-defs.janet",
+        "size": 1703
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:52:16Z",
+    "updated_at": "2025-11-29T09:52:51Z",
+    "description": "top-level def extraction test",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/35530f874f28e8eabeb34ff2f099db32/comments",
+    "owner": {
+      "login": "sogaiu",
+      "id": 33044872,
+      "node_id": "MDQ6VXNlcjMzMDQ0ODcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33044872?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sogaiu",
+      "html_url": "https://github.com/sogaiu",
+      "followers_url": "https://api.github.com/users/sogaiu/followers",
+      "following_url": "https://api.github.com/users/sogaiu/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sogaiu/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sogaiu/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sogaiu/subscriptions",
+      "organizations_url": "https://api.github.com/users/sogaiu/orgs",
+      "repos_url": "https://api.github.com/users/sogaiu/repos",
+      "events_url": "https://api.github.com/users/sogaiu/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sogaiu/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/f332c0a90d931310f687b4570ea1e38c",
+    "forks_url": "https://api.github.com/gists/f332c0a90d931310f687b4570ea1e38c/forks",
+    "commits_url": "https://api.github.com/gists/f332c0a90d931310f687b4570ea1e38c/commits",
+    "id": "f332c0a90d931310f687b4570ea1e38c",
+    "node_id": "G_kwDOCZjIMtoAIGYzMzJjMGE5MGQ5MzEzMTBmNjg3YjQ1NzBlYTFlMzhj",
+    "git_pull_url": "https://gist.github.com/f332c0a90d931310f687b4570ea1e38c.git",
+    "git_push_url": "https://gist.github.com/f332c0a90d931310f687b4570ea1e38c.git",
+    "html_url": "https://gist.github.com/jikssha/f332c0a90d931310f687b4570ea1e38c",
+    "files": {
+      "zonehash": {
+        "filename": "zonehash",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/jikssha/f332c0a90d931310f687b4570ea1e38c/raw/4f426c6e71ea6d5724a418c49a28d1e5bb5a01b4/zonehash",
+        "size": 40
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:52:15Z",
+    "updated_at": "2025-11-29T09:52:15Z",
+    "description": "PublicZone email hash verification",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/f332c0a90d931310f687b4570ea1e38c/comments",
+    "owner": {
+      "login": "jikssha",
+      "id": 161007666,
+      "node_id": "U_kgDOCZjIMg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161007666?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jikssha",
+      "html_url": "https://github.com/jikssha",
+      "followers_url": "https://api.github.com/users/jikssha/followers",
+      "following_url": "https://api.github.com/users/jikssha/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jikssha/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jikssha/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jikssha/subscriptions",
+      "organizations_url": "https://api.github.com/users/jikssha/orgs",
+      "repos_url": "https://api.github.com/users/jikssha/repos",
+      "events_url": "https://api.github.com/users/jikssha/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jikssha/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/f60cb50c76c3ee8dbfd784489f8a85d3",
+    "forks_url": "https://api.github.com/gists/f60cb50c76c3ee8dbfd784489f8a85d3/forks",
+    "commits_url": "https://api.github.com/gists/f60cb50c76c3ee8dbfd784489f8a85d3/commits",
+    "id": "f60cb50c76c3ee8dbfd784489f8a85d3",
+    "node_id": "G_kwDOAF7D5doAIGY2MGNiNTBjNzZjM2VlOGRiZmQ3ODQ0ODlmOGE4NWQz",
+    "git_pull_url": "https://gist.github.com/f60cb50c76c3ee8dbfd784489f8a85d3.git",
+    "git_push_url": "https://gist.github.com/f60cb50c76c3ee8dbfd784489f8a85d3.git",
+    "html_url": "https://gist.github.com/lovels/f60cb50c76c3ee8dbfd784489f8a85d3",
+    "files": {
+      "publiczone-email-hash.txt": {
+        "filename": "publiczone-email-hash.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/lovels/f60cb50c76c3ee8dbfd784489f8a85d3/raw/aa8dc95f7cd5973b0c416b07ac02201f5987f02c/publiczone-email-hash.txt",
+        "size": 40
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:51:48Z",
+    "updated_at": "2025-11-29T09:51:48Z",
+    "description": "PublicZone email hash verification",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/f60cb50c76c3ee8dbfd784489f8a85d3/comments",
+    "owner": {
+      "login": "lovels",
+      "id": 6210533,
+      "node_id": "MDQ6VXNlcjYyMTA1MzM=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6210533?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lovels",
+      "html_url": "https://github.com/lovels",
+      "followers_url": "https://api.github.com/users/lovels/followers",
+      "following_url": "https://api.github.com/users/lovels/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lovels/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lovels/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lovels/subscriptions",
+      "organizations_url": "https://api.github.com/users/lovels/orgs",
+      "repos_url": "https://api.github.com/users/lovels/repos",
+      "events_url": "https://api.github.com/users/lovels/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lovels/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/33babdf5d89e8c6d504a924696ce27bf",
+    "forks_url": "https://api.github.com/gists/33babdf5d89e8c6d504a924696ce27bf/forks",
+    "commits_url": "https://api.github.com/gists/33babdf5d89e8c6d504a924696ce27bf/commits",
+    "id": "33babdf5d89e8c6d504a924696ce27bf",
+    "node_id": "G_kwDOAUscddoAIDMzYmFiZGY1ZDg5ZThjNmQ1MDRhOTI0Njk2Y2UyN2Jm",
+    "git_pull_url": "https://gist.github.com/33babdf5d89e8c6d504a924696ce27bf.git",
+    "git_push_url": "https://gist.github.com/33babdf5d89e8c6d504a924696ce27bf.git",
+    "html_url": "https://gist.github.com/alexdolbun/33babdf5d89e8c6d504a924696ce27bf",
+    "files": {
+      "RT @RushCMC Glad you find it helpful, lots of optimizations underway.": {
+        "filename": "RT @RushCMC Glad you find it helpful, lots of optimizations underway.",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/alexdolbun/33babdf5d89e8c6d504a924696ce27bf/raw/4816631ab21d2c3698295796e56beefab0046f29/RT%20%40RushCMC%20Glad%20you%20find%20it%20helpful%2C%20lots%20of%20optimizations%20underway.",
+        "size": 180
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:51:32Z",
+    "updated_at": "2025-11-29T09:51:32Z",
+    "description": "RT @RushCMC: Glad you find it helpful, lots of optimizations underway. (via Twitter https://twitter.com/alexdolbun/status/1994705137059991710)",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/33babdf5d89e8c6d504a924696ce27bf/comments",
+    "owner": {
+      "login": "alexdolbun",
+      "id": 21699701,
+      "node_id": "MDQ6VXNlcjIxNjk5NzAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21699701?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/alexdolbun",
+      "html_url": "https://github.com/alexdolbun",
+      "followers_url": "https://api.github.com/users/alexdolbun/followers",
+      "following_url": "https://api.github.com/users/alexdolbun/following{/other_user}",
+      "gists_url": "https://api.github.com/users/alexdolbun/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/alexdolbun/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/alexdolbun/subscriptions",
+      "organizations_url": "https://api.github.com/users/alexdolbun/orgs",
+      "repos_url": "https://api.github.com/users/alexdolbun/repos",
+      "events_url": "https://api.github.com/users/alexdolbun/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/alexdolbun/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/818eefc05c9c216cd0156d1d1b1304cd",
+    "forks_url": "https://api.github.com/gists/818eefc05c9c216cd0156d1d1b1304cd/forks",
+    "commits_url": "https://api.github.com/gists/818eefc05c9c216cd0156d1d1b1304cd/commits",
+    "id": "818eefc05c9c216cd0156d1d1b1304cd",
+    "node_id": "G_kwDOBGj6MdoAIDgxOGVlZmMwNWM5YzIxNmNkMDE1NmQxZDFiMTMwNGNk",
+    "git_pull_url": "https://gist.github.com/818eefc05c9c216cd0156d1d1b1304cd.git",
+    "git_push_url": "https://gist.github.com/818eefc05c9c216cd0156d1d1b1304cd.git",
+    "html_url": "https://gist.github.com/forkyau/818eefc05c9c216cd0156d1d1b1304cd",
+    "files": {
+      "hourly_rainfall_data-2025-11-29|17-30.csv": {
+        "filename": "hourly_rainfall_data-2025-11-29|17-30.csv",
+        "type": "text/csv",
+        "language": "CSV",
+        "raw_url": "https://gist.githubusercontent.com/forkyau/818eefc05c9c216cd0156d1d1b1304cd/raw/ee036c011e3fcf5262b4c4ef952ebfad9a69af9b/hourly_rainfall_data-2025-11-29%7C17-30.csv",
+        "size": 2197
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:51:04Z",
+    "updated_at": "2025-11-29T09:51:05Z",
+    "description": "GIST created by python code",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/818eefc05c9c216cd0156d1d1b1304cd/comments",
+    "owner": {
+      "login": "forkyau",
+      "id": 73988657,
+      "node_id": "MDQ6VXNlcjczOTg4NjU3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73988657?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/forkyau",
+      "html_url": "https://github.com/forkyau",
+      "followers_url": "https://api.github.com/users/forkyau/followers",
+      "following_url": "https://api.github.com/users/forkyau/following{/other_user}",
+      "gists_url": "https://api.github.com/users/forkyau/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/forkyau/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/forkyau/subscriptions",
+      "organizations_url": "https://api.github.com/users/forkyau/orgs",
+      "repos_url": "https://api.github.com/users/forkyau/repos",
+      "events_url": "https://api.github.com/users/forkyau/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/forkyau/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/38aa33cffea29cf282da69b2f4cd356b",
+    "forks_url": "https://api.github.com/gists/38aa33cffea29cf282da69b2f4cd356b/forks",
+    "commits_url": "https://api.github.com/gists/38aa33cffea29cf282da69b2f4cd356b/commits",
+    "id": "38aa33cffea29cf282da69b2f4cd356b",
+    "node_id": "G_kwDOBHLCKdoAIDM4YWEzM2NmZmVhMjljZjI4MmRhNjliMmY0Y2QzNTZi",
+    "git_pull_url": "https://gist.github.com/38aa33cffea29cf282da69b2f4cd356b.git",
+    "git_push_url": "https://gist.github.com/38aa33cffea29cf282da69b2f4cd356b.git",
+    "html_url": "https://gist.github.com/SadeghPouriyanZadeh/38aa33cffea29cf282da69b2f4cd356b",
+    "files": {
+      "mamba.md": {
+        "filename": "mamba.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/benpm/be85e90958dfeecbfd6e35ce712a08a9/raw/d27c81c50f3450ab1eaaf8376bbd0dfca7e7e0f4/README.md",
-        "size": 155
+        "raw_url": "https://gist.githubusercontent.com/SadeghPouriyanZadeh/38aa33cffea29cf282da69b2f4cd356b/raw/d2e4ed8f17da4838531910fd610affa679f14e7d/mamba.md",
+        "size": 1335
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:50:26Z",
+    "updated_at": "2025-11-29T09:55:24Z",
+    "description": "Mamba over Conda: Endgame",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/38aa33cffea29cf282da69b2f4cd356b/comments",
+    "owner": {
+      "login": "SadeghPouriyanZadeh",
+      "id": 74629673,
+      "node_id": "MDQ6VXNlcjc0NjI5Njcz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74629673?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SadeghPouriyanZadeh",
+      "html_url": "https://github.com/SadeghPouriyanZadeh",
+      "followers_url": "https://api.github.com/users/SadeghPouriyanZadeh/followers",
+      "following_url": "https://api.github.com/users/SadeghPouriyanZadeh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SadeghPouriyanZadeh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SadeghPouriyanZadeh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SadeghPouriyanZadeh/subscriptions",
+      "organizations_url": "https://api.github.com/users/SadeghPouriyanZadeh/orgs",
+      "repos_url": "https://api.github.com/users/SadeghPouriyanZadeh/repos",
+      "events_url": "https://api.github.com/users/SadeghPouriyanZadeh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SadeghPouriyanZadeh/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1a3221e013f5860d26309333043f7601",
+    "forks_url": "https://api.github.com/gists/1a3221e013f5860d26309333043f7601/forks",
+    "commits_url": "https://api.github.com/gists/1a3221e013f5860d26309333043f7601/commits",
+    "id": "1a3221e013f5860d26309333043f7601",
+    "node_id": "G_kwDOCT329doAIDFhMzIyMWUwMTNmNTg2MGQyNjMwOTMzMzA0M2Y3NjAx",
+    "git_pull_url": "https://gist.github.com/1a3221e013f5860d26309333043f7601.git",
+    "git_push_url": "https://gist.github.com/1a3221e013f5860d26309333043f7601.git",
+    "html_url": "https://gist.github.com/Zimbalo/1a3221e013f5860d26309333043f7601",
+    "files": {
+      "dosaped-support.html": {
+        "filename": "dosaped-support.html",
+        "type": "text/html",
+        "language": "HTML",
+        "raw_url": "https://gist.githubusercontent.com/Zimbalo/1a3221e013f5860d26309333043f7601/raw/70d1ad47e0c57602780cb95ad3bcfaed774ed1a2/dosaped-support.html",
+        "size": 4091
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:50:12Z",
+    "updated_at": "2025-11-29T09:50:12Z",
+    "description": "DosaPed - Supporto e Assistenza",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/1a3221e013f5860d26309333043f7601/comments",
+    "owner": {
+      "login": "Zimbalo",
+      "id": 155055861,
+      "node_id": "U_kgDOCT329Q",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155055861?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Zimbalo",
+      "html_url": "https://github.com/Zimbalo",
+      "followers_url": "https://api.github.com/users/Zimbalo/followers",
+      "following_url": "https://api.github.com/users/Zimbalo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Zimbalo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Zimbalo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Zimbalo/subscriptions",
+      "organizations_url": "https://api.github.com/users/Zimbalo/orgs",
+      "repos_url": "https://api.github.com/users/Zimbalo/repos",
+      "events_url": "https://api.github.com/users/Zimbalo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Zimbalo/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2df1d5c0133b29518c3fb77e3d202514",
+    "forks_url": "https://api.github.com/gists/2df1d5c0133b29518c3fb77e3d202514/forks",
+    "commits_url": "https://api.github.com/gists/2df1d5c0133b29518c3fb77e3d202514/commits",
+    "id": "2df1d5c0133b29518c3fb77e3d202514",
+    "node_id": "G_kwDOCIrVfNoAIDJkZjFkNWMwMTMzYjI5NTE4YzNmYjc3ZTNkMjAyNTE0",
+    "git_pull_url": "https://gist.github.com/2df1d5c0133b29518c3fb77e3d202514.git",
+    "git_push_url": "https://gist.github.com/2df1d5c0133b29518c3fb77e3d202514.git",
+    "html_url": "https://gist.github.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514",
+    "files": {
+      ".deps...npm...hardhat...console.sol": {
+        "filename": ".deps...npm...hardhat...console.sol",
+        "type": "text/plain",
+        "language": "Solidity",
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/f070e13f9a644bd6f4f26fed3cf0474734a461d9/.deps...npm...hardhat...console.sol",
+        "size": 69001
       },
-      "hotkeys.schema.json": {
-        "filename": "hotkeys.schema.json",
+      ".deps...remix-tests...remix_accounts.sol": {
+        "filename": ".deps...remix-tests...remix_accounts.sol",
+        "type": "text/plain",
+        "language": "Solidity",
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/b4ee04a169882f8dded69a699048086bc9df79e1/.deps...remix-tests...remix_accounts.sol",
+        "size": 198
+      },
+      ".deps...remix-tests...remix_tests.sol": {
+        "filename": ".deps...remix-tests...remix_tests.sol",
+        "type": "text/plain",
+        "language": "Solidity",
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/b8b99603622032ea4822f5c528f8b1d82ce7c7b2/.deps...remix-tests...remix_tests.sol",
+        "size": 6824
+      },
+      ".prettierrc.json": {
+        "filename": ".prettierrc.json",
         "type": "application/json",
         "language": "JSON",
-        "raw_url": "https://gist.githubusercontent.com/benpm/be85e90958dfeecbfd6e35ce712a08a9/raw/fa795a303770f967b76553bdd31c0bbcceee4154/hotkeys.schema.json",
-        "size": 7197
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/b2a56f23717b4b9b8f05d45363a0fd58c657ce6e/.prettierrc.json",
+        "size": 758
+      },
+      ".states...vm-prague...state.json": {
+        "filename": ".states...vm-prague...state.json",
+        "type": "application/json",
+        "language": "JSON",
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/57a6e2ddb773b357738f6d01850d0cef234417c0/.states...vm-prague...state.json",
+        "size": 1102431
+      },
+      "Bigbank.sol": {
+        "filename": "Bigbank.sol",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/01ea8e5ae620e5785b21a445486a59d11f31981b/Bigbank.sol",
+        "size": 4711
+      },
+      "Eventtest.sol": {
+        "filename": "Eventtest.sol",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/41c1937508225c8b9df97145a3b3ee562c2569a9/Eventtest.sol",
+        "size": 314
+      },
+      "README.txt": {
+        "filename": "README.txt",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/4b936e9ee108c03a9212f848522aa0ba35e9f789/README.txt",
+        "size": 1494
+      },
+      "artifacts...Admin.json": {
+        "filename": "artifacts...Admin.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/3709e43affafa847c004a32838b629aa4032743a/artifacts...Admin.json",
+        "size": 108018
+      },
+      "artifacts...Admin_metadata.json": {
+        "filename": "artifacts...Admin_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/a19066a734cdfd2a76e82ef52f36f65da06ce146/artifacts...Admin_metadata.json",
+        "size": 1591
+      },
+      "artifacts...BANK.json": {
+        "filename": "artifacts...BANK.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/a5b8053ee1033aa706bfb143a3c1bc3112b6b9e4/artifacts...BANK.json",
+        "size": 247436
+      },
+      "artifacts...BANK_metadata.json": {
+        "filename": "artifacts...BANK_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/7f1dd9ead4cd0707399441a59d97336995f0dcaf/artifacts...BANK_metadata.json",
+        "size": 2426
+      },
+      "artifacts...BallotTest.json": {
+        "filename": "artifacts...BallotTest.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/e7cd123e5f6fa855fa025d9c0f938ea18681a913/artifacts...BallotTest.json",
+        "size": 297131
+      },
+      "artifacts...BallotTest_metadata.json": {
+        "filename": "artifacts...BallotTest_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/11915350abe4197c3b7c29c7ee8a1ceb632d12a8/artifacts...BallotTest_metadata.json",
+        "size": 2292
+      },
+      "artifacts...Bank.json": {
+        "filename": "artifacts...Bank.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/82c4995e07e4aed177cf0eda5babe471b9e08727/artifacts...Bank.json",
+        "size": 247892
+      },
+      "artifacts...Bank_metadata.json": {
+        "filename": "artifacts...Bank_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/906a968f14f8fdc510470739c85a33746c1d7f3f/artifacts...Bank_metadata.json",
+        "size": 2432
+      },
+      "artifacts...Base.json": {
+        "filename": "artifacts...Base.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/d1edc10b08b066f440213a612b0161d705c4d4fa/artifacts...Base.json",
+        "size": 23845
+      },
+      "artifacts...Base_metadata.json": {
+        "filename": "artifacts...Base_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/a3dbf3c5c00d707024419ab23a96b7e249afdc5c/artifacts...Base_metadata.json",
+        "size": 1177
+      },
+      "artifacts...BigBank.json": {
+        "filename": "artifacts...BigBank.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/c4ea57ce3ad05549c128024b0d9a82b3416736be/artifacts...BigBank.json",
+        "size": 303315
+      },
+      "artifacts...BigBank_metadata.json": {
+        "filename": "artifacts...BigBank_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/577624da33e8cfb81426136a01b52b98026c5143/artifacts...BigBank_metadata.json",
+        "size": 2889
+      },
+      "artifacts...IB.json": {
+        "filename": "artifacts...IB.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/4d13f25912383e0d061c15c47fffd403056ea705/artifacts...IB.json",
+        "size": 727
+      },
+      "artifacts...IBANK.json": {
+        "filename": "artifacts...IBANK.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/4d13f25912383e0d061c15c47fffd403056ea705/artifacts...IBANK.json",
+        "size": 727
+      },
+      "artifacts...IBANK_metadata.json": {
+        "filename": "artifacts...IBANK_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/d8a0a1a0ae2d004fe63fe6a81c062939e0efb47a/artifacts...IBANK_metadata.json",
+        "size": 832
+      },
+      "artifacts...IBS.json": {
+        "filename": "artifacts...IBS.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/4d13f25912383e0d061c15c47fffd403056ea705/artifacts...IBS.json",
+        "size": 727
+      },
+      "artifacts...IBS_metadata.json": {
+        "filename": "artifacts...IBS_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/76ec734ae5b40c96e2258c75728a02a416f76d57/artifacts...IBS_metadata.json",
+        "size": 830
+      },
+      "artifacts...IB_metadata.json": {
+        "filename": "artifacts...IB_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/72f10ac07bfa507c9226ffcc0e1ac63e2eb1e29c/artifacts...IB_metadata.json",
+        "size": 829
+      },
+      "artifacts...IBank.json": {
+        "filename": "artifacts...IBank.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/38733ed6ef2fac77927a08db65e49975fbdb0d82/artifacts...IBank.json",
+        "size": 1382
+      },
+      "artifacts...IBank_metadata.json": {
+        "filename": "artifacts...IBank_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/8d2fd186111065b421aa112afa4eac4cb0a39d3e/artifacts...IBank_metadata.json",
+        "size": 1424
+      },
+      "artifacts...Name.json": {
+        "filename": "artifacts...Name.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/4d13f25912383e0d061c15c47fffd403056ea705/artifacts...Name.json",
+        "size": 727
+      },
+      "artifacts...Name_metadata.json": {
+        "filename": "artifacts...Name_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/aa259e881f33f343186feb27336c21931449ce59/artifacts...Name_metadata.json",
+        "size": 831
+      },
+      "artifacts...Storage.json": {
+        "filename": "artifacts...Storage.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/3807acec086c1115d795ae192b6df72ad0ddadeb/artifacts...Storage.json",
+        "size": 33018
+      },
+      "artifacts...Storage_metadata.json": {
+        "filename": "artifacts...Storage_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/f55b625c759463018936d0f5abb782ecbd6b0450/artifacts...Storage_metadata.json",
+        "size": 1694
+      },
+      "artifacts...Sub.json": {
+        "filename": "artifacts...Sub.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/6bf025fb91cb33c9b31305cd93313362b76295dd/artifacts...Sub.json",
+        "size": 24735
+      },
+      "artifacts...Sub_metadata.json": {
+        "filename": "artifacts...Sub_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/b833b229567d3d2bde2d03c341900f076dfc74db/artifacts...Sub_metadata.json",
+        "size": 1176
+      },
+      "artifacts...banksmart.json": {
+        "filename": "artifacts...banksmart.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/8070c6ad594651e72f3d68aa9bcd930867da0656/artifacts...banksmart.json",
+        "size": 1890
+      },
+      "artifacts...banksmart_metadata.json": {
+        "filename": "artifacts...banksmart_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/00823091e7ec4ef22a4ef1be9c49a027c6bd870a/artifacts...banksmart_metadata.json",
+        "size": 840
+      },
+      "artifacts...build-info...0df14a63377c8ebe7859d01ed258b1bd.json": {
+        "filename": "artifacts...build-info...0df14a63377c8ebe7859d01ed258b1bd.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/658228a75cc71baa14a35d1e6357b837190eda96/artifacts...build-info...0df14a63377c8ebe7859d01ed258b1bd.json",
+        "size": 1971625
+      },
+      "artifacts...build-info...15bc7c5c1262950045475028a0dcc8fb.json": {
+        "filename": "artifacts...build-info...15bc7c5c1262950045475028a0dcc8fb.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/d2b6ff2c2d38adc856a2619e1d6d7c266412888c/artifacts...build-info...15bc7c5c1262950045475028a0dcc8fb.json",
+        "size": 808722
+      },
+      "artifacts...build-info...bb261f374d9d7a9be06798962651c6be.json": {
+        "filename": "artifacts...build-info...bb261f374d9d7a9be06798962651c6be.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/e1344b3764d817e30138af92caf31916870254ac/artifacts...build-info...bb261f374d9d7a9be06798962651c6be.json",
+        "size": 88973
+      },
+      "artifacts...build-info...c34cad321699c08df84f5508ca0e4877.json": {
+        "filename": "artifacts...build-info...c34cad321699c08df84f5508ca0e4877.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/e44477366c71f90046db7380b6dbd54db8d9cef5/artifacts...build-info...c34cad321699c08df84f5508ca0e4877.json",
+        "size": 8303273
+      },
+      "artifacts...testEvent.json": {
+        "filename": "artifacts...testEvent.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/55dd2dc67f7de3b7a5209475ca83af0e62f6cfef/artifacts...testEvent.json",
+        "size": 12989
+      },
+      "artifacts...testEvent_metadata.json": {
+        "filename": "artifacts...testEvent_metadata.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/2ddb51027bddf4c40f83ef083c5a180c153b596f/artifacts...testEvent_metadata.json",
+        "size": 1398
+      },
+      "banksmart.sol": {
+        "filename": "banksmart.sol",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/7f63b849030cf27ed67aea5e37d6728b9bfd095d/banksmart.sol",
+        "size": 2974
+      },
+      "contracts...1_Storage.sol": {
+        "filename": "contracts...1_Storage.sol",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/dd1e15d25e783b6eb2149c024787678c663616f7/contracts...1_Storage.sol",
+        "size": 555
+      },
+      "contracts...2_Owner.sol": {
+        "filename": "contracts...2_Owner.sol",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/7aff9aa3d5c2ac9eec1add0101a061835c056998/contracts...2_Owner.sol",
+        "size": 1652
+      },
+      "contracts...3_Ballot.sol": {
+        "filename": "contracts...3_Ballot.sol",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/56b215955168a0867388822328104604acdf0772/contracts...3_Ballot.sol",
+        "size": 6216
+      },
+      "remix.config.json": {
+        "filename": "remix.config.json",
+        "type": "application/json",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/59f67d5bca25cae42da9d0449a997ec4d617abcd/remix.config.json",
+        "size": 84
+      },
+      "scripts...deploy_with_ethers.ts": {
+        "filename": "scripts...deploy_with_ethers.ts",
+        "type": "video/MP2T",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/513d496d7638a86e7b7339272f853a7053429336/scripts...deploy_with_ethers.ts",
+        "size": 488
+      },
+      "scripts...ethers-lib.ts": {
+        "filename": "scripts...ethers-lib.ts",
+        "type": "video/MP2T",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/c5dd03f7deb6a05afaadcd8218bdbcc41e571d5a/scripts...ethers-lib.ts",
+        "size": 1227
+      },
+      "tests...Ballot_test.sol": {
+        "filename": "tests...Ballot_test.sol",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/49146e99facba02fce64738239bec0b835cec15b/tests...Ballot_test.sol",
+        "size": 938
+      },
+      "tests...storage.test.js": {
+        "filename": "tests...storage.test.js",
+        "type": "text/javascript",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/Gbcong/2df1d5c0133b29518c3fb77e3d202514/raw/8e37b7c39b76b12519a9f931ba858624e573e1f7/tests...storage.test.js",
+        "size": 947
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:38:14Z",
-    "updated_at": "2025-11-29T09:39:53Z",
-    "description": "Obsidian hotkeys.json JSON schema",
+    "created_at": "2025-11-29T09:50:11Z",
+    "updated_at": "2025-11-29T09:50:13Z",
+    "description": "Created using remix-ide: Realtime Ethereum Contract Compiler and Runtime. \n Load this file by pasting this gists URL or ID at https://remix.ethereum.org/#version=soljson-v0.8.30+commit.73712a01.js&optimize=undefined&runs=200&gist=",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/be85e90958dfeecbfd6e35ce712a08a9/comments",
+    "comments_url": "https://api.github.com/gists/2df1d5c0133b29518c3fb77e3d202514/comments",
     "owner": {
-      "login": "benpm",
-      "id": 10006314,
-      "node_id": "MDQ6VXNlcjEwMDA2MzE0",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10006314?v=4",
+      "login": "Gbcong",
+      "id": 143316348,
+      "node_id": "U_kgDOCIrVfA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143316348?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/benpm",
-      "html_url": "https://github.com/benpm",
-      "followers_url": "https://api.github.com/users/benpm/followers",
-      "following_url": "https://api.github.com/users/benpm/following{/other_user}",
-      "gists_url": "https://api.github.com/users/benpm/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/benpm/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/benpm/subscriptions",
-      "organizations_url": "https://api.github.com/users/benpm/orgs",
-      "repos_url": "https://api.github.com/users/benpm/repos",
-      "events_url": "https://api.github.com/users/benpm/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/benpm/received_events",
+      "url": "https://api.github.com/users/Gbcong",
+      "html_url": "https://github.com/Gbcong",
+      "followers_url": "https://api.github.com/users/Gbcong/followers",
+      "following_url": "https://api.github.com/users/Gbcong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Gbcong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Gbcong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Gbcong/subscriptions",
+      "organizations_url": "https://api.github.com/users/Gbcong/orgs",
+      "repos_url": "https://api.github.com/users/Gbcong/repos",
+      "events_url": "https://api.github.com/users/Gbcong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Gbcong/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -1659,31 +1134,31 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/95df1b9490212ae5fb3851f49fd16132",
-    "forks_url": "https://api.github.com/gists/95df1b9490212ae5fb3851f49fd16132/forks",
-    "commits_url": "https://api.github.com/gists/95df1b9490212ae5fb3851f49fd16132/commits",
-    "id": "95df1b9490212ae5fb3851f49fd16132",
-    "node_id": "G_kwDOBgUlx9oAIDk1ZGYxYjk0OTAyMTJhZTVmYjM4NTFmNDlmZDE2MTMy",
-    "git_pull_url": "https://gist.github.com/95df1b9490212ae5fb3851f49fd16132.git",
-    "git_push_url": "https://gist.github.com/95df1b9490212ae5fb3851f49fd16132.git",
-    "html_url": "https://gist.github.com/freederia-research/95df1b9490212ae5fb3851f49fd16132",
+    "url": "https://api.github.com/gists/8afab6ccc0af11856cd382c6d9c02e84",
+    "forks_url": "https://api.github.com/gists/8afab6ccc0af11856cd382c6d9c02e84/forks",
+    "commits_url": "https://api.github.com/gists/8afab6ccc0af11856cd382c6d9c02e84/commits",
+    "id": "8afab6ccc0af11856cd382c6d9c02e84",
+    "node_id": "G_kwDOBgUlx9oAIDhhZmFiNmNjYzBhZjExODU2Y2QzODJjNmQ5YzAyZTg0",
+    "git_pull_url": "https://gist.github.com/8afab6ccc0af11856cd382c6d9c02e84.git",
+    "git_push_url": "https://gist.github.com/8afab6ccc0af11856cd382c6d9c02e84.git",
+    "html_url": "https://gist.github.com/freederia-research/8afab6ccc0af11856cd382c6d9c02e84",
     "files": {
-      "Predictive_Optical_Data_Center_Resource_Allocation_via_Adaptive_Bayesian_Optimization_and_Dynamic_Gr.md": {
-        "filename": "Predictive_Optical_Data_Center_Resource_Allocation_via_Adaptive_Bayesian_Optimization_and_Dynamic_Gr.md",
+      "Enhanced_Spectral_Efficiency_in_Millimeter_Wave_Beamforming_Arrays_via_Dynamic_Dipole_Resonance_Tuni.md": {
+        "filename": "Enhanced_Spectral_Efficiency_in_Millimeter_Wave_Beamforming_Arrays_via_Dynamic_Dipole_Resonance_Tuni.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/freederia-research/95df1b9490212ae5fb3851f49fd16132/raw/c5feaa48f407f52b6ff3d2f4a8b3815d8533d8e3/Predictive_Optical_Data_Center_Resource_Allocation_via_Adaptive_Bayesian_Optimization_and_Dynamic_Gr.md",
-        "size": 21853
+        "raw_url": "https://gist.githubusercontent.com/freederia-research/8afab6ccc0af11856cd382c6d9c02e84/raw/e060ac38de0c7298e52dc5d1316aa6b016aead24/Enhanced_Spectral_Efficiency_in_Millimeter_Wave_Beamforming_Arrays_via_Dynamic_Dipole_Resonance_Tuni.md",
+        "size": 21132
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:37:28Z",
-    "updated_at": "2025-11-29T09:37:28Z",
-    "description": "[DOCS] Predictive Optical Data Center Resource Allocation via Adaptive Bayesian Optimization and Dynamic Graph Neural Networks (Published: 2025-11-29 18:37:26)",
+    "created_at": "2025-11-29T09:49:04Z",
+    "updated_at": "2025-11-29T09:49:05Z",
+    "description": "[DOCS] Enhanced Spectral Efficiency in Millimeter Wave Beamforming Arrays via Dynamic Dipole Resonance Tuning (Published: 2025-11-29 18:49:02)",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/95df1b9490212ae5fb3851f49fd16132/comments",
+    "comments_url": "https://api.github.com/gists/8afab6ccc0af11856cd382c6d9c02e84/comments",
     "owner": {
       "login": "freederia-research",
       "id": 101000647,
@@ -1708,83 +1183,48 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/96a32fb3d7b73100553406445c1730f9",
-    "forks_url": "https://api.github.com/gists/96a32fb3d7b73100553406445c1730f9/forks",
-    "commits_url": "https://api.github.com/gists/96a32fb3d7b73100553406445c1730f9/commits",
-    "id": "96a32fb3d7b73100553406445c1730f9",
-    "node_id": "G_kwDOAF-wA9oAIDk2YTMyZmIzZDdiNzMxMDA1NTM0MDY0NDVjMTczMGY5",
-    "git_pull_url": "https://gist.github.com/96a32fb3d7b73100553406445c1730f9.git",
-    "git_push_url": "https://gist.github.com/96a32fb3d7b73100553406445c1730f9.git",
-    "html_url": "https://gist.github.com/choco-bot/96a32fb3d7b73100553406445c1730f9",
+    "url": "https://api.github.com/gists/05967d9ba04b17cb03e2a6846c71f185",
+    "forks_url": "https://api.github.com/gists/05967d9ba04b17cb03e2a6846c71f185/forks",
+    "commits_url": "https://api.github.com/gists/05967d9ba04b17cb03e2a6846c71f185/commits",
+    "id": "05967d9ba04b17cb03e2a6846c71f185",
+    "node_id": "G_kwDOAA89yNoAIDA1OTY3ZDliYTA0YjE3Y2IwM2UyYTY4NDZjNzFmMTg1",
+    "git_pull_url": "https://gist.github.com/05967d9ba04b17cb03e2a6846c71f185.git",
+    "git_push_url": "https://gist.github.com/05967d9ba04b17cb03e2a6846c71f185.git",
+    "html_url": "https://gist.github.com/m-shibata/05967d9ba04b17cb03e2a6846c71f185",
     "files": {
-      "1.RegistrySnapshot.xml": {
-        "filename": "1.RegistrySnapshot.xml",
-        "type": "application/xml",
-        "language": "XML",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96a32fb3d7b73100553406445c1730f9/raw/bbc3eb1ace4ab6f5b1acf176be6b9418c530e15c/1.RegistrySnapshot.xml",
-        "size": 20279
-      },
-      "FilesSnapshot.xml": {
-        "filename": "FilesSnapshot.xml",
-        "type": "application/xml",
-        "language": "XML",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96a32fb3d7b73100553406445c1730f9/raw/3e56307e63bab679a8e1678751b6972f93094cb4/FilesSnapshot.xml",
-        "size": 743
-      },
-      "Install.txt": {
-        "filename": "Install.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96a32fb3d7b73100553406445c1730f9/raw/6d8a871326d829f9999d0e8c11ee24c793dfa306/Install.txt",
-        "size": 210203
-      },
-      "Uninstall.txt": {
-        "filename": "Uninstall.txt",
-        "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96a32fb3d7b73100553406445c1730f9/raw/010e370a11a03fa8434660a77fc1a804fc81c1ee/Uninstall.txt",
-        "size": 38330
-      },
-      "UninstallImage.md": {
-        "filename": "UninstallImage.md",
+      "2025Q4.md": {
+        "filename": "2025Q4.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96a32fb3d7b73100553406445c1730f9/raw/8ddef96b21e2c646128d7c00e6d12d411e76a3eb/UninstallImage.md",
-        "size": 255
-      },
-      "_Summary.md": {
-        "filename": "_Summary.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/choco-bot/96a32fb3d7b73100553406445c1730f9/raw/ff9487e888260ae482f9ea30337092c61c09b944/_Summary.md",
-        "size": 747
+        "raw_url": "https://gist.githubusercontent.com/m-shibata/05967d9ba04b17cb03e2a6846c71f185/raw/e58d598b23d6eabe62b58479948d98bc4c97b7c0/2025Q4.md",
+        "size": 3041
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:37:25Z",
-    "updated_at": "2025-11-29T09:37:26Z",
-    "description": "dotnet-5.0-sdk-1xx v5.0.104 - Passed - Package Tests Results",
+    "created_at": "2025-11-29T09:49:04Z",
+    "updated_at": "2025-11-29T09:49:04Z",
+    "description": "2025Q4アニメ",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/96a32fb3d7b73100553406445c1730f9/comments",
+    "comments_url": "https://api.github.com/gists/05967d9ba04b17cb03e2a6846c71f185/comments",
     "owner": {
-      "login": "choco-bot",
-      "id": 6270979,
-      "node_id": "MDQ6VXNlcjYyNzA5Nzk=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6270979?v=4",
+      "login": "m-shibata",
+      "id": 998856,
+      "node_id": "MDQ6VXNlcjk5ODg1Ng==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/998856?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/choco-bot",
-      "html_url": "https://github.com/choco-bot",
-      "followers_url": "https://api.github.com/users/choco-bot/followers",
-      "following_url": "https://api.github.com/users/choco-bot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/choco-bot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/choco-bot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/choco-bot/subscriptions",
-      "organizations_url": "https://api.github.com/users/choco-bot/orgs",
-      "repos_url": "https://api.github.com/users/choco-bot/repos",
-      "events_url": "https://api.github.com/users/choco-bot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/choco-bot/received_events",
+      "url": "https://api.github.com/users/m-shibata",
+      "html_url": "https://github.com/m-shibata",
+      "followers_url": "https://api.github.com/users/m-shibata/followers",
+      "following_url": "https://api.github.com/users/m-shibata/following{/other_user}",
+      "gists_url": "https://api.github.com/users/m-shibata/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/m-shibata/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/m-shibata/subscriptions",
+      "organizations_url": "https://api.github.com/users/m-shibata/orgs",
+      "repos_url": "https://api.github.com/users/m-shibata/repos",
+      "events_url": "https://api.github.com/users/m-shibata/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/m-shibata/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -1792,31 +1232,31 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/42f4fe94ac04e251b7b7165c5624914e",
-    "forks_url": "https://api.github.com/gists/42f4fe94ac04e251b7b7165c5624914e/forks",
-    "commits_url": "https://api.github.com/gists/42f4fe94ac04e251b7b7165c5624914e/commits",
-    "id": "42f4fe94ac04e251b7b7165c5624914e",
-    "node_id": "G_kwDOAWatx9oAIDQyZjRmZTk0YWMwNGUyNTFiN2I3MTY1YzU2MjQ5MTRl",
-    "git_pull_url": "https://gist.github.com/42f4fe94ac04e251b7b7165c5624914e.git",
-    "git_push_url": "https://gist.github.com/42f4fe94ac04e251b7b7165c5624914e.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/42f4fe94ac04e251b7b7165c5624914e",
+    "url": "https://api.github.com/gists/bddcc19c34df39a3ca264e501fd1af26",
+    "forks_url": "https://api.github.com/gists/bddcc19c34df39a3ca264e501fd1af26/forks",
+    "commits_url": "https://api.github.com/gists/bddcc19c34df39a3ca264e501fd1af26/commits",
+    "id": "bddcc19c34df39a3ca264e501fd1af26",
+    "node_id": "G_kwDOAWatx9oAIGJkZGNjMTljMzRkZjM5YTNjYTI2NGU1MDFmZDFhZjI2",
+    "git_pull_url": "https://gist.github.com/bddcc19c34df39a3ca264e501fd1af26.git",
+    "git_push_url": "https://gist.github.com/bddcc19c34df39a3ca264e501fd1af26.git",
+    "html_url": "https://gist.github.com/HugsLibRecordKeeper/bddcc19c34df39a3ca264e501fd1af26",
     "files": {
       "output_log.txt": {
         "filename": "output_log.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/42f4fe94ac04e251b7b7165c5624914e/raw/cb16f7a77ed07c63c028dfcaf7567fadc69265d0/output_log.txt",
-        "size": 264717
+        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/bddcc19c34df39a3ca264e501fd1af26/raw/a6c6b933b565ee2573eef3ce2e875217a996383c/output_log.txt",
+        "size": 250403
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:37:23Z",
-    "updated_at": "2025-11-29T09:37:24Z",
+    "created_at": "2025-11-29T09:48:52Z",
+    "updated_at": "2025-11-29T09:48:53Z",
     "description": "Rimworld output log published using HugsLib",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/42f4fe94ac04e251b7b7165c5624914e/comments",
+    "comments_url": "https://api.github.com/gists/bddcc19c34df39a3ca264e501fd1af26/comments",
     "owner": {
       "login": "HugsLibRecordKeeper",
       "id": 23506375,
@@ -1841,104 +1281,76 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/b9178b38026e80b5d5301bcb5293c1c3",
-    "forks_url": "https://api.github.com/gists/b9178b38026e80b5d5301bcb5293c1c3/forks",
-    "commits_url": "https://api.github.com/gists/b9178b38026e80b5d5301bcb5293c1c3/commits",
-    "id": "b9178b38026e80b5d5301bcb5293c1c3",
-    "node_id": "G_kwDODrZFHdoAIGI5MTc4YjM4MDI2ZTgwYjVkNTMwMWJjYjUyOTNjMWMz",
-    "git_pull_url": "https://gist.github.com/b9178b38026e80b5d5301bcb5293c1c3.git",
-    "git_push_url": "https://gist.github.com/b9178b38026e80b5d5301bcb5293c1c3.git",
-    "html_url": "https://gist.github.com/Chuah-xiao/b9178b38026e80b5d5301bcb5293c1c3",
+    "url": "https://api.github.com/gists/eb1a7ceb2a3cf12e647441c78073ee47",
+    "forks_url": "https://api.github.com/gists/eb1a7ceb2a3cf12e647441c78073ee47/forks",
+    "commits_url": "https://api.github.com/gists/eb1a7ceb2a3cf12e647441c78073ee47/commits",
+    "id": "eb1a7ceb2a3cf12e647441c78073ee47",
+    "node_id": "G_kwDOAhGyL9oAIGViMWE3Y2ViMmEzY2YxMmU2NDc0NDFjNzgwNzNlZTQ3",
+    "git_pull_url": "https://gist.github.com/eb1a7ceb2a3cf12e647441c78073ee47.git",
+    "git_push_url": "https://gist.github.com/eb1a7ceb2a3cf12e647441c78073ee47.git",
+    "html_url": "https://gist.github.com/crmnl2017/eb1a7ceb2a3cf12e647441c78073ee47",
     "files": {
-      "index.html": {
-        "filename": "index.html",
-        "type": "text/html",
-        "language": "HTML",
-        "raw_url": "https://gist.githubusercontent.com/Chuah-xiao/b9178b38026e80b5d5301bcb5293c1c3/raw/257185c37483bcefa2fffa8d2644cf39a424ec41/index.html",
-        "size": 2129
-      },
-      "untitled.markdown": {
-        "filename": "untitled.markdown",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/Chuah-xiao/b9178b38026e80b5d5301bcb5293c1c3/raw/1e95c368076f09c88343f6e82eb850b003b68047/untitled.markdown",
-        "size": 227
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-29T09:36:32Z",
-    "updated_at": "2025-11-29T09:36:32Z",
-    "description": "Untitled",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/b9178b38026e80b5d5301bcb5293c1c3/comments",
-    "owner": {
-      "login": "Chuah-xiao",
-      "id": 246826269,
-      "node_id": "U_kgDODrZFHQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/246826269?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/Chuah-xiao",
-      "html_url": "https://github.com/Chuah-xiao",
-      "followers_url": "https://api.github.com/users/Chuah-xiao/followers",
-      "following_url": "https://api.github.com/users/Chuah-xiao/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Chuah-xiao/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Chuah-xiao/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Chuah-xiao/subscriptions",
-      "organizations_url": "https://api.github.com/users/Chuah-xiao/orgs",
-      "repos_url": "https://api.github.com/users/Chuah-xiao/repos",
-      "events_url": "https://api.github.com/users/Chuah-xiao/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Chuah-xiao/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/c54297a9b6e0c6784874d400f551ab6e",
-    "forks_url": "https://api.github.com/gists/c54297a9b6e0c6784874d400f551ab6e/forks",
-    "commits_url": "https://api.github.com/gists/c54297a9b6e0c6784874d400f551ab6e/commits",
-    "id": "c54297a9b6e0c6784874d400f551ab6e",
-    "node_id": "G_kwDOBPWks9oAIGM1NDI5N2E5YjZlMGM2Nzg0ODc0ZDQwMGY1NTFhYjZl",
-    "git_pull_url": "https://gist.github.com/c54297a9b6e0c6784874d400f551ab6e.git",
-    "git_push_url": "https://gist.github.com/c54297a9b6e0c6784874d400f551ab6e.git",
-    "html_url": "https://gist.github.com/GSQZ/c54297a9b6e0c6784874d400f551ab6e",
-    "files": {
-      "gistfile1.txt": {
-        "filename": "gistfile1.txt",
+      "index.pug": {
+        "filename": "index.pug",
         "type": "text/plain",
-        "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/GSQZ/c54297a9b6e0c6784874d400f551ab6e/raw/7905a3781c3ce57cabd1fa64e3ea2b4cca3563f2/gistfile1.txt",
-        "size": 40
+        "language": "Pug",
+        "raw_url": "https://gist.githubusercontent.com/crmnl2017/eb1a7ceb2a3cf12e647441c78073ee47/raw/dedcef30435be0b9267fc278b7524980a57b851c/index.pug",
+        "size": 453
+      },
+      "prism-music-visualizer.markdown": {
+        "filename": "prism-music-visualizer.markdown",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/crmnl2017/eb1a7ceb2a3cf12e647441c78073ee47/raw/a98ad730a50006b6dd245e5ab022c7b914044769/prism-music-visualizer.markdown",
+        "size": 660
+      },
+      "script.js": {
+        "filename": "script.js",
+        "type": "text/javascript",
+        "language": "JavaScript",
+        "raw_url": "https://gist.githubusercontent.com/crmnl2017/eb1a7ceb2a3cf12e647441c78073ee47/raw/3b04c00b4c0d678ec58523241a46691b5f04c646/script.js",
+        "size": 11798
+      },
+      "scripts": {
+        "filename": "scripts",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/crmnl2017/eb1a7ceb2a3cf12e647441c78073ee47/raw/767def7f7615c93392b3755f6419443407b55567/scripts",
+        "size": 92
+      },
+      "style.scss": {
+        "filename": "style.scss",
+        "type": "text/plain",
+        "language": "SCSS",
+        "raw_url": "https://gist.githubusercontent.com/crmnl2017/eb1a7ceb2a3cf12e647441c78073ee47/raw/c1803b28b62fa3363a2ed0b6cb53dcd3044202b3/style.scss",
+        "size": 1979
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:35:47Z",
-    "updated_at": "2025-11-29T09:35:47Z",
-    "description": "PublicZone email hash verification",
+    "created_at": "2025-11-29T09:48:48Z",
+    "updated_at": "2025-11-29T09:48:49Z",
+    "description": "Prism music visualizer",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/c54297a9b6e0c6784874d400f551ab6e/comments",
+    "comments_url": "https://api.github.com/gists/eb1a7ceb2a3cf12e647441c78073ee47/comments",
     "owner": {
-      "login": "GSQZ",
-      "id": 83207347,
-      "node_id": "MDQ6VXNlcjgzMjA3MzQ3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/83207347?v=4",
+      "login": "crmnl2017",
+      "id": 34714159,
+      "node_id": "MDQ6VXNlcjM0NzE0MTU5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34714159?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/GSQZ",
-      "html_url": "https://github.com/GSQZ",
-      "followers_url": "https://api.github.com/users/GSQZ/followers",
-      "following_url": "https://api.github.com/users/GSQZ/following{/other_user}",
-      "gists_url": "https://api.github.com/users/GSQZ/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/GSQZ/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/GSQZ/subscriptions",
-      "organizations_url": "https://api.github.com/users/GSQZ/orgs",
-      "repos_url": "https://api.github.com/users/GSQZ/repos",
-      "events_url": "https://api.github.com/users/GSQZ/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/GSQZ/received_events",
+      "url": "https://api.github.com/users/crmnl2017",
+      "html_url": "https://github.com/crmnl2017",
+      "followers_url": "https://api.github.com/users/crmnl2017/followers",
+      "following_url": "https://api.github.com/users/crmnl2017/following{/other_user}",
+      "gists_url": "https://api.github.com/users/crmnl2017/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/crmnl2017/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/crmnl2017/subscriptions",
+      "organizations_url": "https://api.github.com/users/crmnl2017/orgs",
+      "repos_url": "https://api.github.com/users/crmnl2017/repos",
+      "events_url": "https://api.github.com/users/crmnl2017/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/crmnl2017/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -1946,31 +1358,80 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/e51c761b08d54446393ab0e153bda9f1",
-    "forks_url": "https://api.github.com/gists/e51c761b08d54446393ab0e153bda9f1/forks",
-    "commits_url": "https://api.github.com/gists/e51c761b08d54446393ab0e153bda9f1/commits",
-    "id": "e51c761b08d54446393ab0e153bda9f1",
-    "node_id": "G_kwDODVysYtoAIGU1MWM3NjFiMDhkNTQ0NDYzOTNhYjBlMTUzYmRhOWYx",
-    "git_pull_url": "https://gist.github.com/e51c761b08d54446393ab0e153bda9f1.git",
-    "git_push_url": "https://gist.github.com/e51c761b08d54446393ab0e153bda9f1.git",
-    "html_url": "https://gist.github.com/freederia/e51c761b08d54446393ab0e153bda9f1",
+    "url": "https://api.github.com/gists/3e5aff192c95ad590929580feb001c4f",
+    "forks_url": "https://api.github.com/gists/3e5aff192c95ad590929580feb001c4f/forks",
+    "commits_url": "https://api.github.com/gists/3e5aff192c95ad590929580feb001c4f/commits",
+    "id": "3e5aff192c95ad590929580feb001c4f",
+    "node_id": "G_kwDODWLEN9oAIDNlNWFmZjE5MmM5NWFkNTkwOTI5NTgwZmViMDAxYzRm",
+    "git_pull_url": "https://gist.github.com/3e5aff192c95ad590929580feb001c4f.git",
+    "git_push_url": "https://gist.github.com/3e5aff192c95ad590929580feb001c4f.git",
+    "html_url": "https://gist.github.com/ayesha-rightsteps/3e5aff192c95ad590929580feb001c4f",
     "files": {
-      "Enhanced_Catalytic_Efficiency_in_PET_Chemical_Depolymerization_via_Adaptive_Feedback_Control_of_Mult.md": {
-        "filename": "Enhanced_Catalytic_Efficiency_in_PET_Chemical_Depolymerization_via_Adaptive_Feedback_Control_of_Mult.md",
+      "catagochi.md": {
+        "filename": "catagochi.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/freederia/e51c761b08d54446393ab0e153bda9f1/raw/97dff8b168fc0ac54e0ed566fdd8d4b420196f41/Enhanced_Catalytic_Efficiency_in_PET_Chemical_Depolymerization_via_Adaptive_Feedback_Control_of_Mult.md",
-        "size": 22049
+        "raw_url": "https://gist.githubusercontent.com/ayesha-rightsteps/3e5aff192c95ad590929580feb001c4f/raw/da45b137deb672e2e9b3d13f8c56054861515cb1/catagochi.md",
+        "size": 28623
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:35:15Z",
-    "updated_at": "2025-11-29T09:35:15Z",
-    "description": "[DOCS] Enhanced Catalytic Efficiency in PET Chemical Depolymerization via Adaptive Feedback Control of Multi-Phase Microreactor Dynamics (Published: 2025-11-29 18:35:12)",
+    "created_at": "2025-11-29T09:48:33Z",
+    "updated_at": "2025-11-29T09:52:45Z",
+    "description": "",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/e51c761b08d54446393ab0e153bda9f1/comments",
+    "comments_url": "https://api.github.com/gists/3e5aff192c95ad590929580feb001c4f/comments",
+    "owner": {
+      "login": "ayesha-rightsteps",
+      "id": 224576567,
+      "node_id": "U_kgDODWLENw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224576567?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ayesha-rightsteps",
+      "html_url": "https://github.com/ayesha-rightsteps",
+      "followers_url": "https://api.github.com/users/ayesha-rightsteps/followers",
+      "following_url": "https://api.github.com/users/ayesha-rightsteps/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ayesha-rightsteps/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ayesha-rightsteps/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ayesha-rightsteps/subscriptions",
+      "organizations_url": "https://api.github.com/users/ayesha-rightsteps/orgs",
+      "repos_url": "https://api.github.com/users/ayesha-rightsteps/repos",
+      "events_url": "https://api.github.com/users/ayesha-rightsteps/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ayesha-rightsteps/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c8af5399577f07a8a6bdf2a2ad2f144c",
+    "forks_url": "https://api.github.com/gists/c8af5399577f07a8a6bdf2a2ad2f144c/forks",
+    "commits_url": "https://api.github.com/gists/c8af5399577f07a8a6bdf2a2ad2f144c/commits",
+    "id": "c8af5399577f07a8a6bdf2a2ad2f144c",
+    "node_id": "G_kwDODVysYtoAIGM4YWY1Mzk5NTc3ZjA3YThhNmJkZjJhMmFkMmYxNDRj",
+    "git_pull_url": "https://gist.github.com/c8af5399577f07a8a6bdf2a2ad2f144c.git",
+    "git_push_url": "https://gist.github.com/c8af5399577f07a8a6bdf2a2ad2f144c.git",
+    "html_url": "https://gist.github.com/freederia/c8af5399577f07a8a6bdf2a2ad2f144c",
+    "files": {
+      "Hyper-Resolution_Semantic_Segmentation_via_Adaptive_Kernel_Convolutional_Recurrence_HSS-AKCR.md": {
+        "filename": "Hyper-Resolution_Semantic_Segmentation_via_Adaptive_Kernel_Convolutional_Recurrence_HSS-AKCR.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/freederia/c8af5399577f07a8a6bdf2a2ad2f144c/raw/11e1702f459d34daa6c501b3069b15a719795beb/Hyper-Resolution_Semantic_Segmentation_via_Adaptive_Kernel_Convolutional_Recurrence_HSS-AKCR.md",
+        "size": 20191
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:48:24Z",
+    "updated_at": "2025-11-29T09:48:24Z",
+    "description": "[DOCS] Hyper-Resolution Semantic Segmentation via Adaptive Kernel Convolutional Recurrence (HSS-AKCR) (Published: 2025-11-29 18:48:21)",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/c8af5399577f07a8a6bdf2a2ad2f144c/comments",
     "owner": {
       "login": "freederia",
       "id": 224177250,
@@ -1995,31 +1456,31 @@
     "truncated": false
   },
   {
-    "url": "https://api.github.com/gists/ceaf77436d9c8f33ef59652e9a965050",
-    "forks_url": "https://api.github.com/gists/ceaf77436d9c8f33ef59652e9a965050/forks",
-    "commits_url": "https://api.github.com/gists/ceaf77436d9c8f33ef59652e9a965050/commits",
-    "id": "ceaf77436d9c8f33ef59652e9a965050",
-    "node_id": "G_kwDOAWatx9oAIGNlYWY3NzQzNmQ5YzhmMzNlZjU5NjUyZTlhOTY1MDUw",
-    "git_pull_url": "https://gist.github.com/ceaf77436d9c8f33ef59652e9a965050.git",
-    "git_push_url": "https://gist.github.com/ceaf77436d9c8f33ef59652e9a965050.git",
-    "html_url": "https://gist.github.com/HugsLibRecordKeeper/ceaf77436d9c8f33ef59652e9a965050",
+    "url": "https://api.github.com/gists/d80c921883ac2b62260531e2bf3050c8",
+    "forks_url": "https://api.github.com/gists/d80c921883ac2b62260531e2bf3050c8/forks",
+    "commits_url": "https://api.github.com/gists/d80c921883ac2b62260531e2bf3050c8/commits",
+    "id": "d80c921883ac2b62260531e2bf3050c8",
+    "node_id": "G_kwDOAWatx9oAIGQ4MGM5MjE4ODNhYzJiNjIyNjA1MzFlMmJmMzA1MGM4",
+    "git_pull_url": "https://gist.github.com/d80c921883ac2b62260531e2bf3050c8.git",
+    "git_push_url": "https://gist.github.com/d80c921883ac2b62260531e2bf3050c8.git",
+    "html_url": "https://gist.github.com/HugsLibRecordKeeper/d80c921883ac2b62260531e2bf3050c8",
     "files": {
       "output_log.txt": {
         "filename": "output_log.txt",
         "type": "text/plain",
         "language": "Text",
-        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/ceaf77436d9c8f33ef59652e9a965050/raw/0a6c8a335b9f8a4e13bca7e3453265a7aeac74c5/output_log.txt",
-        "size": 650731
+        "raw_url": "https://gist.githubusercontent.com/HugsLibRecordKeeper/d80c921883ac2b62260531e2bf3050c8/raw/84b4c15084b100899b98dde1959b4f85bfb6b3e6/output_log.txt",
+        "size": 681365
       }
     },
     "public": true,
-    "created_at": "2025-11-29T09:34:51Z",
-    "updated_at": "2025-11-29T09:34:51Z",
+    "created_at": "2025-11-29T09:48:14Z",
+    "updated_at": "2025-11-29T09:48:15Z",
     "description": "Rimworld output log published using HugsLib",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/ceaf77436d9c8f33ef59652e9a965050/comments",
+    "comments_url": "https://api.github.com/gists/d80c921883ac2b62260531e2bf3050c8/comments",
     "owner": {
       "login": "HugsLibRecordKeeper",
       "id": 23506375,
@@ -2037,6 +1498,265 @@
       "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
       "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
       "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/70ec6e5ad409189ef34ea243fe9e5d20",
+    "forks_url": "https://api.github.com/gists/70ec6e5ad409189ef34ea243fe9e5d20/forks",
+    "commits_url": "https://api.github.com/gists/70ec6e5ad409189ef34ea243fe9e5d20/commits",
+    "id": "70ec6e5ad409189ef34ea243fe9e5d20",
+    "node_id": "G_kwDOCO64MtoAIDcwZWM2ZTVhZDQwOTE4OWVmMzRlYTI0M2ZlOWU1ZDIw",
+    "git_pull_url": "https://gist.github.com/70ec6e5ad409189ef34ea243fe9e5d20.git",
+    "git_push_url": "https://gist.github.com/70ec6e5ad409189ef34ea243fe9e5d20.git",
+    "html_url": "https://gist.github.com/nhb789/70ec6e5ad409189ef34ea243fe9e5d20",
+    "files": {
+      "publiczone-email-hash.txt": {
+        "filename": "publiczone-email-hash.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/nhb789/70ec6e5ad409189ef34ea243fe9e5d20/raw/735c55af80ab2435bd7cdaaeb3839511691f9e04/publiczone-email-hash.txt",
+        "size": 40
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:48:12Z",
+    "updated_at": "2025-11-29T09:50:06Z",
+    "description": "PublicZone email hash verification",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/70ec6e5ad409189ef34ea243fe9e5d20/comments",
+    "owner": {
+      "login": "nhb789",
+      "id": 149862450,
+      "node_id": "U_kgDOCO64Mg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149862450?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nhb789",
+      "html_url": "https://github.com/nhb789",
+      "followers_url": "https://api.github.com/users/nhb789/followers",
+      "following_url": "https://api.github.com/users/nhb789/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nhb789/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nhb789/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nhb789/subscriptions",
+      "organizations_url": "https://api.github.com/users/nhb789/orgs",
+      "repos_url": "https://api.github.com/users/nhb789/repos",
+      "events_url": "https://api.github.com/users/nhb789/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nhb789/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2b927ceccc49508ad1f795d7e32fccbb",
+    "forks_url": "https://api.github.com/gists/2b927ceccc49508ad1f795d7e32fccbb/forks",
+    "commits_url": "https://api.github.com/gists/2b927ceccc49508ad1f795d7e32fccbb/commits",
+    "id": "2b927ceccc49508ad1f795d7e32fccbb",
+    "node_id": "G_kwDOAxBq7toAIDJiOTI3Y2VjY2M0OTUwOGFkMWY3OTVkN2UzMmZjY2Ji",
+    "git_pull_url": "https://gist.github.com/2b927ceccc49508ad1f795d7e32fccbb.git",
+    "git_push_url": "https://gist.github.com/2b927ceccc49508ad1f795d7e32fccbb.git",
+    "html_url": "https://gist.github.com/suhasksv/2b927ceccc49508ad1f795d7e32fccbb",
+    "files": {
+      "drag_eqn.md": {
+        "filename": "drag_eqn.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/suhasksv/2b927ceccc49508ad1f795d7e32fccbb/raw/152290bd42012cb9a4f8c613018fc9dac34bdb8b/drag_eqn.md",
+        "size": 1772
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:48:05Z",
+    "updated_at": "2025-11-29T09:49:59Z",
+    "description": "",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/2b927ceccc49508ad1f795d7e32fccbb/comments",
+    "owner": {
+      "login": "suhasksv",
+      "id": 51407598,
+      "node_id": "MDQ6VXNlcjUxNDA3NTk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51407598?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/suhasksv",
+      "html_url": "https://github.com/suhasksv",
+      "followers_url": "https://api.github.com/users/suhasksv/followers",
+      "following_url": "https://api.github.com/users/suhasksv/following{/other_user}",
+      "gists_url": "https://api.github.com/users/suhasksv/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/suhasksv/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/suhasksv/subscriptions",
+      "organizations_url": "https://api.github.com/users/suhasksv/orgs",
+      "repos_url": "https://api.github.com/users/suhasksv/repos",
+      "events_url": "https://api.github.com/users/suhasksv/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/suhasksv/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/bc5c153c25b71a4608d83e4337ce58f7",
+    "forks_url": "https://api.github.com/gists/bc5c153c25b71a4608d83e4337ce58f7/forks",
+    "commits_url": "https://api.github.com/gists/bc5c153c25b71a4608d83e4337ce58f7/commits",
+    "id": "bc5c153c25b71a4608d83e4337ce58f7",
+    "node_id": "G_kwDOAF-wA9oAIGJjNWMxNTNjMjViNzFhNDYwOGQ4M2U0MzM3Y2U1OGY3",
+    "git_pull_url": "https://gist.github.com/bc5c153c25b71a4608d83e4337ce58f7.git",
+    "git_push_url": "https://gist.github.com/bc5c153c25b71a4608d83e4337ce58f7.git",
+    "html_url": "https://gist.github.com/choco-bot/bc5c153c25b71a4608d83e4337ce58f7",
+    "files": {
+      "Install.txt": {
+        "filename": "Install.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/bc5c153c25b71a4608d83e4337ce58f7/raw/258b8307625a4967992d7757f47e0f229cdec328/Install.txt",
+        "size": 48139
+      },
+      "Uninstall.txt": {
+        "filename": "Uninstall.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/bc5c153c25b71a4608d83e4337ce58f7/raw/7d363b43e32f2ba3e75b1ec34f1e1f4405ff882b/Uninstall.txt",
+        "size": 26198
+      },
+      "_Summary.md": {
+        "filename": "_Summary.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/choco-bot/bc5c153c25b71a4608d83e4337ce58f7/raw/75b7b4fd2ca331b6bbfe3c8cbbed2af1c97d6fd3/_Summary.md",
+        "size": 488
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:47:53Z",
+    "updated_at": "2025-11-29T09:47:54Z",
+    "description": "metapad-light v3.6 - Passed - Package Tests Results",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/bc5c153c25b71a4608d83e4337ce58f7/comments",
+    "owner": {
+      "login": "choco-bot",
+      "id": 6270979,
+      "node_id": "MDQ6VXNlcjYyNzA5Nzk=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6270979?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/choco-bot",
+      "html_url": "https://github.com/choco-bot",
+      "followers_url": "https://api.github.com/users/choco-bot/followers",
+      "following_url": "https://api.github.com/users/choco-bot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/choco-bot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/choco-bot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/choco-bot/subscriptions",
+      "organizations_url": "https://api.github.com/users/choco-bot/orgs",
+      "repos_url": "https://api.github.com/users/choco-bot/repos",
+      "events_url": "https://api.github.com/users/choco-bot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/choco-bot/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/dd2b47fa8739776a6edfdd9f0d663d35",
+    "forks_url": "https://api.github.com/gists/dd2b47fa8739776a6edfdd9f0d663d35/forks",
+    "commits_url": "https://api.github.com/gists/dd2b47fa8739776a6edfdd9f0d663d35/commits",
+    "id": "dd2b47fa8739776a6edfdd9f0d663d35",
+    "node_id": "G_kwDOAAzd_toAIGRkMmI0N2ZhODczOTc3NmE2ZWRmZGQ5ZjBkNjYzZDM1",
+    "git_pull_url": "https://gist.github.com/dd2b47fa8739776a6edfdd9f0d663d35.git",
+    "git_push_url": "https://gist.github.com/dd2b47fa8739776a6edfdd9f0d663d35.git",
+    "html_url": "https://gist.github.com/cnleo/dd2b47fa8739776a6edfdd9f0d663d35",
+    "files": {
+      "pseudo_random_alphanumchar_bash.txt": {
+        "filename": "pseudo_random_alphanumchar_bash.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/cnleo/dd2b47fa8739776a6edfdd9f0d663d35/raw/3e01abeeb8d972964e047b0816c6c531042b4080/pseudo_random_alphanumchar_bash.txt",
+        "size": 380
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:46:23Z",
+    "updated_at": "2025-11-29T09:46:23Z",
+    "description": "Pseudo Random Alphanumeric Char In Bash",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/dd2b47fa8739776a6edfdd9f0d663d35/comments",
+    "owner": {
+      "login": "cnleo",
+      "id": 843262,
+      "node_id": "MDQ6VXNlcjg0MzI2Mg==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/843262?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/cnleo",
+      "html_url": "https://github.com/cnleo",
+      "followers_url": "https://api.github.com/users/cnleo/followers",
+      "following_url": "https://api.github.com/users/cnleo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/cnleo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/cnleo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/cnleo/subscriptions",
+      "organizations_url": "https://api.github.com/users/cnleo/orgs",
+      "repos_url": "https://api.github.com/users/cnleo/repos",
+      "events_url": "https://api.github.com/users/cnleo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/cnleo/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/f6ce5ce0a4fd51c7f0a8c899d24e8635",
+    "forks_url": "https://api.github.com/gists/f6ce5ce0a4fd51c7f0a8c899d24e8635/forks",
+    "commits_url": "https://api.github.com/gists/f6ce5ce0a4fd51c7f0a8c899d24e8635/commits",
+    "id": "f6ce5ce0a4fd51c7f0a8c899d24e8635",
+    "node_id": "G_kwDOAChDxdoAIGY2Y2U1Y2UwYTRmZDUxYzdmMGE4Yzg5OWQyNGU4NjM1",
+    "git_pull_url": "https://gist.github.com/f6ce5ce0a4fd51c7f0a8c899d24e8635.git",
+    "git_push_url": "https://gist.github.com/f6ce5ce0a4fd51c7f0a8c899d24e8635.git",
+    "html_url": "https://gist.github.com/AKST/f6ce5ce0a4fd51c7f0a8c899d24e8635",
+    "files": {
+      "rba-graph-enjoyer.mjs": {
+        "filename": "rba-graph-enjoyer.mjs",
+        "type": "text/javascript",
+        "language": "JavaScript",
+        "raw_url": "https://gist.githubusercontent.com/AKST/f6ce5ce0a4fd51c7f0a8c899d24e8635/raw/94d3d3d3dc6982d2e699ad5ac5ef537d1be47b8c/rba-graph-enjoyer.mjs",
+        "size": 3018
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-29T09:45:46Z",
+    "updated_at": "2025-11-29T09:45:46Z",
+    "description": "",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/f6ce5ce0a4fd51c7f0a8c899d24e8635/comments",
+    "owner": {
+      "login": "AKST",
+      "id": 2638789,
+      "node_id": "MDQ6VXNlcjI2Mzg3ODk=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2638789?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/AKST",
+      "html_url": "https://github.com/AKST",
+      "followers_url": "https://api.github.com/users/AKST/followers",
+      "following_url": "https://api.github.com/users/AKST/following{/other_user}",
+      "gists_url": "https://api.github.com/users/AKST/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/AKST/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/AKST/subscriptions",
+      "organizations_url": "https://api.github.com/users/AKST/orgs",
+      "repos_url": "https://api.github.com/users/AKST/repos",
+      "events_url": "https://api.github.com/users/AKST/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/AKST/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
